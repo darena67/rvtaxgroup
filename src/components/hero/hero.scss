@@ -1,0 +1,50 @@
+@import "../../common/styles/variables.scss";
+
+.hero {
+  .hero__content {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 80px 0;
+    @media screen and (max-width: 1024px) {
+      flex-direction: column-reverse;
+    }
+  }
+  .hero__textContainer {
+    // flex-basis: 50%;
+    h1 {
+      line-height: 1;
+    }
+    button {
+      margin-top: 30px;
+    }
+    .text-highlight {
+      color: $primary-dark;
+    }
+  }
+  .hero__imageContainer {
+    // flex-basis: 50%;
+    align-self: flex-end;
+
+    .hero__image {
+      width: 400px;
+      position: absolute;
+      z-index: -1;
+      bottom: 0;
+      right: 15px;
+    }
+    .hero__quote {
+      background-color: #fff;
+      padding: 45px 85px;
+      font-style: italic;
+      box-shadow: 7px 9px 10px 2px #bbbbbb;
+      position: relative;
+    }
+    .hero__doublequote {
+      width: 70px;
+      position: absolute;
+      left: 10px;
+      top: -35px;
+    }
+  }
+}

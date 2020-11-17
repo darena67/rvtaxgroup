@@ -1,0 +1,36 @@
+@import "../../common/styles/variables.scss";
+
+.aboutCard {
+  img {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .about__title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+
+  &:first-child {
+    margin-bottom: 80px;
+  }
+
+  @media screen and (min-width: 600px) {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    img {
+      width: 250px;
+    }
+    .about__CardContent {
+      margin-left: 40px;
+      align-self: center;
+    }
+    &:last-child {
+      flex-direction: row-reverse;
+      .about__CardContent {
+        margin-left: 0;
+        margin-right: 40px;
+      }
+    }
+  }
+}

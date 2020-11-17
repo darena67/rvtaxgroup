@@ -1,0 +1,55 @@
+@import "../../../common/styles/variables.scss";
+
+.pricingCard {
+  max-width: 500px;
+  padding: 30px;
+  background-color: $light-grey;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  h2 {
+    color: $secondary-light;
+    font-weight: 600;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 20px;
+    @media screen and (min-width: 600px) {
+      margin-bottom: 40px;
+    }
+  }
+  .pricingCard__subtitle {
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    // margin-bottom: 20px;
+  }
+  .pricingCard__pricing {
+    text-align: center;
+    color: $primary-light;
+    margin: 30px 0;
+    @media screen and (min-width: 600px) {
+      margin: 40px 0;
+    }
+  }
+  .pricingCard__featureTitle {
+    margin-bottom: 10px;
+  }
+  ul {
+    list-style: none;
+    margin-bottom: 40px;
+    li {
+      display: flex;
+      padding: 10px 0;
+      img {
+        align-self: flex-start;
+        height: 1rem;
+        object-fit: contain;
+        margin-right: 10px;
+      }
+    }
+  }
+  .btn-container {
+    margin: 20px 0;
+    width: 100%;
+    text-align: center;
+  }
+}
