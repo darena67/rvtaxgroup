@@ -27,6 +27,7 @@ const IndexPage = () => {
   //     }
   //   }
   // `)
+  
   return (
     <div className="home">
       <SEO pageTitle="Home" />

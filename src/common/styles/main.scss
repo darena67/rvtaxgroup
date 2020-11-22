@@ -344,3 +344,26 @@ textarea {
     }
   }
 }
+
+
+.blog{
+  .blog__card_container {
+    display: flex;
+    row-gap: 100px;
+    margin-top: 120px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 40px;
+
+    .blogCard {
+      flex-basis: 100%;
+      @media screen and (min-width: 600px) {
+        flex-basis: 450px;
+      }
+      @media screen and (min-width: 1280px) {
+        flex-basis: 30%;
+      }
+    }
+  }
+}
