@@ -1,4 +1,4 @@
-@import "./variables.scss";
+@import './variables.scss';
 
 * {
   box-sizing: border-box;
@@ -147,7 +147,7 @@ textarea {
   position: relative;
   z-index: 9;
   &::before {
-    content: "";
+    content: '';
     position: absolute;
     bottom: 0;
     left: -5px;
@@ -345,8 +345,7 @@ textarea {
   }
 }
 
-
-.blog{
+.blog {
   .blog__card_container {
     display: flex;
     row-gap: 100px;
@@ -365,5 +364,37 @@ textarea {
         flex-basis: 30%;
       }
     }
+  }
+}
+
+.blog-container {
+  max-width: 700px;
+
+  .blog-content {
+    // margin-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid $light-grey;
+  }
+
+  * + * {
+    margin-top: 26px;
+  }
+}
+
+.blog-header {
+  height: 400px;
+  width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .container {
+    max-width: 1000px;
+    text-align: center;
+  }
+
+  .date {
+    font-size: 0.8rem;
+    margin-bottom: 20px;
   }
 }
