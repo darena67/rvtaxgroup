@@ -13,7 +13,7 @@ const BlogPage = () => {
         edges {
           node {
             frontmatter {
-              featuredImage {
+              thumbnail {
                 childImageSharp {
                   fluid(maxWidth: 400) {
                     ...GatsbyImageSharpFluid
@@ -32,7 +32,7 @@ const BlogPage = () => {
       }
     }
   `);
-    console.log(data)
+  console.log(data);
   return (
     <div className='blog'>
       <SEO pageTitle='Blog' />
@@ -48,9 +48,7 @@ const BlogPage = () => {
             {data.allMarkdownRemark.edges.map((item) => (
               <BlogCard
                 key={item.node.id}
-                image={
-                  item.node.frontmatter.featuredImage?.childImageSharp?.fluid
-                }
+                image={item.node.frontmatter.thumbnail?.childImageSharp?.fluid}
                 title={item.node.frontmatter.title}
                 date={item.node.frontmatter.date}
                 content={item.node.excerpt}

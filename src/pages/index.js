@@ -22,7 +22,7 @@ const IndexPage = () => {
         edges {
           node {
             frontmatter {
-              featuredImage {
+              thumbnail {
                 childImageSharp {
                   fluid(maxWidth: 400) {
                     ...GatsbyImageSharpFluid

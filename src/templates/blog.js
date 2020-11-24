@@ -10,7 +10,7 @@ export const query = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        featuredImage {
+        thumbnail {
           childImageSharp {
             fluid(quality: 80, maxWidth: 1920) {
               ...GatsbyImageSharpFluid_withWebp
@@ -32,7 +32,7 @@ const Blog = (props) => {
           className='blog-header'
           fluid={[
             `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6))`,
-            props.data.markdownRemark.frontmatter.featuredImage.childImageSharp
+            props.data.markdownRemark.frontmatter.thumbnail.childImageSharp
               .fluid,
           ]}
         >
