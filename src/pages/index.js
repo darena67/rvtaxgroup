@@ -9,9 +9,6 @@ import AccountIcon from '../images/icon_accountant.png';
 import CourtIcon from '../images/icon_court.png';
 import TaxIcon from '../images/icon_tax.png';
 
-import BlogImage1 from '../images/blog-1.jpg';
-import BlogImage2 from '../images/blog-2.png';
-import BlogImage3 from '../images/blog-3.png';
 import HomeHero from '../components/hero/hero';
 import SEO from '../components/seo';
 

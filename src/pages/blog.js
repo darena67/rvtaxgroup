@@ -32,7 +32,7 @@ const BlogPage = () => {
       }
     }
   `);
-
+    console.log(data)
   return (
     <div className='blog'>
       <SEO pageTitle='Blog' />
@@ -49,7 +49,7 @@ const BlogPage = () => {
               <BlogCard
                 key={item.node.id}
                 image={
-                  item.node.frontmatter.featuredImage.childImageSharp.fluid
+                  item.node.frontmatter.featuredImage?.childImageSharp?.fluid
                 }
                 title={item.node.frontmatter.title}
                 date={item.node.frontmatter.date}
