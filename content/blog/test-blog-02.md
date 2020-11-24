@@ -3,7 +3,7 @@ path: testpath-2
 date: 2020-11-23T12:29:40.549Z
 title: Test Blog 02
 description: Helloonn
-thumbnail: ../assets/58daeefe-9379-44de-8026-82474d641a57-1-png.png
+thumbnail: ../assets/adobestock_165598422-600x400.png
 ---
 ## Where can I get some?
 
