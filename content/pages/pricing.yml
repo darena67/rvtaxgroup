@@ -1,0 +1,28 @@
+page: pricing
+intro: Find the plan that’s just right for your business
+packages:
+  - name: Basic
+    desc: Ideal for someone who wants to take care themselves of Bookkeeping and
+      Income tax preparation
+    photo: Starting $500 a month
+    feature-title: "Basic Features:"
+    feature:
+      - text: Monthly review of financial reporting
+      - text: Monthly adjusting entries to keep you on GAAP basis and IRS compliant
+      - text: Monthly and quaterly  local tax returns
+  - name: Standard
+    desc: Ideal for someone who wants to do their own  Bookkeeping
+    photo: Starting $800 a month
+    feature-title: "Everything in Basic, and:"
+    feature:
+      - text: Monthly outflow cash projections.
+      - text: Quaterly Estimated Tax Vouchers.
+      - text: Business Income Tax Return.
+  - name: Advanced
+    desc: No worries, everything included plan
+    photo: Starting $1300 a month
+    feature-title: "Everything in Standard, and:"
+    feature:
+      - text: Bookkeeping
+      - text: Cloud backup of important business documentation
+      - text: Help with Gusto set up
