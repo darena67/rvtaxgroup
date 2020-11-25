@@ -1,0 +1,31 @@
+page: services
+intro: "We are a one-stop-shop serving small cannabis businesses in the state of
+  California. We handle all the essential accounting functions required by the
+  IRS and local authorities. Eliminate your worries by outsourcing to us the
+  following tasks:"
+services_list:
+  - title: Business and Individual
+    subtitle: TAX PREPARATION
+    desc: We help businesses make sense of their financial performance and reduce
+      the tax impacts for their owners through the following monthly plans
+    service_image: ../assets/image5-1.jpg
+  - title: Excise, Cultivation, SUT and City tax returns
+    subtitle: PREPARATION AND FILING
+    desc: We help businesses make sense of their financial performance and reduce
+      the tax impacts for their owners through the following monthly plans
+    service_image: ../assets/image2-2.png
+  - title: Bookkeeping
+    subtitle: CANNABIS AND ANCILLARY COMPANIES
+    desc: We help businesses make sense of their financial performance and reduce
+      the tax impacts for their owners through the following monthly plans
+    service_image: ../assets/image3-1.png
+  - title: Point of Sale Software
+    subtitle: SET UP AND AUDIT OF TAX SETTINGS
+    desc: We help businesses make sense of their financial performance and reduce
+      the tax impacts for their owners through the following monthly plans
+    service_image: ../assets/image6-1.png
+  - title: IRS, FTB & CDTFA
+    subtitle: REPRISENTATION
+    desc: We help businesses make sense of their financial performance and reduce
+      the tax impacts for their owners through the following monthly plans
+    service_image: ../assets/pexels-thirdman-5060557-1-.png
