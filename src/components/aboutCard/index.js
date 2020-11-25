@@ -1,22 +1,14 @@
 import React from "react"
 import "./about-card.scss"
+import Img from "gatsby-image"
 
-const AboutCard = ({ image, name }) => {
+const AboutCard = ({  name, photo, desc, position }) => {
   return (
     <div className="aboutCard">
-      <img src={image} alt="Svetlana" />
+      <Img fluid={photo} className="about__photo"/>
       <div className="about__CardContent">
-        <h3 className="about__title">{name}</h3>
-        <p>
-          Svetlana has over ten years of various accounting experience. She has
-          worked on the audit side of public accounting and held a couple of
-          senior accountant positions in the banking and tourism industries.
-        </p>
-        <p>
-          Svetlana is a Quickbooks expert and an accounting wizard. At Red Eye
-          CPA Svetlana is in charge of Cannabis bookkeeping and preparation of
-          financial statements.
-        </p>
+      <h3 className="about__title">{name}<span>{position}</span></h3>
+        <div className="about__description" dangerouslySetInnerHTML={{ __html: desc }}></div>
       </div>
     </div>
   )

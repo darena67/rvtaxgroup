@@ -33,6 +33,14 @@ footer{
         .footer__logo{
             height: 60px;
         }
+        .footer__socialIcons{
+            font-size: 3rem;
+            color: $secondary-light;
+            transition: .3s;
+            &:hover{
+                color: darken($secondary-light, 10%);
+            }
+        }
         .footer__contact span{
             display: block;
             padding: 3px 0;

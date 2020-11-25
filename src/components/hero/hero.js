@@ -10,6 +10,9 @@ import "./home-hero.scss"
 const HomeHero = () => {
   const data = useStaticQuery(graphql`
     query {
+      pagesYaml(page: {eq: "home"}) {
+        hero_quote
+      }
       backgroundImage: file(relativePath: { eq: "hero-bg.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 1920) {
@@ -31,14 +34,18 @@ const HomeHero = () => {
 
         <div className="hero__blockquote">
           <img src={HeroQuotes} alt="" className="hero__doublequote" />
-          <p>
+          {/* <p>
             Hi! I am Daria. I am here to take accounting stress out of your
             cannabis business.
           </p>
           <p>
             Cannabis CPA serving dispensaries, distributors and cultivators in
             the state of California.
-          </p>
+          </p> */}
+          <div
+            className='hero__quote'
+            dangerouslySetInnerHTML={{ __html: data.pagesYaml.hero_quote }}
+          ></div>
         </div>
         <h1 className="hero__text">
           Do you want to pay less in

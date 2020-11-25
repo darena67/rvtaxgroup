@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link,useStaticQuery,graphql } from "gatsby"
 import Layout from "../components/layout"
 import HeroOther from "../components/heroOthers"
 import PricingIllustration from "../images/illustration/pricing-illustration.png"
@@ -17,6 +17,23 @@ import Certification2 from "../images/pricing_certification2.png"
 import SEO from "../components/seo"
 
 const PricingPage = () => {
+  let data = useStaticQuery(graphql`
+    query PricingPage {
+      pagesYaml(page: {eq: "pricing"}) {
+        intro
+        packages {
+          feature_title
+          feature {
+            text
+          }
+          name
+          desc
+          pricing
+        }
+      }
+    }
+  `);
+    data = data.pagesYaml;
   return (
     <div className="pricing">
       <SEO pageTitle="Pricing" />
@@ -25,15 +42,17 @@ const PricingPage = () => {
           title="pricing"
           subtitle={["Find the plan that’s just right for your business"]}
           image={PricingIllustration}
+          intro={data.intro}
         />
         <div className="pricing__cardContainer section container">
-          {db.pricing.map(item => (
+
+          {data.packages.map((item,index) => (
             <PricingCard
-              key={item.id}
-              title={item.title}
-              subtitle={item.subtitle}
+              key={index}
+              title={item.name}
+              subtitle={item.desc}
               price={item.pricing}
-              featureTitle={item.featureTitle}
+              featureTitle={item.feature_title}
               feature={item.feature}
             />
           ))}

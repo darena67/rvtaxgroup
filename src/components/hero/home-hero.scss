@@ -12,6 +12,10 @@
       background-color: #fff;
       padding: 20px;
       font-style: italic;
+
+      .hero__quote{
+        white-space: pre-line;
+      }
       p:last-child {
         margin-bottom: 0;
       }

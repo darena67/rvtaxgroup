@@ -1,11 +1,13 @@
 import React from "react"
 import "./service-card.scss"
+import Img from 'gatsby-image'
 
 const ServicePageCard = ({ image, title, subtitle, content }) => {
   return (
     <div className="servicePageCard">
       <div className="servicePageCard__image">
-        <img src={image} alt="service card" />
+        {/* <img src={image} alt="service card" /> */}
+        <Img fluid={image} alt="service card" />
       </div>
       <div className="servicePageCard__content">
         <h3>{title}</h3>

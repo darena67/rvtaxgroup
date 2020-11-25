@@ -8,7 +8,10 @@ import SEO from '../components/seo';
 
 const BlogPage = () => {
   const data = useStaticQuery(graphql`
-    query Myquery {
+    query BlogPage {
+      pagesYaml(page: {eq: "blog"}) {
+        intro
+      }
       allMarkdownRemark {
         edges {
           node {
@@ -32,15 +35,14 @@ const BlogPage = () => {
       }
     }
   `);
-  console.log(data);
   return (
     <div className='blog'>
       <SEO pageTitle='Blog' />
       <Layout>
         <HeroOther
           title='blog'
-          subtitle={['Check out our latest blogs']}
           image={BlogIllustration}
+          intro={data.pagesYaml.intro}
         />
 
         <div className='container section'>

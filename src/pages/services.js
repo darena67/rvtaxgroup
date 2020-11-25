@@ -1,15 +1,34 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, useStaticQuery, graphql } from "gatsby"
 import HeroOther from "../components/heroOthers"
 import Layout from "../components/layout"
 import ServicesIllustration from "../images/illustration/service-illustration.png"
-import db from "../data/data"
 import ServicePageCard from "../components/cards/service-card"
 
-import AboutImage from "../images/about_1.png"
 import SEO from "../components/seo"
 
 const ServicePage = () => {
+  let data = useStaticQuery(graphql`
+    query ServicePage {
+      pagesYaml(page: {eq: "services"}) {
+        intro
+        services_list {
+          title
+          subtitle
+          desc
+          service_image{
+            childImageSharp {
+              fluid(maxWidth: 200) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+      }
+    }
+  `);
+  data = data.pagesYaml;
+    console.log(data.intro)
   return (
     <div className="service">
       <SEO pageTitle="Services" />
@@ -20,16 +39,18 @@ const ServicePage = () => {
             "We are a one-stop-shop serving small cannabis businesses in the state of California. We handle all the essential accounting functions required by the IRS and local authorities. Eliminate your worries by outsourcing to us the following  tasks:",
           ]}
           image={ServicesIllustration}
+          intro={data.intro}
         />
         <div className="container section">
-          {db.service.map(item => (
+          {data.services_list.map((item,index) =>(
             <ServicePageCard
-              key={item.id}
-              image={AboutImage}
-              title={item.title}
-              subtitle={item.subtitle}
-              content={item.content}
-            />
+            key={index}
+            image={item.service_image.childImageSharp.fluid}
+            title={item.title}
+            subtitle={item.subtitle}
+            content={item.desc}
+            
+          />
           ))}
         </div>
         <div className="cta-section container text-center">

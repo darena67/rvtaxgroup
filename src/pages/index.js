@@ -94,7 +94,7 @@ const IndexPage = () => {
                 <BlogCard
                   key={item.node.id}
                   image={
-                    item.node.frontmatter.featuredImage.childImageSharp.fluid
+                    item.node.frontmatter.thumbnail.childImageSharp.fluid
                   }
                   title={item.node.frontmatter.title}
                   date={item.node.frontmatter.date}

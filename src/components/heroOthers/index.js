@@ -3,16 +3,16 @@ import { Link } from "gatsby"
 
 import "./hero-others.scss"
 
-const HeroOther = ({ title, subtitle, image }) => {
+const HeroOther = ({ title, subtitle, image, intro }) => {
   return (
     <div className="heroOther">
       <div className="container">
         <div className="heroOther__content">
           <h1 className="heroOther__title">{title}</h1>
-          {subtitle.map(item => (
+          {/* {subtitle.map(item => (
             <h3 className="heroOther__subtitle">{item}</h3>
-          ))}
-
+          ))} */}
+          <h3  className="heroOther__subtitle">{intro}</h3>
           <Link to="/contact" className="heroOther__cta btn">
             Get Started
           </Link>

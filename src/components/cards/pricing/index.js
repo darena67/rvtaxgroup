@@ -9,13 +9,13 @@ const PricingCard = ({ title, subtitle, price, featureTitle, feature }) => {
     <div className="pricingCard">
       <h2>{title}</h2>
       <p className="pricingCard__subtitle">{subtitle}</p>
-      <h3 className="pricingCard__pricing">Starting ${price} a month</h3>
+      <h3 className="pricingCard__pricing">{price}</h3>
       <h4 className="pricingCard__featureTitle">{featureTitle}</h4>
       <ul>
-        {feature.map(item => (
-          <li>
+        {feature.map((item,index) => (
+          <li key={index}>
             <img src={CheckIcon} alt="checkIcon" />
-            {item}
+            {item.text}
           </li>
         ))}
       </ul>
