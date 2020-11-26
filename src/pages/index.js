@@ -5,16 +5,29 @@ import ServiceCard from '../components/cards/home-service';
 
 import Layout from '../components/layout';
 
-import AccountIcon from '../images/icon_accountant.png';
-import CourtIcon from '../images/icon_court.png';
-import TaxIcon from '../images/icon_tax.png';
-
 import HomeHero from '../components/hero/hero';
 import SEO from '../components/seo';
 
+
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
-    query HomeBlogs {
+    query HomePage {
+      pagesYaml(page: {eq: "home"}) {
+        hero_quote
+        home_services {
+          name
+          service {
+            text
+          }
+          icon {
+            childImageSharp {
+              fluid(maxWidth: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+      }
       allMarkdownRemark(
         sort: { fields: frontmatter___date, order: DESC }
         limit: 3
@@ -46,7 +59,7 @@ const IndexPage = () => {
     <div className='home'>
       <SEO pageTitle='Home' />
       <Layout>
-        <HomeHero />
+        <HomeHero heroQuote={data.pagesYaml.hero_quote}/>
         <div className='section service-section'>
           <div className='container'>
             <h2 className='section-title'>Our Services</h2>
@@ -54,33 +67,15 @@ const IndexPage = () => {
               We are the best at our services
             </h3>
             <div className='service__card_container'>
-              <ServiceCard
-                icon={AccountIcon}
-                title='Accounting'
-                content={[
-                  'Accounting Clean Up',
-                  'Audit and Investor Ready financial statements',
-                  'Secure online back up of important documentation',
-                ]}
-              />
-              <ServiceCard
-                icon={CourtIcon}
-                title='Local Tax Compliance'
-                content={[
-                  'Accounting Clean Up',
-                  'Audit and Investor Ready financial statements',
-                  'Secure online back up of important documentation',
-                ]}
-              />
-              <ServiceCard
-                icon={TaxIcon}
-                title='Income Tax Preparation'
-                content={[
-                  'Accounting Clean Up',
-                  'Audit and Investor Ready financial statements',
-                  'Secure online back up of important documentation',
-                ]}
-              />
+              
+             { data.pagesYaml.home_services.map((item,index)=>
+             <ServiceCard
+             key={index}
+             icon={item.icon.childImageSharp.fluid}
+             title={item.name}
+             content={item.service}
+           />
+             )}
             </div>
           </div>
         </div>

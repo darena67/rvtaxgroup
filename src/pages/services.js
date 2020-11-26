@@ -28,7 +28,6 @@ const ServicePage = () => {
     }
   `);
   data = data.pagesYaml;
-    console.log(data.intro)
   return (
     <div className="service">
       <SEO pageTitle="Services" />

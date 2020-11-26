@@ -34,6 +34,7 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
+              - {label: Icon, name: icon, widget: image}
               - label: "Service"
                 name: service
                 widget: list
@@ -78,6 +79,12 @@ collections:
                 widget: list
                 fields:
                   - {label: Text, name: text, widget: string}
+          - label: Faqs
+            name: faqs
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: string}
       - label: "Services Page"
         name: "services"
         file: "content/pages/services.yml"

@@ -4,7 +4,6 @@ import Layout from "../components/layout"
 import HeroOther from "../components/heroOthers"
 import PricingIllustration from "../images/illustration/pricing-illustration.png"
 import PricingCard from "../components/cards/pricing"
-import db from "../data/data"
 
 import Accordion from "@material-ui/core/Accordion"
 import AccordionSummary from "@material-ui/core/AccordionSummary"
@@ -21,6 +20,10 @@ const PricingPage = () => {
     query PricingPage {
       pagesYaml(page: {eq: "pricing"}) {
         intro
+        faqs {
+          answer
+          question
+        }
         packages {
           feature_title
           feature {
@@ -77,23 +80,24 @@ const PricingPage = () => {
               </h6>
             </div>
             <div className="faq__right">
-              {db.pricing_question.map(item => (
-                <Accordion key={item.id}>
-                  <AccordionSummary
-                    expandIcon={<ExpandMoreIcon style={{ color: "white" }} />}
-                    aria-controls="panel1a-content"
-                  >
-                    <Typography className="faq__question">
-                      {item.question}
-                    </Typography>
-                  </AccordionSummary>
-                  <AccordionDetails>
-                    <Typography className="faq__answer">
-                      {item.answer}
-                    </Typography>
-                  </AccordionDetails>
-                </Accordion>
-              ))}
+              
+            {data.faqs.map((item,index)=>(
+              <Accordion key={index}>
+              <AccordionSummary
+                expandIcon={<ExpandMoreIcon style={{ color: "white" }} />}
+                aria-controls="panel1a-content"
+              >
+                <Typography className="faq__question">
+                  {item.question}
+                </Typography>
+              </AccordionSummary>
+              <AccordionDetails>
+                <Typography className="faq__answer">
+                  {item.answer}
+                </Typography>
+              </AccordionDetails>
+            </Accordion>
+            ))}
             </div>
           </div>
         </div>

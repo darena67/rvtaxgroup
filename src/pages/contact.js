@@ -25,10 +25,7 @@ const ContactPage = () => {
       <Layout>
         <HeroOther
           title="contact"
-          subtitle={[
-            "We are here to answer your questions.",
-            "And don’t worry,  we won't charge for a simple phone call.",
-          ]}
+          intro={data.intro}
           image={ContactIllustration}
         />
         <section className="section container">
