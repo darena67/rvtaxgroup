@@ -3,7 +3,7 @@ path: redeyecpa.com
 date: 2020-10-16T20:54:40.922Z
 title: How to fill out form 8300?
 description: Tips on how to file form 8300
-thumbnail: ../assets/image5-1.jpg
+thumbnail: ../assets/med-lounge-3w.jpg
 ---
 So.. you got paid in cash. What now? Well, first of all, spend it wisely.  Second of all, make sure you comply with the IRS cash reporting requirements. 
 
