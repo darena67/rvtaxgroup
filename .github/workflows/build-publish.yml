@@ -1,0 +1,30 @@
+name: Gatsby Build and Publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14'
+      - run: yarn install --frozen-lockfile
+      - run: yarn run build
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          repo: darena67/darena67.github.io
+          target_branch: master
+          build_dir: public
+          jekyll: false
+          fqdn: redeyecpa.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.ACCESS_TOKEN }}
