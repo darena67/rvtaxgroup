@@ -3,7 +3,7 @@ path: kovel_agreement
 date: 2020-11-09T21:33:56.382Z
 title: Kovel Agreement in Cannabis Industry
 description: How to protect communications with your CPA
-thumbnail: ../assets/kovel-agreement.jpg
+thumbnail: ../assets/kovel-agreement-cannabis.jpg
 ---
 If an IRS agent shows up at your door, it means you are in trouble. The IRS does not show up unexpectedly unless there is a criminal investigation. When they do show up, their main goal is to get an admission of guilt. The IRS wants to catch you off guard and make you hyperventilate.
 
