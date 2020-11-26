@@ -26,3 +26,24 @@ packages:
       - text: Bookkeeping
       - text: Cloud backup of important business documentation
       - text: Help with Gusto set up
+faqs:
+  - question: Do you charge by an hour?
+    answer: We avoid billing by the hour whenever possible. It creates ambiguity and
+      makes you worry about your upcoming CPA bill. The only time we are billing
+      by the hour is when we cannot reasonably estimate our time spend on a
+      specific non-recurring project.
+  - answer: We avoid billing by the hour whenever possible. It creates ambiguity and
+      makes you worry about your upcoming CPA bill. The only time we are billing
+      by the hour is when we cannot reasonably estimate our time spend on a
+      specific non-recurring project.
+    question: What is the main difference between the plans?
+  - question: Why software cost is included only in Advanced option?
+    answer: We avoid billing by the hour whenever possible. It creates ambiguity and
+      makes you worry about your upcoming CPA bill. The only time we are billing
+      by the hour is when we cannot reasonably estimate our time spend on a
+      specific non-recurring project.
+  - question: What else is included?
+    answer: We avoid billing by the hour whenever possible. It creates ambiguity and
+      makes you worry about your upcoming CPA bill. The only time we are billing
+      by the hour is when we cannot reasonably estimate our time spend on a
+      specific non-recurring project.
