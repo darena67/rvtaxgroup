@@ -11,13 +11,16 @@ home_services:
       - text: Accounting Clean Up
       - text: "Audit and Investor Ready financial statements "
       - text: Secure online back up of important documentation
+    icon: ../assets/accountant.png
   - name: Local Tax Compliance
     service:
       - text: Sales & Use, Excise, Cultivation and City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
       - text: CDTFA Payment Plans
+    icon: ../assets/court.png
   - name: Income Tax Preparation
     service:
       - text: Section 280E Mitigation
       - text: Tax preparation, planning
       - text: Entity selection
+    icon: ../assets/tax.png
