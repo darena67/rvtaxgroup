@@ -8,9 +8,10 @@ hero_quote: >-
 home_services:
   - name: Cannabis Bookkeeping & Accounting
     service:
-      - text: Accounting Clean Up
-      - text: "Audit and Investor Ready financial statements "
-      - text: Secure online back up of important documentation
+      - text: Accounting set up & clean up
+      - text: Audit and investor ready GAAP financials
+      - text: Full absorption accounting
+      - text: Back up of financial records
     icon: ../assets/accountant.png
   - name: Local Tax Compliance
     service:
