@@ -6,17 +6,19 @@ hero_quote: >-
 
   Cannabis CPA serving dispensaries, distributors, and cultivators in the state of California.
 home_services:
-  - name: Cannabis Bookkeeping & Accounting
+  - name: Cannabis Accounting
     service:
-      - text: Accounting Clean Up
-      - text: "Audit and Investor Ready financial statements "
-      - text: Secure online back up of important documentation
+      - text: Accounting set up & clean up
+      - text: Audit and investor ready GAAP financials
+      - text: Full absorption cost accounting
+      - text: Back up of financial records
     icon: ../assets/accountant.png
   - name: Local Tax Compliance
     service:
       - text: Sales & Use, Excise, Cultivation and City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
       - text: CDTFA Payment Plans
+      - text: Development and review of local tax procedures
     icon: ../assets/court.png
   - name: Income Tax Preparation
     service:
