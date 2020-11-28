@@ -10,7 +10,7 @@ home_services:
     service:
       - text: Accounting set up & clean up
       - text: Audit and investor ready GAAP financials
-      - text: Full absorption accounting
+      - text: Full absorption cost accounting
       - text: Back up of financial records
     icon: ../assets/accountant.png
   - name: Local Tax Compliance
