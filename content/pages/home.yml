@@ -8,9 +8,9 @@ hero_quote: >-
 home_services:
   - name: Cannabis Accounting
     service:
-      - text: Accounting set up & clean up
       - text: GAAP compliant financial statements
       - text: Full absorption cost accounting
+      - text: "Accounting set up & clean up "
       - text: Back up of financial records
     icon: ../assets/accountant.png
   - name: Local Tax Compliance
