@@ -9,7 +9,7 @@ home_services:
   - name: Cannabis Accounting
     service:
       - text: Accounting set up & clean up
-      - text: Audit and investor ready GAAP financials
+      - text: GAAP compliant financial statements
       - text: Full absorption cost accounting
       - text: Back up of financial records
     icon: ../assets/accountant.png
@@ -22,7 +22,8 @@ home_services:
     icon: ../assets/court.png
   - name: Income Tax Preparation
     service:
-      - text: Section 280E Mitigation
-      - text: Tax preparation, planning
+      - text: Section 280E mitigation & 471 compliance
+      - text: Tax preparation & planning
       - text: Entity selection
+      - text: IRS and FTB correspondence and audits
     icon: ../assets/tax.png
