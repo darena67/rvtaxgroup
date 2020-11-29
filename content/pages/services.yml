@@ -25,7 +25,7 @@ services_list:
       deductions on your tax return, you need to make sure that your accounting
       is GAAP compliant. Have you heard of such things as the Absorption method,
       Accrual accounting, and Lower of Cost or Market rule? If not, it's OK
-      because we know what those mean, and we will make sure that you are in
+      because we know what those mean, and we will make sure you are in
       compliance. "
     service_image: ../assets/1.jpg
   - title: Point of Sale Software
