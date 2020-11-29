@@ -13,21 +13,32 @@ services_list:
     service_image: ../assets/tax-preparation-planning.png
   - title: Excise, Cultivation, SUT and City tax returns
     subtitle: PREPARATION AND FILING
-    desc: We help businesses make sense of their financial performance and reduce
-      the tax impacts for their owners through the following monthly plans
+    desc: "With us, you will not worry about missing a deadline for Excise or City
+      tax. We research local guidance, prepare your tax return, and make sure
+      you pay it on time. If needed, we will contact local authorities to sort
+      out a notice in the mail or previous delinquency. We also take care of
+      yearly business personal property and environmental fee returns. "
     service_image: ../assets/2.jpg
   - title: Bookkeeping
     subtitle: CANNABIS AND ANCILLARY COMPANIES
-    desc: We help businesses make sense of their financial performance and reduce
-      the tax impacts for their owners through the following monthly plans
+    desc: "Cannabis bookkeeping can get quite complicated. If you want those
+      deductions on your tax return, you need to make sure that your accounting
+      is GAAP compliant. Have you heard of such things as the Absorption method,
+      Accrual accounting, and Lower of Cost or Market rule? If not, it's OK
+      because we know what those mean, and we will make sure you are in
+      compliance. "
     service_image: ../assets/1.jpg
   - title: Point of Sale Software
     subtitle: SET UP AND AUDIT OF TAX SETTINGS
-    desc: We help businesses make sense of their financial performance and reduce
-      the tax impacts for their owners through the following monthly plans
+    desc: "CDTFA wants its share of Excise and SUT tax. If you under collected, the
+      agency will ask you to pay the missing tax out of pocket. If you
+      over-collected, the agency will want this money too! As a dispensary, you
+      collect those taxes through your Point of Sale System, and very often, its
+      tax settings are incorrect. We help you set up your POS tax withholdings;
+      this way, you do not pay a dime less or more in tax. "
     service_image: ../assets/image6-1.png
   - title: IRS, FTB & CDTFA
-    subtitle: REPRISENTATION
+    subtitle: REPRESENTATION
     desc: We help businesses make sense of their financial performance and reduce
       the tax impacts for their owners through the following monthly plans
     service_image: ../assets/pexels-thirdman-5060557-1-.png
