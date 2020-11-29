@@ -15,10 +15,9 @@ services_list:
     subtitle: PREPARATION AND FILING
     desc: "With us, you will not worry about missing a deadline for Excise or City
       tax. We research local guidance, prepare your tax return, and make sure
-      you pay it on time. If needed, we will contact local authorities on your
-      behalf to sort out a notice in the mail or previous delinquency. We also
-      take care of yearly business personal property and environmental fee
-      returns. "
+      you pay it on time. If needed, we will contact local authorities to sort
+      out a notice in the mail or previous delinquency. We also take care of
+      yearly business personal property and environmental fee returns. "
     service_image: ../assets/2.jpg
   - title: Bookkeeping
     subtitle: CANNABIS AND ANCILLARY COMPANIES
