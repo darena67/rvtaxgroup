@@ -6,8 +6,10 @@ intro: "We are a one-stop-shop serving small cannabis businesses in the state of
 services_list:
   - title: Business and Individual
     subtitle: TAX PREPARATION & PLANNING
-    desc: We help businesses make sense of their financial performance and reduce
-      the tax impacts for their owners through the following monthly plans
+    desc: We provide tax preparation services for cannabis companies and their
+      owners. We focus on Section 280 E mitigation and make sure that no
+      possible deduction is missed. We also provide tax planning and instruct on
+      forms that typically do not need our assistance, such as form 8300
     service_image: ../assets/tax-preparation-planning.png
   - title: Excise, Cultivation, SUT and City tax returns
     subtitle: PREPARATION AND FILING
