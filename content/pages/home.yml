@@ -12,14 +12,14 @@ home_services:
       - text: Full absorption cost accounting
       - text: "Accounting set up & clean up "
       - text: Back up of financial records
-    icon: ../assets/accountant.png
+    icon: ../assets/1.jpg
   - name: Local Tax Compliance
     service:
       - text: Sales & Use, Excise, Cultivation and City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
       - text: CDTFA Payment Plans
       - text: Development and review of local tax procedures
-    icon: ../assets/court.png
+    icon: ../assets/2.jpg
   - name: Income Tax Preparation
     service:
       - text: Section 280E mitigation & 471 compliance
