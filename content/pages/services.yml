@@ -32,9 +32,9 @@ services_list:
     subtitle: SET UP AND AUDIT OF TAX SETTINGS
     desc: "CDTFA wants its share of Excise and SUT tax. If you under collected, the
       agency will ask you to pay the missing tax out of pocket. If you
-      over-collected, the agency will want this money too! What you collect from
-      your customer is done through your Point of Sale System, and very often,
-      its tax settings are incorrect. We help you set up your POS tax settings;
+      over-collected, the agency will want this money too! As a dispensary, you
+      collect those taxes through your Point of Sale System, and very often, its
+      tax settings are incorrect. We help you set up your POS tax withholdings;
       this way, you do not pay a dime less or more in tax. "
     service_image: ../assets/image6-1.png
   - title: IRS, FTB & CDTFA
