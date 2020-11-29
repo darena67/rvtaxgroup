@@ -30,8 +30,12 @@ services_list:
     service_image: ../assets/1.jpg
   - title: Point of Sale Software
     subtitle: SET UP AND AUDIT OF TAX SETTINGS
-    desc: We help businesses make sense of their financial performance and reduce
-      the tax impacts for their owners through the following monthly plans
+    desc: "CDTFA wants its share of Excise and SUT tax. If you under collected, the
+      agency will ask you to pay the missing tax out of pocket. If you
+      over-collected, the agency will want this money too! What you collect from
+      your customer is done through your Point of Sale System, and very often,
+      its tax settings are incorrect. We help you set up your POS tax settings;
+      this way, you do not pay a dime less or more in tax. "
     service_image: ../assets/image6-1.png
   - title: IRS, FTB & CDTFA
     subtitle: REPRISENTATION
