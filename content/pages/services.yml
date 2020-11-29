@@ -13,8 +13,10 @@ services_list:
     service_image: ../assets/tax-preparation-planning.png
   - title: Excise, Cultivation, SUT and City tax returns
     subtitle: PREPARATION AND FILING
-    desc: We help businesses make sense of their financial performance and reduce
-      the tax impacts for their owners through the following monthly plans
+    desc: "With us, you will not worry about missing a deadline for Excise or City
+      tax. We research local guidance, prepare your tax return, and make sure
+      you pay it on time. If needed, we will contact local authorities on your
+      behalf to sort out a notice in the mail or previous delinquency. "
     service_image: ../assets/2.jpg
   - title: Bookkeeping
     subtitle: CANNABIS AND ANCILLARY COMPANIES
