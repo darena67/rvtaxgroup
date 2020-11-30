@@ -10,7 +10,7 @@ services_list:
       owners. We focus on Section 280 E mitigation and make sure that no
       possible deduction is missed. We also provide tax planning and instruct on
       forms that typically do not need our assistance, such as form 8300
-    service_image: ../assets/tax-preparation-planning.png
+    service_image: ../assets/irs-cannabis-icon.jpg
   - title: Excise, Cultivation, SUT and City tax returns
     subtitle: PREPARATION AND FILING
     desc: "With us, you will not worry about missing a deadline for Excise or City
