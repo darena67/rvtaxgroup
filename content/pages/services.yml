@@ -36,9 +36,9 @@ services_list:
       collect those taxes through your Point of Sale System, and very often, its
       tax settings are incorrect. We help you set up your POS tax withholdings;
       this way, you do not pay a dime less or more in tax. "
-    service_image: ../assets/image6-1.png
+    service_image: ../assets/point-of-sale-software.jpg
   - title: IRS, FTB & CDTFA
     subtitle: REPRESENTATION
     desc: We help businesses make sense of their financial performance and reduce
       the tax impacts for their owners through the following monthly plans
-    service_image: ../assets/pexels-thirdman-5060557-1-.png
+    service_image: ../assets/irs-ftb-cdtfa-representation.jpg
