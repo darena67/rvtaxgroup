@@ -26,4 +26,4 @@ home_services:
       - text: Tax preparation & planning
       - text: Entity selection
       - text: IRS and FTB correspondence and audits
-    icon: ../assets/tax.png
+    icon: ../assets/irs-icon.png
