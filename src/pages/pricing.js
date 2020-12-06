@@ -1,24 +1,24 @@
-import React from "react"
-import { Link,useStaticQuery,graphql } from "gatsby"
-import Layout from "../components/layout"
-import HeroOther from "../components/heroOthers"
-import PricingIllustration from "../images/illustration/pricing-illustration.png"
-import PricingCard from "../components/cards/pricing"
+import React from "react";
+import { Link, useStaticQuery, graphql } from "gatsby";
+import Layout from "../components/layout";
+import HeroOther from "../components/heroOthers";
+import PricingIllustration from "../images/illustration/pricing-illustration.png";
+import PricingCard from "../components/cards/pricing";
 
-import Accordion from "@material-ui/core/Accordion"
-import AccordionSummary from "@material-ui/core/AccordionSummary"
-import AccordionDetails from "@material-ui/core/AccordionDetails"
-import Typography from "@material-ui/core/Typography"
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore"
+import Accordion from "@material-ui/core/Accordion";
+import AccordionSummary from "@material-ui/core/AccordionSummary";
+import AccordionDetails from "@material-ui/core/AccordionDetails";
+import Typography from "@material-ui/core/Typography";
+import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
-import Certification1 from "../images/pricing_certification1.png"
-import Certification2 from "../images/pricing_certification2.png"
-import SEO from "../components/seo"
+import Certification1 from "../images/pricing_certification1.png";
+import Certification2 from "../images/pricing_certification2.png";
+import SEO from "../components/seo";
 
 const PricingPage = () => {
   let data = useStaticQuery(graphql`
     query PricingPage {
-      pagesYaml(page: {eq: "pricing"}) {
+      pagesYaml(page: { eq: "pricing" }) {
         intro
         faqs {
           answer
@@ -36,10 +36,13 @@ const PricingPage = () => {
       }
     }
   `);
-    data = data.pagesYaml;
+  data = data.pagesYaml;
   return (
     <div className="pricing">
-      <SEO pageTitle="Pricing" />
+      <SEO
+        pageTitle="Pricing"
+        description="Affordable Cannabis CPA for dispensaries, retailers and growers in the state of California. We offer different pricing packages and we are always at front about our fees.  Check our website for more information."
+      />
       <Layout>
         <HeroOther
           title="pricing"
@@ -48,8 +51,7 @@ const PricingPage = () => {
           intro={data.intro}
         />
         <div className="pricing__cardContainer section container">
-
-          {data.packages.map((item,index) => (
+          {data.packages.map((item, index) => (
             <PricingCard
               key={index}
               title={item.name}
@@ -80,24 +82,23 @@ const PricingPage = () => {
               </h6>
             </div>
             <div className="faq__right">
-              
-            {data.faqs.map((item,index)=>(
-              <Accordion key={index}>
-              <AccordionSummary
-                expandIcon={<ExpandMoreIcon style={{ color: "white" }} />}
-                aria-controls="panel1a-content"
-              >
-                <Typography className="faq__question">
-                  {item.question}
-                </Typography>
-              </AccordionSummary>
-              <AccordionDetails>
-                <Typography className="faq__answer">
-                  {item.answer}
-                </Typography>
-              </AccordionDetails>
-            </Accordion>
-            ))}
+              {data.faqs.map((item, index) => (
+                <Accordion key={index}>
+                  <AccordionSummary
+                    expandIcon={<ExpandMoreIcon style={{ color: "white" }} />}
+                    aria-controls="panel1a-content"
+                  >
+                    <Typography className="faq__question">
+                      {item.question}
+                    </Typography>
+                  </AccordionSummary>
+                  <AccordionDetails>
+                    <Typography className="faq__answer">
+                      {item.answer}
+                    </Typography>
+                  </AccordionDetails>
+                </Accordion>
+              ))}
             </div>
           </div>
         </div>
@@ -112,7 +113,7 @@ const PricingPage = () => {
         </div>
       </Layout>
     </div>
-  )
-}
+  );
+};
 
-export default PricingPage
+export default PricingPage;

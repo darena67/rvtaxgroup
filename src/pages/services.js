@@ -1,22 +1,22 @@
-import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
-import HeroOther from "../components/heroOthers"
-import Layout from "../components/layout"
-import ServicesIllustration from "../images/illustration/service-illustration.png"
-import ServicePageCard from "../components/cards/service-card"
+import React from "react";
+import { Link, useStaticQuery, graphql } from "gatsby";
+import HeroOther from "../components/heroOthers";
+import Layout from "../components/layout";
+import ServicesIllustration from "../images/illustration/service-illustration.png";
+import ServicePageCard from "../components/cards/service-card";
 
-import SEO from "../components/seo"
+import SEO from "../components/seo";
 
 const ServicePage = () => {
   let data = useStaticQuery(graphql`
     query ServicePage {
-      pagesYaml(page: {eq: "services"}) {
+      pagesYaml(page: { eq: "services" }) {
         intro
         services_list {
           title
           subtitle
           desc
-          service_image{
+          service_image {
             childImageSharp {
               fluid(maxWidth: 200) {
                 ...GatsbyImageSharpFluid
@@ -30,7 +30,10 @@ const ServicePage = () => {
   data = data.pagesYaml;
   return (
     <div className="service">
-      <SEO pageTitle="Services" />
+      <SEO
+        pageTitle="Services"
+        description="Red Eye CPA offers affordable accounting services such as Business and Individual Tax Preparation, Local tax returns, Bookkeeping, Set up of POS tax withholdings, and the IRS, FTB and CDTFA representation. Click here to learn more!"
+      />
       <Layout>
         <HeroOther
           title="services"
@@ -41,15 +44,14 @@ const ServicePage = () => {
           intro={data.intro}
         />
         <div className="container section">
-          {data.services_list.map((item,index) =>(
+          {data.services_list.map((item, index) => (
             <ServicePageCard
-            key={index}
-            image={item.service_image.childImageSharp.fluid}
-            title={item.title}
-            subtitle={item.subtitle}
-            content={item.desc}
-            
-          />
+              key={index}
+              image={item.service_image.childImageSharp.fluid}
+              title={item.title}
+              subtitle={item.subtitle}
+              content={item.desc}
+            />
           ))}
         </div>
         <div className="cta-section container text-center">
@@ -60,7 +62,7 @@ const ServicePage = () => {
         </div>
       </Layout>
     </div>
-  )
-}
+  );
+};
 
-export default ServicePage
+export default ServicePage;

@@ -1,8 +1,8 @@
-import React from "react"
-import PhoneIcon from "@material-ui/icons/Phone"
-import MailIcon from "@material-ui/icons/Mail"
-import "./contact-info.scss"
-const ContactInfo = ({phone,address,email}) => {
+import React from "react";
+import PhoneIcon from "@material-ui/icons/Phone";
+import MailIcon from "@material-ui/icons/Mail";
+import "./contact-info.scss";
+const ContactInfo = ({ phone, address, email }) => {
   return (
     <div className="contactInfo">
       <span className="contactInfo__primary">
@@ -11,12 +11,14 @@ const ContactInfo = ({phone,address,email}) => {
       </span>
       <span className="contactInfo__primary">
         <MailIcon />
-       {email}
+        <a href={`mailto:${email}`}>{email}</a>
       </span>
       <div className="contactInfo__section">
         <h3>Our Address</h3>
-        <div className="contact__address" dangerouslySetInnerHTML={{ __html: address }}></div>
-
+        <div
+          className="contact__address"
+          dangerouslySetInnerHTML={{ __html: address }}
+        ></div>
       </div>
       <div className="contactInfo__section">
         <h3>Hours of operation</h3>
@@ -61,7 +63,7 @@ const ContactInfo = ({phone,address,email}) => {
         </table>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default ContactInfo
+export default ContactInfo;

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Red Eye CPA`,
     description: `Cannabis CPA serving dispensaries, distributors and cultivators in the state of California.`,
-    author: `Jithesh Kumar`,
+    author: `Darlene`,
   },
   plugins: [
     `gatsby-plugin-sass`,
