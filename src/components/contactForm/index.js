@@ -25,8 +25,11 @@ const ContactForm = () => {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", ...formState }),
     })
-      .then(() => alert("Success!"))
-      .catch((error) => alert(error));
+      .then(() => {
+        setFormState({ name: "", email: "", phone: "", message: "" });
+        alert("Enquiry send!");
+      })
+      .catch((error) => console.log(error));
   };
 
   return (
