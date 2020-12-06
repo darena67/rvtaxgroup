@@ -1,8 +1,14 @@
-import React from "react"
+import React from "react";
 
 const ContactForm = () => {
   return (
-    <form  name="contact" className="contactForm" data-netlify="true">
+    <form
+      name="contact"
+      className="contactForm"
+      method="POST"
+      data-netlify-recaptcha="true"
+      data-netlify="true"
+    >
       <label>
         Name
         <input type="text" name="name" />
@@ -19,11 +25,12 @@ const ContactForm = () => {
         Message
         <textarea name="message" rows="5"></textarea>
       </label>
+      <div data-netlify-recaptcha="true"></div>
       <button type="submit" value="Submit" className="btn">
         Send
       </button>
     </form>
-  )
-}
+  );
+};
 
-export default ContactForm
+export default ContactForm;
