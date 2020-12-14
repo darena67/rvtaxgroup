@@ -39,11 +39,8 @@ faqs:
       accounting functions, starting Bookkeeping, and ending Estimated Tax
       Payments."
     question: What is the main difference between the plans?
-  - question: Why software cost is included only in Advanced option?
-    answer: We avoid billing by the hour whenever possible. It creates ambiguity and
-      makes you worry about your upcoming CPA bill. The only time we are billing
-      by the hour is when we cannot reasonably estimate our time spend on a
-      specific non-recurring project.
+  - question: What else is included?
+    answer: accounting software. audit help
   - question: What else is included?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
       makes you worry about your upcoming CPA bill. The only time we are billing
