@@ -39,5 +39,6 @@ services_list:
     service_image: ../assets/point-of-sale-software.jpg
   - title: IRS, FTB & CDTFA
     subtitle: REPRESENTATION
-    desc: "Correspond and negotiate on your behalf with tax agencies. "
+    desc: Correspond on your behalf with tax agencies. Waive penalties and interest
+      and also negotiate installment plans.
     service_image: ../assets/irs-ftb-cdtfa-representation.jpg
