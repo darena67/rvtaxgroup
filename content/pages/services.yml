@@ -39,6 +39,5 @@ services_list:
     service_image: ../assets/point-of-sale-software.jpg
   - title: IRS, FTB & CDTFA
     subtitle: REPRESENTATION
-    desc: We help businesses make sense of their financial performance and reduce
-      the tax impacts for their owners through the following monthly plans
+    desc: "Correspond and negotiate on your behalf with tax agencies. "
     service_image: ../assets/irs-ftb-cdtfa-representation.jpg
