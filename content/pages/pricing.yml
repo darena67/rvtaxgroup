@@ -10,13 +10,13 @@ packages:
       - text: Monthly cost accounting adjusting entries
       - text: Monthly and quaterly  local tax returns
   - name: Standard
-    desc: Ideal for someone who wants to do their own  Bookkeeping
-    pricing: Starting $800 a month
+    desc: Bookkeeping is done by you and we take care of everything else
+    pricing: Starting $1000 a month
     feature-title: "Everything in Basic, and:"
     feature:
-      - text: Monthly outflow cash projections.
-      - text: Quaterly Estimated Tax Vouchers.
-      - text: Business Income Tax Return.
+      - text: Monthly outflow cash projections
+      - text: Quaterly Estimated Tax Vouchers
+      - text: Business Income Tax Return
   - name: Advanced
     desc: No worries, everything included plan
     pricing: Starting $1300 a month
@@ -24,17 +24,20 @@ packages:
     feature:
       - text: Bookkeeping
       - text: Cloud backup of important business documentation
-      - text: Help with Gusto set up
+      - text: Help with Payroll set up
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
       makes you worry about your upcoming CPA bill. The only time we are billing
       by the hour is when we cannot reasonably estimate our time spend on a
       specific non-recurring project.
-  - answer: We avoid billing by the hour whenever possible. It creates ambiguity and
-      makes you worry about your upcoming CPA bill. The only time we are billing
-      by the hour is when we cannot reasonably estimate our time spend on a
-      specific non-recurring project.
+  - answer: "There are four main parts of Cannabis accounting: Bookkeeping+Cost
+      Accounting+Local Taxes+Income Tax Corporation (IRS&FTB). With the first
+      plan, you take care of bookkeeping and income tax preparation. With the
+      second plan, you use your own bookkeeper, and we take care of everything
+      else. With the third plan, we become your CFO. We take care of all your
+      accounting functions, starting Bookkeeping, and ending Estimated Tax
+      Payments."
     question: What is the main difference between the plans?
   - question: Why software cost is included only in Advanced option?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
