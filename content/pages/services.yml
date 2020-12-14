@@ -39,6 +39,9 @@ services_list:
     service_image: ../assets/point-of-sale-software.jpg
   - title: IRS, FTB & CDTFA
     subtitle: REPRESENTATION
-    desc: Correspond on your behalf with tax agencies. Waive penalties and interest
-      and also negotiate installment plans.
+    desc: No matter how difficult your tax problem is, we have seen it before. Red
+      Eye CPA provides a thorough, expert approach to tax notice services and
+      will alleviate any anxiety that comes in this type of situation. We can
+      correspond on your behalf and work on waiving penalties, interest, and
+      negotiation of installment plans.
     service_image: ../assets/irs-ftb-cdtfa-representation.jpg
