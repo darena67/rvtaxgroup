@@ -1,8 +1,8 @@
 page: pricing
-intro: Find the plan that’s just right for your business
+intro: Find the plan that’s right for your business
 packages:
   - name: Basic
-    desc: ideal for someone who does their own bookkeeping and income taxes
+    desc: Ideal for someone who does their own bookkeeping and income taxes
     pricing: Starting $500 a month
     feature-title: "Basic Features:"
     feature:
@@ -19,12 +19,12 @@ packages:
       - text: Business Income Tax Return
   - name: Advanced
     desc: No worries, everything included plan
-    pricing: Starting $1300 a month
+    pricing: Starting $1500 a month
     feature-title: "Everything in Standard, and:"
     feature:
       - text: Bookkeeping
       - text: Cloud backup of important business documentation
-      - text: Help with Payroll set up
+      - text: CFO Services
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
@@ -32,17 +32,13 @@ faqs:
       by the hour is when we cannot reasonably estimate our time spend on a
       specific non-recurring project.
   - answer: "There are four main parts of Cannabis accounting: Bookkeeping+Cost
-      Accounting+Local Taxes+Income Tax Corporation (IRS&FTB). With the first
-      plan, you take care of bookkeeping and income tax preparation. With the
-      second plan, you use your own bookkeeper, and we take care of everything
-      else. With the third plan, we become your CFO. We take care of all your
-      accounting functions, starting Bookkeeping, and ending Estimated Tax
-      Payments."
+      Accounting+Local Taxes+Income Tax Corporation. With the first plan, you
+      take care of bookkeeping and income tax preparation, and we help you with
+      cost accounting and local taxes.  With the second plan, you use your
+      bookkeeper, and we take care of cost accounting, local, and income taxes.
+      With the third plan, we become your CFO and oversee all of the accounting
+      functions. "
     question: What is the main difference between the plans?
-  - question: What else is included?
-    answer: accounting software. audit help
-  - question: What else is included?
-    answer: We avoid billing by the hour whenever possible. It creates ambiguity and
-      makes you worry about your upcoming CPA bill. The only time we are billing
-      by the hour is when we cannot reasonably estimate our time spend on a
-      specific non-recurring project.
+  - question: How do you deliver sensitive information to clients?
+    answer: "We are a paperless CPA firm that utilizes a secure client portal to
+      exchange and deliver private information. "
