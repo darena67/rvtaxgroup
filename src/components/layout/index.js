@@ -15,9 +15,10 @@ const Layout = ({ children }) => {
       <CookieConsent
         location="bottom"
         buttonText="Accept"
-        OnAccept={() => {
-          Cookies.set('gatsby-gdpr-google-analytics', 'gatsby-gdpr-google-tagmanager', 'gatsby-gdpr-facebook-pixel', { value: true });
-          alert("Accept was triggered by clicking the Accept button");
+        onAccept={() => {
+          Cookies.set('gatsby-gdpr-google-analytics', true, {path: "/"});
+          Cookies.set('gatsby-gdpr-google-tagmanager', true, {path: "/"});
+          Cookies.set('gatsby-gdpr-facebook-pixel', true, {path: "/"});
         }}
       >
         This website uses cookies to enhance the user experience.{" "}
