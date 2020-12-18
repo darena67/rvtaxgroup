@@ -3,9 +3,11 @@ module.exports = {
     title: `Red Eye CPA`,
     description: `Cannabis CPA serving dispensaries, distributors and cultivators in the state of California.`,
     author: `Daria Nagal`,
+    siteUrl: `https://redeyecpa.com`,
   },
   plugins: [
     `gatsby-plugin-sass`,
+		`gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-yaml`,
