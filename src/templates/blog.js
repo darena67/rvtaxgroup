@@ -26,7 +26,7 @@ export const query = graphql`
 const Blog = (props) => {
   return (
     <>
-      <SEO pageTitle={`Blog | ${props?.data.markdownRemark.frontmatter.title}`} />
+      <SEO pageTitle={`Blog - ${props?.data.markdownRemark.frontmatter.title}`} />
       <Layout>
         <BackgroundImage
           className='blog-header'

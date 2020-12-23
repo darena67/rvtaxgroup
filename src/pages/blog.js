@@ -9,7 +9,7 @@ import SEO from '../components/seo';
 const BlogPage = ({ data }) => {
   return (
     <div className='blog'>
-      <SEO pageTitle={`Blog | ${data.markdownRemark.frontmatter.title}`} />
+      <SEO pageTitle='Blog' />
       <Layout>
         <HeroOther
           title='blog'
