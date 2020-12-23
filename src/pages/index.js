@@ -46,6 +46,9 @@ const IndexPage = () => {
               date(formatString: "MMMM DD, YYYY")
               path
             }
+            fields {
+              slug
+            }
             excerpt(pruneLength: 60)
             id
           }
@@ -93,7 +96,7 @@ const IndexPage = () => {
                   title={item.node.frontmatter.title}
                   date={item.node.frontmatter.date}
                   content={item.node.excerpt}
-                  slug={item.node.frontmatter.path}
+                  slug={item.node.fields.slug}
                 />
               ))}
             </div>
