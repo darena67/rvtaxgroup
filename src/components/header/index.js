@@ -20,19 +20,19 @@ const Header = () => {
           <Link to="/" activeClassName="active">
             home
           </Link>
-          <Link to="/about" activeClassName="active">
+          <Link to="/about/" activeClassName="active">
             about us
           </Link>
-          <Link to="/services" activeClassName="active">
+          <Link to="/services/" activeClassName="active">
             services
           </Link>
-          <Link to="/pricing" activeClassName="active">
+          <Link to="/pricing/" activeClassName="active">
             pricing
           </Link>
-          <Link to="/blog" activeClassName="active">
+          <Link to="/blog/" activeClassName="active">
             blog
           </Link>
-          <Link to="/contact" activeClassName="active" className="contact-nav">
+          <Link to="/contact/" activeClassName="active" className="contact-nav">
             contact
           </Link>
           <CloseIcon className="nav__closeicon" onClick={() => setShow("")} />

@@ -20,7 +20,7 @@ const PricingCard = ({ title, subtitle, price, featureTitle, feature }) => {
         ))}
       </ul>
       <div className="btn-container">
-        <Link to="/contact" className="btn-line">
+        <Link to="/contact/" className="btn-line">
           inquire
         </Link>
       </div>

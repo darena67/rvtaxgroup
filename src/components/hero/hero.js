@@ -10,7 +10,7 @@ import "./home-hero.scss"
 const HomeHero = ({heroQuote}) => {
   const data = useStaticQuery(graphql`
     query {
-     
+
       backgroundImage: file(relativePath: { eq: "hero-bg.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 1920) {
@@ -41,7 +41,7 @@ const HomeHero = ({heroQuote}) => {
           Do you want to pay less in
           <span className="text-highlight"> Cannabis</span> taxes?
         </h1>
-        <Link to="/contact" className="btn hero__btn">
+        <Link to="/contact/" className="btn hero__btn">
           Get Started
         </Link>
       </div>

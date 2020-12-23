@@ -10,7 +10,7 @@ const HeroOther = ({ title, image, intro }) => {
         <div className="heroOther__content">
           <h1 className="heroOther__title">{title}</h1>
           <h3  className="heroOther__subtitle">{intro}</h3>
-          <Link to="/contact" className="heroOther__cta btn">
+          <Link to="/contact/" className="heroOther__cta btn">
             Get Started
           </Link>
         </div>

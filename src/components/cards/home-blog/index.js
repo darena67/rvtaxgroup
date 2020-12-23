@@ -16,7 +16,7 @@ const BlogCard = ({ image, title, date, content, slug }) => {
         <h3 className='blogCard__title'>{title}</h3>
         <h5 className='blogCard__date'>{date}</h5>
         <p className='blogCard__content'>{content}</p>
-        <Link to={`/blog${slug}`} className='blogCard__readmore'>
+        <Link to={`/blog${slug}/`} className='blogCard__readmore'>
           Read the blog
           <ArrowForwardIcon className='icon' />
         </Link>

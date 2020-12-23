@@ -33,7 +33,7 @@ const BlogPage = ({ data }) => {
         </div>
         <div className='cta-section container text-center'>
           <h3 className='cta__text '>Need something else?</h3>
-          <Link to='/contact' className='btn btn-cta'>
+          <Link to='/contact/' className='btn btn-cta'>
             Lets Talk!
           </Link>
         </div>

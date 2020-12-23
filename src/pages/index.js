@@ -107,7 +107,7 @@ const IndexPage = () => {
             Are things like taxes & bookkeeping keeping you from running your
             business?
           </h3>
-          <Link to="/contact" className="btn btn-cta">
+          <Link to="/contact/" className="btn btn-cta">
             Lets Talk!
           </Link>
         </div>

@@ -19,7 +19,7 @@ const ServiceCard = ({ icon, title, content }) => {
         ))}
       </ul>
       <div className="btn-container">
-        <Link to="/contact" className="btn-line">more info</Link>
+        <Link to="/contact/" className="btn-line">more info</Link>
       </div>
     </div>
   )

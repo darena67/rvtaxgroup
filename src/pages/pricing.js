@@ -67,7 +67,7 @@ const PricingPage = () => {
             Is your package missing something ? Please contact for a customized
             plan
           </h3>
-          <Link to="/contact" className="btn btn-cta">
+          <Link to="/contact/" className="btn btn-cta">
             Inquire
           </Link>
         </div>
