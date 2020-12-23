@@ -11,10 +11,6 @@ exports.createPages = ({ graphql, actions }) => {
         allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
           edges {
             node {
-              frontmatter {
-                title
-                path
-              }
               fields {
                 slug
               }
