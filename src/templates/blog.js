@@ -6,7 +6,7 @@ import BackgroundImage from 'gatsby-background-image';
 
 export const query = graphql`
   query($slug: String!) {
-    markdownRemark(frontmatter: { path: { eq: $slug } }) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")

@@ -8,6 +8,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-sass`,
 		`gatsby-plugin-sitemap`,
+		`gatsby-plugin-slug`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-yaml`,
