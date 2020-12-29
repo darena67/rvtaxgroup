@@ -1,12 +1,7 @@
 page: home
-hero_quote: >-
-  Hi! I am Daria. I am here to take the accounting stress out of your cannabis
-  business.
-
-
-  Cannabis CPA serving dispensaries, distributors, and cultivators in the state of California.
+hero_quote: Hi! I am Daria. I am here to take the accounting stress out of your business.
 home_services:
-  - name: Cannabis Accounting
+  - name: Bookkeeping
     service:
       - text: GAAP compliant financial statements
       - text: Full absorption cost accounting
