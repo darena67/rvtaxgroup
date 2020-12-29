@@ -27,8 +27,8 @@ const Hero = () => {
       <div className="hero__content container">
         <div className="hero__textContainer">
           <h1>
-            Do you want to pay less in
-            <span className="text-highlight"> Cannabis</span> taxes?
+            Your taxes.
+            <span className="text-highlight"> Our</span> problem!
           </h1>
           <button className="btn">Get Started</button>
         </div>
@@ -36,7 +36,7 @@ const Hero = () => {
           {/* <Img
             className="hero__image"
             fluid={data.heroMainImage.childImageSharp.fluid}
-          /> 
+          />
          <img src={HeroImage} className="hero__image" alt="" />
         */}
           <div className="hero__quote">

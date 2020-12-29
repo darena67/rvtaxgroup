@@ -38,8 +38,8 @@ const HomeHero = ({heroQuote}) => {
           ></div>
         </div>
         <h1 className="hero__text">
-          Do you want to pay less in
-          <span className="text-highlight"> Cannabis</span> taxes?
+          Your taxes.
+          <span className="text-highlight"> Our</span> problem!
         </h1>
         <Link to="/contact/" className="btn hero__btn">
           Get Started
