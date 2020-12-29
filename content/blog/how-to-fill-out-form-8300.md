@@ -1,5 +1,5 @@
 ---
-path: redeyecpa.com
+path: help with form 8300
 date: 2020-10-16T20:54:40.922Z
 title: How to fill out form 8300?
 description: irs form 8300 instructions
