@@ -1,8 +1,8 @@
 ---
-path: guide on California Excise tax
+path: "guide on California Excise tax "
 date: 2020-11-28T14:38:55.116Z
 title: How to Calculate California Cannabis Excise Tax?
-description: Quick guide on California Excise Tax
+description: Quick guide on Excise Tax for Cannabis Distributor in California
 thumbnail: ../assets/califoania.jpg
 ---
 When calculating the California Cannabis Excise tax, we first need to determine the type of transaction that is taking place. Distributors are the ones that remit Cannabis Excise tax, and they conduct two types of transactions: [Non-Arm’s-length and Arm’s length.](https://www.cdtfa.ca.gov/industry/cannabis.htm#Distributors)
