@@ -9,11 +9,11 @@ When I worked at a large dispensary chain in San Diego, my primary responsibilit
 
 Well, here is a brief summary of what I consider being a correct way to calculate these taxes.
 
-**Excise tax**. The easiest one. 15% on your gross sales.  We levy this tax on gross receipts from ALL Cannabis products, including medical marijuana. As a dispensary, you are required to remit Excise tax to your distributor and later reimburse yourself via charging this tax at your retail location. What happens if you are both a distributor and dispensary? [Here](https://redeyecpa.com/blog/how-to-calculate-california-cannabis-excise-tax/) you can find a little information on the issue.
+**Excise tax**. The easiest one. 15% on your gross sales.  We levy this tax on gross receipts from ALL Cannabis products, including medical marijuana. As a dispensary, you are required to remit Excise tax to your distributor and later reimburse yourself via charging this tax at your retail location. What happens if you are both a distributor and dispensary? **[Here](https://redeyecpa.com/blog/how-to-calculate-california-cannabis-excise-tax/)** you can find a little information on the issue.
 
 One more note on Excise tax. When you calculate gross receipts, do not forget to exclude all non cannabis merchandise. Depending on your Point of Sales system, you can pull a correct sales report, or would have to manually adjust your sales for this deduction.
 
-**Sales tax.** This is the most difficult Cannabis tax. The average tax rate is 7% to 8% of your gross sales.  This again is mostly due to confusing guidance given by the CDTFA. I will eventually write a separate blog on just how to calculate SUT. The key problem with this tax is that it does not include Medical sales; includes Excise tax; and may or may not (depending on interpretation of what you read on the CDTFA website) include City tax.
+**Sales tax.** This is the most difficult Cannabis tax. The tax rate starting 7.5% of your gross sales. I will eventually write a separate blog on just how to calculate SUT. The key problem with this tax is that you would have to back out Medical sales and may (depending on interpretation of what you read on the CDTFA website) include City tax.
 
 There are different timelines when this tax should be submitted to the CDTFA. The smaller stores usually file and pay SUT each quarter. The bigger stores, however, have to get on so called “prepayment plan”. This means they have to pay taxes each month, but file only one tax return at the end of each quarter.
 
