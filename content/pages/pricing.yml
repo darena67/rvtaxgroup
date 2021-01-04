@@ -2,7 +2,7 @@ page: pricing
 intro: Find the plan that’s right for your marijuana business
 packages:
   - name: Basic
-    desc: I keep my own books and file my own returns...
+    desc: I am a DIY person
     pricing: Starting $500 a month
     feature-title: "Basic Features:"
     feature:
@@ -11,7 +11,7 @@ packages:
       - text: Monthly and quaterly  local tax returns
   - name: Standard
     desc: I keep my own books... you do the rest
-    pricing: Starting $1000 a month
+    pricing: Starting $900 a month
     feature-title: "Everything in Basic, and:"
     feature:
       - text: Monthly outflow cash projections
@@ -19,7 +19,7 @@ packages:
       - text: Business Income Tax Return
   - name: Advanced
     desc: '"Please take care of everything" type of plan'
-    pricing: Starting $1500 a month
+    pricing: Starting $1200 a month
     feature-title: "Everything in Standard, and:"
     feature:
       - text: Bookkeeping
