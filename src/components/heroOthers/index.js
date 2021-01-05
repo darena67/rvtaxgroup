@@ -14,7 +14,7 @@ const HeroOther = ({ title, image, intro }) => {
             Get Started
           </Link>
         </div>
-        <img src={image} alt="" className="heroOther__ilustration" />
+        <img src={image} alt="Ilustration" className="heroOther__ilustration" />
       </div>
     </div>
   )

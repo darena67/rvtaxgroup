@@ -40,8 +40,8 @@ const Hero = () => {
          <img src={HeroImage} className="hero__image" alt="" />
         */}
           <div className="hero__quote">
-            <img src={HeroQuotes} alt="" className="hero__doublequote" />
-            <img src={HeroImage} className="hero__image" alt="" />
+            <img src={HeroQuotes} alt="double quote" className="hero__doublequote" />
+            <img src={HeroImage} className="hero__image" alt="hero" />
             <p>
               Hi! I am Daria. I am here to take accounting stress out of your
               cannabis business.

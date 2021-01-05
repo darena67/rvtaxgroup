@@ -27,11 +27,11 @@ const HomeHero = ({heroQuote}) => {
     >
       <div className="container">
         <div className="hero__image">
-          <img src={HeroImage} alt="" />
+          <img src={HeroImage} alt="Hero" />
         </div>
 
         <div className="hero__blockquote">
-          <img src={HeroQuotes} alt="" className="hero__doublequote" />
+          <img src={HeroQuotes} alt="double quote" className="hero__doublequote" />
           <div
             className='hero__quote'
             dangerouslySetInnerHTML={{ __html: heroQuote }}
