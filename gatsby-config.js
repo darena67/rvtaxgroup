@@ -1,11 +1,31 @@
+const name = 'Daria Nagal';
+const siteUrl = 'https://redeyecpa.com';
+const description = 'Cannabis CPA serving dispensaries, distributors and cultivators in the state of California.'
+
 module.exports = {
   siteMetadata: {
     title: `Red Eye CPA`,
-    description: `Cannabis CPA serving dispensaries, distributors and cultivators in the state of California.`,
-    author: `Daria Nagal`,
-    siteUrl: `https://redeyecpa.com`,
+    description: description,
+    author: name,
+    siteUrl: siteUrl,
   },
   plugins: [
+	  {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name,
+        short_name: 'DN',
+        description,
+        start_url: '/',
+        icon: 'src/images/redeye_logo.png', // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-canonical-urls',
+      options: {
+        siteUrl,
+      },
+    },
     `gatsby-plugin-sass`,
 		`gatsby-plugin-sitemap`,
 		`gatsby-plugin-slug`,
