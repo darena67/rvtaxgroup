@@ -8,6 +8,7 @@ module.exports = {
     description: description,
     author: name,
     siteUrl: siteUrl,
+    'ahrefs-site-verification': 'cf4cad69574200f12519dfb441cd6a43caf53b587e44276f8f0dd1a8eb988306'
   },
   plugins: [
 	  {
