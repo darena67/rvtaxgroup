@@ -26,6 +26,12 @@ module.exports = {
         siteUrl,
       },
     },
+    {
+      resolve: 'gatsby-plugin-html-attributes',
+      options: {
+        lang: 'en'
+      }
+    },
     `gatsby-plugin-sass`,
 		`gatsby-plugin-sitemap`,
 		`gatsby-plugin-slug`,

@@ -36,6 +36,18 @@ const SEO = ({ pageTitle, description }) => {
           content: `website`,
         },
         {
+          property: `twitter:card`,
+          content: description,
+        },
+        {
+          property: `twitter:title`,
+          content: pageTitle,
+        },
+        {
+          property: `twitter:description`,
+          content: metaDescription,
+        },
+        {
           name: `ahrefs-site-verification`,
           content: `cf4cad69574200f12519dfb441cd6a43caf53b587e44276f8f0dd1a8eb988306`,
         },

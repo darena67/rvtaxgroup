@@ -19,6 +19,7 @@
     "gatsby-plugin-gdpr-cookies": "latest",
     "gatsby-plugin-sitemap": "latest",
     "gatsby-plugin-canonical-urls": "latest",
+    "gatsby-plugin-html-attributes": "latest",
     "gatsby-plugin-slug": "latest",
     "react-cookie-consent": "latest",
     "gatsby-remark-images": "^3.6.0",
