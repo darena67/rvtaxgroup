@@ -6,6 +6,7 @@ import Logo from "../../images/logo.png";
 
 import FacebookIcon from "@material-ui/icons/Facebook";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
+import TwitterIcon from "@material-ui/icons/Twitter";
 
 const Footer = () => {
   let data = useStaticQuery(graphql`
@@ -17,6 +18,7 @@ const Footer = () => {
         linkedin
         intro
         address
+        twitter
       }
     }
   `);
@@ -42,10 +44,13 @@ const Footer = () => {
             <a href={data.linkedin} className="footer__socialIcons">
               <LinkedInIcon fontSize="large" />
             </a>
+            <a href={data.twitter} className="footer__socialIcons">
+              <TwitterIcon fontSize="large" />
+            </a>
           </div>
         </div>
         <div className="footer__copyright">
-          © 2020 RedeyeCPA. All rights reserved.
+          © 2021 RedEyeCPA. All rights reserved.
         </div>
       </div>
     </footer>

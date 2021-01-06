@@ -109,4 +109,5 @@ collections:
           - {label: Email, name: email, widget: string, required: false}
           - {label: "Facebook link", name: fb, widget: string, required: false}
           - {label: "LinkedIn link", name: linkedin, widget: string, required: false}
+          - {label: "Twitter link", name: twitter, widget: string, required: false}
           - {label: Address, name: address, widget: markdown, required: false}
