@@ -1,7 +1,7 @@
 ---
 path: california dispensary taxes
 date: 2020-12-31T02:53:03.687Z
-title: Overview of California dispensary taxes
+title: california marijuana tax calculator
 description: A brief summary on how to calculate California dispensary taxes.
 thumbnail: ../assets/cannabis-tax-overview.jpg
 ---
