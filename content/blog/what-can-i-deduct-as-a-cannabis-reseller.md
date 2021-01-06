@@ -3,7 +3,7 @@ path: tax-deductions-for-cannabis-retailers
 date: 2020-10-19T17:19:27.976Z
 title: What can I deduct as a cannabis reseller?
 description: Tax deductions for cannabis distributors and dispensaries
-thumbnail: ../assets/image5-1.jpg
+thumbnail: ../assets/california-dispensary-taxes.jpg
 ---
 Tax deductions for cannabis distributors and dispensaries are very similar since the IRS views them both as retailers.
 
