@@ -5,6 +5,8 @@ title: How to Calculate California Cannabis Excise Tax?
 description: Quick guide on Excise Tax for Cannabis Distributor in California
 thumbnail: ../assets/califoania.jpg
 ---
+California Excise tax is a pass-through tax - it is not paid by the cannabis business. The distributor charges this tax to the dispensary and remits it to the CDTFA. In its turn, the dispensary gets the money back by charging its customers at the moment of sale.
+
 When calculating the California Cannabis Excise tax, we first need to determine the type of transaction that is taking place. Distributors are the ones that remit Cannabis Excise tax, and they conduct two types of transactions: [Non-Arm’s-length and Arm’s length.](https://www.cdtfa.ca.gov/industry/cannabis.htm#Distributors)
 
 **\*\*Arm’s length means that the distributor and the retailer are unrelated parties.** The distributor and the retailer do not have common owners and are not part of the same business structure. With unrelated parties, the calculation of Excise tax is relatively simple. We simply take the cost of good sold and multiply it by the CDTFA mark up rate, currently 80%. After that we tax everything by 15%:
