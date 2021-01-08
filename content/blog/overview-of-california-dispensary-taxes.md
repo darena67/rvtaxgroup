@@ -1,7 +1,7 @@
 ---
 path: california dispensary taxes
 date: 2020-12-31T02:53:03.687Z
-title: california marijuana tax calculator
+title: California marijuana taxes
 description: A brief summary on how to calculate California dispensary taxes.
 thumbnail: ../assets/cannabis-tax-overview.jpg
 ---
@@ -25,8 +25,8 @@ And finally, **City taxes.**
 
 Each city wants a piece of cannabis money. Usually, the range is from 4% to 6% of your gross sales. And from my experience, cities are pretty demanding and unforgiving when it comes to late payments. The problem with City taxes is that they are all different! Each city (and sometimes each county) has its own tax rules. These rules come in long twenty-page documents and there is no way that POS systems can keep track of all city tax regulations.
 
-This was just a brief overview. I also have a podcast on this[ topic.](<<iframe src="https://castbox.fm/app/castbox/player/id3671287/id342094479?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>>)
+This was just a brief overview. 
 
 Send me an e-mail if you have any questions
 
-Daria
+[Daria](<<iframe src="https://castbox.fm/app/castbox/player/id3671287/id342094479?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>>)
