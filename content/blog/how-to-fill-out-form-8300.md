@@ -2,7 +2,7 @@
 path: help with form 8300
 date: 2020-10-16T20:54:40.922Z
 title: How to fill out form 8300?
-description: irs form 8300 instructions
+description: irs form 8300 requirements and instructions
 thumbnail: ../assets/med-lounge-3w.jpg
 ---
 So.. you got paid in cash. What now? Well, first of all, spend it wisely.  Second of all, make sure you comply with the IRS cash reporting requirements. 
