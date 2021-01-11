@@ -1,7 +1,7 @@
 ---
 path: "guide on California Excise tax "
 date: 2020-11-28T14:38:55.116Z
-title: How to Calculate California Cannabis Excise Tax?
+title: Excise Tax Formula
 description: Quick guide on Excise Tax for Cannabis Distributor in California
 thumbnail: ../assets/califoania.jpg
 ---
