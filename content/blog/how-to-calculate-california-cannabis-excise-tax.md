@@ -1,7 +1,7 @@
 ---
 path: "guide on California Excise tax "
 date: 2020-11-28T14:38:55.116Z
-title: How to Calculate California Cannabis Excise Tax?
+title: Excise Tax Formula
 description: Quick guide on Excise Tax for Cannabis Distributor in California
 thumbnail: ../assets/califoania.jpg
 ---
@@ -11,7 +11,7 @@ When calculating the California Cannabis Excise tax, we first need to determine 
 
 **\*\*Arm’s length means that the distributor and the retailer are unrelated parties.** The distributor and the retailer do not have common owners and are not part of the same business structure. With unrelated parties, the calculation of Excise tax is relatively simple. We simply take the cost of good sold and multiply it by the CDTFA mark up rate, currently 80%. After that we tax everything by 15%:
 
-After simplifying the equation, we can see that we will arrive at the correct Excise tax by multiplying COGS by 24%.
+After simplifying the equation, we can see that we will arrive at the correct Excise tax  by multiplying COGS by 24%.
 
 Calculating Excise tax as unrelated parties is more beneficial. In my experience, the markup rate for dispensaries is usually 100% and not 80%. This means that you are not taxing 20% of your sales.
 
@@ -23,7 +23,7 @@ As you can see in the above picture, the Excise tax is also levied at the City t
 
 ![revenue and taxation code section 6102 definition of gross receipts for excise tax calculation](../assets/revenue.png "revenue and taxation code section 6102")
 
-In my opinion, the Excise tax calculation for related parties is the following:
+In my opinion, the Excise tax formula for related parties is the following:
 
 **(retail price +delivery+safety fees-promotions) * 15%**
 
