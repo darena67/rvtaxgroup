@@ -1,7 +1,7 @@
 ---
 path: payroll for dispensary employees
 date: 2021-01-11T18:33:52.895Z
-title: how do dispensaries pay their employees
+title: How do dispensaries pay their employees
 description: How to pay your budtenders and what is deductible
 thumbnail: ../assets/budtender.jpg
 ---
