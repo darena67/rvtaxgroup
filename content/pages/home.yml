@@ -1,7 +1,6 @@
 page: home
-hero_quote: >-
-  Hi! I am Daria. I am here to take the accounting stress out of your Cannabis
-  business.
+hero_quote: Hi! I am Daria. I am here to take the accounting stress out of your
+  Cannabis business.
 home_services:
   - name: Cannabis Accounting
     service:
@@ -10,7 +9,7 @@ home_services:
       - text: "Accounting set up & clean up "
       - text: Back up of financial records
     icon: ../assets/accountant.png
-  - name: Local Tax Compliance
+  - name: Marijuana Tax Consulting
     service:
       - text: Sales & Use, Excise, Cultivation and City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
