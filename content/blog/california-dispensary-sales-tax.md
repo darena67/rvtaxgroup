@@ -3,7 +3,7 @@ path: marijuana sales tax
 date: 2021-01-17T03:48:51.143Z
 title: California dispensary sales tax
 description: Instructions on how to calculate marijuana sales tax
-thumbnail: ""
+thumbnail: ../assets/sales-tax.jpg
 ---
 California dispensary sales tax is a complicated topic with many nuances, which requires attention to detail and specialized knowledge. Here is a brief overview of how these taxes work:
 
