@@ -25,8 +25,7 @@ Another difficulty with home delivery is that you are also required to levy tax 
 
 So, the tax formula for sale tax of a delivered product will be this:
 
-![marijuana sales tax with delivery]( "marijuana sales tax with delivery")
-
+![marijuana sales tax with delivery](../assets/sdgsdrgd.png "marijuana sales tax with delivery")
 
 A dispensary can open an account on the CDTFA website and file returns electronically. There is an option to pay online or they can take your payment in cash. The CDTFA website also shows all issues/ discrepancies/penalties and communications associated with your account. You can also call the CDTFA to talk to its representatives. No POA is needed and they will answer general questions.
 
