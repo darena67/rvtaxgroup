@@ -16,3 +16,11 @@ Steps to calculate California dispensary sales taxes:
 Here is the formula:
 
 ![marijuana sales tax formula](../assets/california-sales-tax-marijuana.png "marijuana sales tax formula")
+
+***Please note***: Sales tax is not levied on marijuana sales to those with medical state cards. However, sales with a doctor’s letter of recommendation are taxed. So, whenever you are doing your sales tax computation make sure you exclude sales to those with medical state cards. You should also deduct customer discounts from your tax base as well.
+
+Things get more complicated if you decide to do home delivery of the product. Since the tax rate is determined by the location of the customer, your sales tax rates will vary significantly. This means that your delivery system should be carefully updated for all sales tax rates in the area. If you use Weedmaps for delivery, you will have to manually adjust software tax settings for all locations in your geographical area. By default, Weedmaps does not generate information on taxes and many first-time customers become very upset when they realize that they have to pay an additional 30% -40% on top of the sales price.
+
+Another difficulty with home delivery is that you are also required to levy tax on your delivery and safety fees if you charge those fees to your customer.
+
+So, the tax formula for sale tax of a delivered product will be this:
