@@ -33,13 +33,21 @@ Net profit margin is more useful when it comes to the evaluation of cannabis bus
 
  Break Even is a formula used to calculate the amount of sales your business needs to become profitable. The break-even point happens when your sales equal your costs, and your earned income is zero. Reaching this point sooner than later makes it better for the business since you know you are continuing to make a profit. This number also tells you when you are finally done paying off your business and are in the profit zone. 
 
-  There are a couple of ways to calculate the break-even point. I designed my break-even formula specifically for cannabis dispensaries. It includes an allowance for tax expenses and a deductible portion of operating expenses **[(read about what could be deducted here](https://redeyecpa.com/blog/what-can-i-deduct-as-a-cannabis-reseller/)).** To use this formula, you will need to enter your average monthly operating expenses and run Goal Seek function in the excel. To run Goal Seek, go to Data-->What is Analysis-->Goal Seek. Then set up cell to the values shown in the picture
+  There are a couple of ways to calculate the break-even point. I designed my break-even formula specifically for cannabis dispensaries. It includes an allowance for tax expenses and a deductible portion of operating expenses **[(read about what could be deducted here](https://redeyecpa.com/blog/what-can-i-deduct-as-a-cannabis-reseller/)).** To use this formula, you will need to open the Operating Net Profit and Break Even Analysis calculators here **<https://1drv.ms/x/s!AselSA_JkDMsjBVAcl3eOyQrQ5T8?e=axqiSZ>**
+
+And enter your average monthly operating expenses and run Goal Seek function in the excel. To run Goal Seek, go to Data-->What is Analysis-->Goal Seek. Then set up cell to the values shown in the picture
 
 ![Goal Seek Settings](../assets/goal-seek.png "Goal Seek Settings")
 
- The sales number tells you how much you will need to sell that month to break even. Please note, I assumed that the mark up on your sales is double what you paid for the product. I also assumed that you could deduct 8% of your operating expenses.
+The sales number will tell you how much you will need to sell that month to break even. Please note, I assumed that the mark up on your sales is double what you paid for the product. I also assumed that you could deduct 8% of your operating expenses. 
 
-<https://1drv.ms/x/s!AselSA_JkDMsjBVAcl3eOyQrQ5T8?e=axqiSZ>
+If you need assistance with using the calculators, please contact me and I will e-mail you them with instructions.
+
+Sincerely,
+
+Daria Nagal, Cannabis CPA
+
+[](https://1drv.ms/x/s!AselSA_JkDMsjBVAcl3eOyQrQ5T8?e=axqiSZ)
 
 ![break even analysis for cannabis dispensary](../assets/break-even-analysis.png "break even analysis for cannabis dispensary")
 
