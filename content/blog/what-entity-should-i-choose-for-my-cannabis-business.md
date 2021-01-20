@@ -16,13 +16,9 @@ When you look at the entity planning, the general starting point is to answer th
 ***C corporation:***
 
 1. Double taxation. Double taxation happens when C corporations pay their tax on their earnings and then transfer what is left onto their owners as dividends. Dividends are taxed again on the individual level. So, owners end up paying taxes twice. Generally, people want to stay away from double taxation. However, this discussion changed since introducing the 21% tax rate. You can lower your tax by paying 21% in some situations, depending on whether you are profitable or not.
-
 2. The C corporation is liable for the 280E tax. In other words, if the C corporation fails, its owners won't be responsible for 280 E tax.
-
 3. Limitation on taxation on capital gains on the sale of an entity. Under Section 1202, there is a possibility of excluding income from selling your stock as long as you keep your stock for over five years. Most of the businesses out there are to sell, and it could be much better if you have C Corp in mind. 
-
 4. California 280E addback. California allows C Corps to take 280E deductions on their state taxes. This means less money paid for California tax. No other entity is allowed to have these deductions.
-
 5. You need to be a C corp if you want to be owned by a Canadian company.
 
 ***Flow-Through Entity (Partnership or S Corp)***
@@ -33,6 +29,8 @@ When you look at the entity planning, the general starting point is to answer th
 4. If a pass-through entity gets into a financial problem and cannot pay its tax liability, the owner becomes personally liable for unpaid taxes. The tax liability can be collected from the owners' assets ( home, mortgage, credit history).
 5. If the IRS audits your flow-through company, your personal tax return will also be audited. The IRS will be looking for LUQs ( Large Unusual and Questionable Items).
 
-
-
 280E cannot be eliminated but it can be contained. We can look at different entities and choose the right structure based on the individual situation of the owner.
+
+Sincerely,
+
+Daria Nagal, Cannabis CPA
