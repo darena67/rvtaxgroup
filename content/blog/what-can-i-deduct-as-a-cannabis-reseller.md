@@ -33,4 +33,8 @@ So, how do you separate deductible costs from non-deductible? This can be done b
 
 **Please Note:** GAAP accounting is required if we want to take advantage of deduction under Section 471c. This means that cost allocation should start at the moment the payment is made. For example, your rent payment should be allocated when it was paid and not after the fact at the end of the year. This makes cannabis accounting more challenging
 
-If all of the above flew over your head, please contact us. We are here to help.
+If all of the above flew over your head, please contact us.
+
+Sincerely,
+
+Daria Nagal, Cannabis CPA
