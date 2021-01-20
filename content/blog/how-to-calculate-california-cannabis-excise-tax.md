@@ -30,3 +30,7 @@ In my opinion, the Excise tax formula for related parties is the following:
 **Please note that Excise tax is levied only on Cannabis. If you also sell vapors, gadgets**, **or clothing at your store, this merchandise should not be subject to Excise tax. This means that you need to run a sale report from your Point Of Sale system that** only shows **Cannabis** sales**.** 
 
 Those are the major points about California Cannabis Excise tax. If you need help setting up your Point of Sale System, please contact me at [daria@redeyecpa.com](mailto:daria@redeyecpa.com).
+
+Sincerely, 
+
+Daria Nagal, Cannabis CPA
