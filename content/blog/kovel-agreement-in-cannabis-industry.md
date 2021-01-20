@@ -17,6 +17,6 @@ There is a way around this problem, and it is called Kovel Agreement. By signing
 
 The IRS does not look favorably upon these arrangements. But so far, it can work as long as the agreement is properly written.
 
+Sincerely,
 
-
-Daria
+Daria Nagal, Cannabis CPA
