@@ -40,4 +40,8 @@ It is crucial to collect this information before or during a sale. In my experie
    By January 31st, you will have to furnish your client with a statement that informs them of your 8300 form filings activity. The report is in free form but should include the following information:  contact information of both parties, the total amount of reportable cash in the past year, and notification that the company provided the information mentioned above to the IRS.
    The IRS imposes enormous penalties for failure to provide statements to buyers. So, make sure that you send them out by the end of January.
 
-   That's all. You can read up on details here:  https://www.irs.gov/pub/irs-pdf/p1544.pdf
+   That's all. You can read up on details**[ here:](<3. https://www.irs.gov/pub/irs-pdf/p1544.pdf>)**  
+
+   Sincerely,
+
+   Daria Nagal, Cannabis CPA
