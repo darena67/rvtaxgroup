@@ -27,6 +27,8 @@ Each city wants a piece of cannabis money. Usually, the range is from 4% to 6% o
 
 This was just a brief overview. 
 
-Send me an e-mail if you have any questions
+Sincerely,
 
-[Daria](<<iframe src="https://castbox.fm/app/castbox/player/id3671287/id342094479?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>>)
+Daria Nagal, Cannabis CPA
+
+\[Daria](<<iframe src="https://castbox.fm/app/castbox/player/id3671287/id342094479?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>>)
