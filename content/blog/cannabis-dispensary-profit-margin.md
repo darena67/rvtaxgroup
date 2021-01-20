@@ -41,7 +41,7 @@ And enter your average monthly operating expenses and run Goal Seek function in 
 
 The sales number will tell you how much you will need to sell that month to break even. Please note, I assumed that the mark up on your sales is double what you paid for the product. I also assumed that you could deduct 8% of your operating expenses. 
 
-If you need assistance with using the calculators, please contact me and I will e-mail you them with instructions.
+If you need assistance with using the calculators, please contact me and I will e-mail them to you an old fashion way.
 
 Sincerely,
 
