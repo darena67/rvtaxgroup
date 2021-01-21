@@ -2,7 +2,7 @@
 path: tax-deductions-for-cannabis-retailers
 date: 2020-10-19T17:19:27.976Z
 title: What can I deduct as a cannabis reseller?
-description: How to Reduce 280E Impact on Cannabis Business Taxes
+description: Strategy to Reduce 280E Impact on Cannabis Business Taxes
 thumbnail: ../assets/california-dispensary-taxes.jpg
 ---
 As we all know, Cannabis businesses are allowed to deduct only COGS on their tax returns. That brings your taxable income up and your profit down. This rule especially hurts dispensaries and distributors.
