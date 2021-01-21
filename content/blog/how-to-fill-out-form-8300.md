@@ -18,7 +18,8 @@ Also, only business transactions need to be reported. One-time personal payments
 
 **Question:** **What's the deadline for the IRS form 8300?**                                                                                                                                          **Answer:** You are required to file the form within 15 days from a transaction. You will pay $270 (as of 2020) if you forget to submit the form. Penalties for intentional late filing are much higher and include criminal sanctions.
 
-**Here are some tips that will help you to file your first Fincen form 8300:**
+**Here are some tips that will help you to file your first Fincen form 8300.**
+
 **Collect buyers information:**
 Before the meeting, inform your client that you will need the following documents: 
 
