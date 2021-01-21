@@ -15,7 +15,7 @@ Operating Profit margin has the following formula:
 
 ![cannabis dispensary profit margin](../assets/dispensary-margin.png "cannabis dispensary profit margin")
 
-As you can see in the picture, both cannabis and supply stores have the same operating profit margin of 17 percent, given the same sales and expenses. Seventeen percent is considered a good operating profit margin. But does that mean that the cannabis dispensary is just as profitable as the supply store? Unfortunately, it does not. Due to the 280E rule, dispensaries are not allowed to deduct operating expenses. The only permitted deduction is COGS (cost of goods sold). Because of these disallowed deductions, the dispensary's taxable income is much higher (500k vs. 165k), and so is the amount of tax owed itself.
+As you can see in the picture, both cannabis and supply stores have the same operating profit margin of 17 percent, given the same sales and expenses. Seventeen percent is considered a good operating profit margin. But does that mean that the cannabis dispensary is just as profitable as the supply store? Unfortunately, it does not. Due to the 280E rule, dispensaries are not allowed to deduct operating expenses. The only permitted deduction is COGS (cost of goods sold). Because of these disallowed deductions, the dispensary's taxable income is much higher (500k vs. 165k), and so is the amount of tax owed itself. This means less profit for you.
 
 Net profit margin is more useful when it comes to the evaluation of cannabis businesses because it takes into account taxes. Here is its formula:
 
@@ -27,23 +27,23 @@ Net profit margin is more useful when it comes to the evaluation of cannabis bus
 
   So, if you think you will be an instant millionaire by opening a dispensary, you are wrong. However, there are ways around it. One way is to increase your sales and keep non-deductible operating expenses low. Consider opening up new locations or increasing client traffic to the established location. There are a couple of strategies that would allow you to deduct some of the operating expenses too, but you will need CPA guidance to execute those strategies.
 
-  Even though cannabis dispensaries are not the most profitable business currently, the legalization of marijuana is coming. By creating your business now, you will have better chances of establishing yourself in the market and position yourself for a good future cash flow. I am attaching a calculator which you can use to get an estimated number of cash that a dispensary will bring after you pay off taxes and operating expenses. 
+  Even though cannabis dispensaries are not the most profitable business currently, the legalization of marijuana is coming. By creating your business now, you will have better chances of establishing yourself in the market and position yourself for a good future cash flow. I am attaching a calculator that you can use to get an estimated number of cash that a dispensary will bring after you pay off taxes and operating expenses. 
 
-***Now lets talk about Break-Even Analysis***
+***Now*** let's ***talk about Break-Even Analysis***
 
- Break Even is a formula used to calculate the amount of sales your business needs to become profitable. The break-even point happens when your sales equal your costs, and your earned income is zero. Reaching this point sooner than later makes it better for the business since you know you are continuing to make a profit. This number also tells you when you are finally done paying off your business and are in the profit zone. 
+ Break-Even is a formula used to calculate the number of sales your business needs to become profitable. The break-even point happens when your sales equal your costs, and your earned income is zero. Reaching this point sooner than later makes it better for the business since you know you are continuing to make a profit. This number also tells you when you are finally done paying off your business and are in the profit zone. 
 
 ![Break Even Point calculation ](../assets/break-even-analysis.png "Break Even Point calculation ")
 
-  There are a couple of ways to calculate the break-even point. I designed my break-even formula specifically for cannabis dispensaries. It includes an allowance for tax expenses and a deductible portion of operating expenses **[(read about what could be deducted here](https://redeyecpa.com/blog/what-can-i-deduct-as-a-cannabis-reseller/)).** To use this formula, you will need to open the Operating Net Profit and Break Even Analysis calculators here **<https://1drv.ms/x/s!AselSA_JkDMsjBVAcl3eOyQrQ5T8?e=axqiSZ>**
+  There are a couple of ways to calculate the break-even point. I designed my break-even formula specifically for cannabis dispensaries. It includes an allowance for tax expenses and a deductible portion of operating expenses **[(read about what could be deducted here](https://redeyecpa.com/blog/what-can-i-deduct-as-a-cannabis-reseller/)).** To use this formula, you will need to open the Operating Net Profit and Break-Even Analysis calculators here **<https://1drv.ms/x/s!AselSA_JkDMsjBVAcl3eOyQrQ5T8?e=axqiSZ>**
 
-And enter your average monthly operating expenses and run Goal Seek function in the excel. To run Goal Seek, go to Data-->What is Analysis-->Goal Seek. Then set up cell to the values shown in the picture
+Enter your average monthly operating expenses and run the Goal Seek function in excel. To run Goal Seek, go to Data-->What is Analysis-->Goal Seek. Then set up a cell to the values shown in the picture
 
 ![Goal Seek Settings](../assets/goal-seek.png "Goal Seek Settings")
 
 The sales number will tell you how much you will need to sell that month to break even. Please note, I assumed that the mark up on your sales is double what you paid for the product. I also assumed that you could deduct 8% of your operating expenses. 
 
-If you need assistance with using the calculators, please contact me and I will e-mail them to you an old fashion way.
+If you need assistance with using the calculators, please contact me and I will e-mail them without a charge,
 
 Sincerely,
 
