@@ -28,9 +28,8 @@ The easiest way to document the deductible cost is to outline it in your employe
 
 As you can see, payroll for cannabis dispensaries is difficult but doable. Having banking makes the whole process much easier since there is a way to outsource it. However, cash payments can be arranged too.
 
-Please let me know if you have any questions and we will be able to assist you. At Red Eye CPA we provide payroll support for cash-only cannabis dispensaries.
+Please let me know if you have any questions with Cannabis Payroll and we will be able to assist you. At Red Eye CPA we provide payroll support for cash-only cannabis dispensaries.
 
 Sincerely,
-
 
 Daria Nagal, Cannabis CPA
