@@ -21,7 +21,7 @@ Also, only business transactions need to be reported. One-time personal payments
 **Here are some tips that will help you to file your first Fincen form 8300.**
 
 **Collect buyers information:**
-Before the meeting, inform your client that you will need the following documents: 
+Before the meeting, inform your cannabis client that you will need the following documents: 
 
 1. ID (driver license will do) and SS number of the person delivering the cash. It is enough to take a picture of both documents.
 2. Form W-9 for the business entity. This paper does not get filed with the IRS. The buyer fills out and signs this form for your records.
@@ -32,13 +32,13 @@ It is crucial to collect this information before or during a sale. In my experie
 
    ![cash reporting in Cannabis Industry](../assets/f8300-1.png "Form 8300 instructions")
 
-   **What to do if the client is not responding?**                                                                                                                  If you cannot get all of the necessary information from your buyer, try to do your best. Contact the client in a written form and ask again. If the client refuses to communicate or ignores your attempts, keep a copy of all of your communication. This will be proof of your compliance. Complete form 8300 with the information you have on file, and attach a statement explaining your attempts to collect the missing data.
+   **What to do if the client is not responding?**                                                                                                                  If you cannot get all of the necessary information from your cannabis buyer, try to do your best. Contact the client in a written form and ask again. If the cannabis client refuses to communicate or ignores your attempts, keep a copy of all of your communication. This will be proof of your compliance. Complete the IRS form 8300 with the information you have on file, and attach a statement explaining your attempts to collect the missing data.
 
    **How to file the IRS form 8300:**
    You can file this form online or send it via mail. If mailing to the IRS, remember that the day of filing is the day you mailed the envelope. So, if you post the form precisely 15 days after the transaction, you will be in good shape as long as you keep proof of mailing. 
 
    **Statement to the buyer:**
-   By January 31st, you will have to furnish your client with a statement that informs them of your 8300 form filings activity. The report is in free form but should include the following information:  contact information of both parties, the total amount of reportable cash in the past year, and notification that the company provided the information mentioned above to the IRS.
+   By January 31st, you will have to furnish your cannabis client with a statement that informs them of your 8300 form filings activity. The report is in free form but should include the following information:  contact information of both parties, the total amount of reportable cash in the past year, and notification that the company provided the information mentioned above to the IRS.
    The IRS imposes enormous penalties for failure to provide statements to buyers. So, make sure that you send them out by the end of January.
 
    That's all. You can read up on details**[ here:](<3. https://www.irs.gov/pub/irs-pdf/p1544.pdf>)**  
