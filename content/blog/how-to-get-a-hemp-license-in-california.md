@@ -5,8 +5,6 @@ title: How to get a hemp license in California
 description: How to get a hemp growing in California
 thumbnail: ../assets/hemp_and_sustainability-min.png
 ---
-
-
 In California, hemp licenses are given out by counties. Counties work with and account to[ the **CDFA**](https://www.cdfa.ca.gov/plant/industrialhemp/faq.html), which is a food and agriculture agency here in California. So, to apply, you need to download the application from the CDFA website and mail it along with supporting documents and the check to your county agricultural commissioner. 
 
 Here is the step-by-step instruction on how to get a hemp growing license in California:
@@ -18,11 +16,18 @@ There are two different hemp growing licenses. The first license is for **[grow
 
 A breeders’ license allows you to breed various types of seeds and strains, which are intended for sale or research. With a breeders’ license, you can create an intellectual property by obtaining a plant patent. With that patent, you will be able to sell your patented seeds to other growers.
 
+Nothing prevents you from getting both licenses at the same time. It all comes down to the amount of paperwork and time you are willing to invest.
+
 There are a couple of nuances that you need to know when it comes to filling out hemp license applications. 
 
-1. As a part of the hemp application, you will need to submit the following information: Assessor’s Parcel Number, its GPS coordinates, and its size. You will also need to indicate the purpose of the site, whether it will be used only for storage or cultivation, or both. The map of your site should support all of this information. You can print out a google map and show on it where you plan to grow and store your hemp.
+1. As a part of the hemp application, you will need to submit the following information: Assessor’s Parcel Number, its GPS coordinates, and its size. You will also need to indicate the purpose of the site, whether it will be used only for storage or cultivation, or both. The map of your site should support all of this information. Each county has its own requirement on what should be depicted in the map. It makes sense to call the county directly before investing time into something that will be rejected. **858-614-7786** is a phone number of the San Diego Hemp Cultivation Program and in my experience, they are pretty accommodating.  
+
+
 2. If you applying for a Growers hemp license, you will need to provide a list of all approved cultivars that you are planning to plant. Currently, California allows the import of seeds from other states. CDFA wants to know about the product you are growing and if they later find out that you were growing a completely different cultivar, they will revoke your license and won’t allow you to renew it. You will also need to indicate if your cultivar is certified and also attach all documentation to meet CCR § 4920 Requirement
-3. All breeders must attach a Variety Development plan to their application.
+
+   3. All breeders must attach a Variety Development plan to their application.
+
+   4. The application has a question if Hemp will be grown on the site licensed to cultivate or process cannabis. You       will not be allowed to grow hemp on the site registered with CalCannabis
 
 This is just a brief outlook of Hemp license applications in California. If all details you can contact them directly at (916) 654-0435. They are pretty good at returning their phone calls.
 
