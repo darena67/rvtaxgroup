@@ -2,7 +2,7 @@
 path: "guide on California Excise tax "
 date: 2020-11-28T14:38:55.116Z
 title: Excise Tax Formula
-description: Quick guide on Excise Tax for Cannabis Distributor in California
+description: California Cannabis Distributor Excise Tax
 thumbnail: ../assets/califoania.jpg
 ---
 California Excise tax is a pass-through tax - it is not paid by the cannabis business. The distributor charges this tax to the dispensary and remits it to the CDTFA. In its turn, the dispensary gets the money back by charging its customers at the moment of sale.
