@@ -27,4 +27,4 @@ This is just a brief outlook of Hemp license applications in California. If you 
 
 Sincerely,
 
-1. Daria Nagal, Cannabis and Hemp CPA
+Daria Nagal, Cannabis, and Hemp CPA
