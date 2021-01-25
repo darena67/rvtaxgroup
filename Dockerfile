@@ -13,6 +13,7 @@ COPY entrypoint.sh /
 EXPOSE 8000
 
 ENTRYPOINT ["/entrypoint.sh"]
+CMD ["gatsby", "develop -H 0.0.0.0"]
 
 ##
 #  cd redeyecpa
