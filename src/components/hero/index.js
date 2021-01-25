@@ -12,7 +12,7 @@ const Hero = () => {
       backgroundImage: file(relativePath: { eq: "hero-bg.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 1920) {
-            ...GatsbyImageSharpFluid
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }

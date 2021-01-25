@@ -21,7 +21,7 @@ const IndexPage = () => {
           icon {
             childImageSharp {
               fluid(maxWidth: 100) {
-                ...GatsbyImageSharpFluid
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }

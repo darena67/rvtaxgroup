@@ -9,7 +9,7 @@ const NotFoundPage = () => {
       noFoundImage: file(relativePath: { eq: "404-Error.png" }) {
         childImageSharp {
           fluid(maxWidth: 700) {
-            ...GatsbyImageSharpFluid
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }

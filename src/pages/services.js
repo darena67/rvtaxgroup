@@ -19,7 +19,7 @@ const ServicePage = () => {
           service_image {
             childImageSharp {
               fluid(maxWidth: 200) {
-                ...GatsbyImageSharpFluid
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
