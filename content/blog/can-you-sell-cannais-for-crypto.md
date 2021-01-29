@@ -5,7 +5,7 @@ title: Can you sell cannais for crypto
 description: Can you sell cannais for crypto
 thumbnail: ../assets/crypto.jpg
 ---
-Can You Sell Legal Cannabis for Cryptocurrency?
+***Can you sell legal cannabis for cryptocurrency?***
 
 We all know that the biggest issue of the cannabis industry is the lack of banking. Not all cannabis businesses can get business bank accounts. Can crypto payments solve your banking problem? 
 
