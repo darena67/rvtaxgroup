@@ -1,8 +1,8 @@
 ---
 path: crypto cannabis
 date: 2021-01-29T21:16:28.156Z
-title: Can you sell cannais for crypto
-description: Can you sell cannais for crypto
+title: Can you sell cannabis for crypto
+description: Can you sell cannabis for crypto
 thumbnail: ../assets/crypto.jpg
 ---
 ***Can you sell legal cannabis for cryptocurrency?***
