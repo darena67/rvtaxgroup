@@ -2,7 +2,7 @@
 path: how to file cultivation tax
 date: 2020-10-20T20:29:26.658Z
 title: Who pays Cultivation Tax?
-description: Common Cultivation Tax issues in California
+description: Who and how pays Cultivation Tax in California? Click here to find out!
 thumbnail: ../assets/cultivation-tax.jpg
 ---
 The Cultivation tax is a weird creature. The way the CDTFA went about collecting this tax is confusing for everyone. It also creates a lot of tension between cultivators and distributors.
