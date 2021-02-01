@@ -2,7 +2,8 @@
 path: crypto cannabis
 date: 2021-01-29T21:16:28.156Z
 title: Can you sell cannabis for crypto
-description: Can you sell cannabis for crypto
+description: Explanation on how crypto payments are taxed in the Cannabis
+  industry. Can crypto resolve your banking problem? Read to find out
 thumbnail: ../assets/crypto.jpg
 ---
 ***Can you sell legal cannabis for cryptocurrency?***
