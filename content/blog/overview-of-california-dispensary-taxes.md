@@ -2,7 +2,7 @@
 path: california dispensary taxes
 date: 2020-12-31T02:53:03.687Z
 title: California marijuana taxes
-description: A brief summary on how to calculate California dispensary taxes.
+description: Click here to find out how to calculate California dispensary taxes.
 thumbnail: ../assets/cannabis-tax-overview.jpg
 ---
 When I worked at a large dispensary chain in San Diego, my primary responsibility was to account for Sales, Excise, and City taxes. These taxes are so messy that even our cannabis lawyers could not agree on the proper way to calculate them. I honestly tried a couple of online cannabis tax calculators, but none of them was correct. This is mostly because of contradicting guidance coming from the CDTFA. They themselves are pretty confused.
