@@ -2,7 +2,7 @@
 path: hemp california
 date: 2021-01-29T22:14:47.852Z
 title: is it legal to grow hemp in california
-description: is it legal to grow hemp in california
+description: Click here to find out if you can legally grow hemp in California
 thumbnail: ../assets/hemp.jpg
 ---
 Can I grow hemp in California?
@@ -17,7 +17,7 @@ Currently, there are no restrictions on buying and selling industrial hemp in Ca
 
 The**[ California Department of Health ](https://www.co.monterey.ca.us/home/showdocument?id=69190)**prohibits hemp-derived CBD from being added to food since the FDA has not approved CBD as a safe food ingredient. In its turn, marijuana deprived CBD is allowed as a food additive but only if a. it was produced by a licensed cannabis manufacturer b. strictly used in the cannabis product only. In other words, you cannot grow hemp and sell hemp-derived CBD for food production.
 
-In my opinion, the hemp industry is oversaturated at this point.  Hemp farmers do not make too much profit by selling biomass. Too many growers and the market is flooded.  It is expensive to grow, process, package, and ship hemp.  Besides, hemp has a shelf life, and the farmer needs to make sure that hemp reaches the customer before its shelf life expires. Many hemp growers became vertically integrated and that helped them to stay profitable. Besides growing and processing, they also make their own retail products. Also, it makes sense to find buyers before heavily investing in hemp farming. 
+In my opinion, the hemp industry is oversaturated at this point.  Hemp farmers do not make too much profit by selling biomass. Too many growers and the market is flooded.  It is expensive to grow, process, package, and ship hemp.  Besides, hemp has a shelf life, and the farmer needs to make sure that hemp reaches the customer before its shelf life expires. Many hemp growers became vertically integrated and that helped them to stay profitable. Besides growing and processing, they also make their own retail products. So, for a hemp grower who is just starting out, it makes sense to find buyers before heavily investing in hemp farming. 
 
 The good news is that hemp growers are not subject to the IRS 280E rule and can deduct all of their operating expenses. This means significantly less money spent on taxes and proportionally much bigger cash inflow. You do, however, must comply with the IRS 471c and maintain a proper cost accounting method. Hemp farmers can also benefit from several farm tax credits that are not allowed to cannabis growers. Bank and credit card processing companies are still wary of hemp businesses since they don’t always understand the difference between federally legal hemp and federally illegal cannabis. But with persistence, everything is possible, and a bank account can be opened. 
 
