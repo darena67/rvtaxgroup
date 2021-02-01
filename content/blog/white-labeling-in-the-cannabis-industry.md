@@ -37,12 +37,10 @@ Since businesses that use white labeling are not actively manufacturing the prod
 
 **California Specifics**
 
-Prior to new regulations (See Section 5032), licensed cannabis operators were allowed to produce and distribute cannabis products on behalf of unlicensed entities. The new rule forbids licensed cannabis to conduct any business activity “on behalf of, at the request of, or pursuant to a contract with any person that is not licensed under the act”. That means that before getting into a contract you will need to consult a cannabis attorney who will help you to navigate through the rules of white labeling in California.
+Prior to new regulations** [(See Section 5032)](https://bcc.ca.gov/law_regs/cannabis_order_of_adoption.pdf),** licensed cannabis operators were allowed to produce and distribute cannabis products on behalf of unlicensed entities. The new rule forbids licensed cannabis to conduct any business activity “on behalf of, at the request of, or pursuant to a contract with any person that is not licensed under the act”. That means that before getting into a contract you will need to consult a cannabis attorney who will help you to navigate through the rules of white labeling in California.
 
 **To Conclude**
 
 Whether you’re hoping to sell vape pens, edibles, herbal cigarettes, or other cannabis extract products, there’s no doubt about it: getting started can be expensive and timely. That’s why white labeling might just be the way to get your foot into the door of the up-and-coming cannabis industry.
-
-
 
 Daria Nagal, Cannabis CPA
