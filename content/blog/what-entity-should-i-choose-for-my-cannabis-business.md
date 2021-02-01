@@ -2,7 +2,7 @@
 path: cannabis-entity-structure
 date: 2020-10-29T17:34:21.170Z
 title: What entity should I choose for my Cannabis business?
-description: Entity Selection for Cannabis Businesses
+description: Explanation on how to choose a right tax entity for your Cannabis Businesses
 thumbnail: ../assets/image5-1.jpg
 ---
 There is a widespread of IRS audits.
