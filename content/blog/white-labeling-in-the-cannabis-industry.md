@@ -2,7 +2,7 @@
 path: white label cannabis
 date: 2021-02-01T13:48:16.844Z
 title: White Labeling in the Cannabis Industry
-description: White Labeling in the Cannabis Industry
+description: A couple of suggestions on White Labeling in the Cannabis Industry
 thumbnail: ../assets/white-label-cannabis.jpg
 ---
 Many businesses are going down the white labeling route to tap into the cannabis industry. In this post, we’ll look at how exactly white labeling benefits the industry.
