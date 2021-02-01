@@ -18,6 +18,8 @@ With so many Cannabis CPAs out there, how do you decide which one to choose? By 
 
 No matter the CPA you choose, make sure you have done your research and found the best person possible for the job.
 
+![cannabis accountant CPA](../assets/cannabis-accountant.jpg "cannabis accountant")
+
 Sincerely,
 
 Daria Nagal, Cannabis CPA
