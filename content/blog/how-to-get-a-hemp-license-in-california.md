@@ -2,7 +2,7 @@
 path: Hemp license california
 date: 2021-01-22T20:53:22.001Z
 title: How to get a hemp license in California
-description: How to get a hemp growing in California? Click here to find out!
+description: How to get a hemp growing license in California? Click here to find out!
 thumbnail: ../assets/hemp_and_sustainability-min.png
 ---
 In California, hemp licenses are given out by counties. Counties work with and account to[ **the CDFA**](https://www.cdfa.ca.gov/plant/industrialhemp/faq.html)**,** which is a food and agriculture agency in California. So, you need to download the application from the CDFA website and mail it along with supporting documents and the check to your county agricultural commissioner. 
