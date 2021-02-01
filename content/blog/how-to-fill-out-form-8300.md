@@ -2,7 +2,8 @@
 path: help with form 8300
 date: 2020-10-16T20:54:40.922Z
 title: irs form 8300 requirement for cannabis businesses
-description: irs form 8300 requirements and instructions for Cannabis Companies
+description: Instructions on how to fill out the IRS form 8300 for a Cannabis
+  company. Click here to read more!
 thumbnail: ../assets/med-lounge-3w.jpg
 ---
 So.. you got paid in cash. What now? Well, first of all, spend it wisely.  Second of all, make sure you comply with the IRS cash reporting requirements. 
@@ -30,7 +31,7 @@ It is crucial to collect this information before or during a sale. In my experie
 
 3. Make sure to record how many $100 bills were in the payment. This information goes in Part III of the return.
 
-   ![cash reporting in Cannabis Industry](../assets/f8300-1.png "Form 8300 instructions")
+   ![IRS form 8300 instructions](../assets/f8300-1.png "Form 8300 instructions")
 
    **What to do if the client is not responding?**                                                                                                                  If you cannot get all of the necessary information from your cannabis buyer, try to do your best. Contact the client in a written form and ask again. If the cannabis client refuses to communicate or ignores your attempts, keep a copy of all of your communication. This will be proof of your compliance. Complete the IRS form 8300 with the information you have on file, and attach a statement explaining your attempts to collect the missing data.
 
