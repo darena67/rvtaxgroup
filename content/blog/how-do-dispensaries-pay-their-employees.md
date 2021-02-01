@@ -2,7 +2,8 @@
 path: payroll for dispensary employees
 date: 2021-01-11T18:33:52.895Z
 title: How do dispensaries pay their employees
-description: How to pay your budtenders and what is deductible
+description: Click here to find out how to pay cannabis budtenders and how much
+  of it is deductible on the dispensary's tax return!
 thumbnail: ../assets/budtender.jpg
 ---
 There are two ways you can pay your dispensary worker.
