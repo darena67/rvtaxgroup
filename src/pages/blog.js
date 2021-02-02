@@ -9,7 +9,10 @@ import SEO from '../components/seo';
 const BlogPage = ({ data }) => {
   return (
     <div className='blog'>
-      <SEO pageTitle='Blog' />
+      <SEO
+        pageTitle='Blog'
+        description='Read our blog on Cannabis and Hemp accounting and tax issues. In our blog you will find lots of useful information on how to run your business and save on cannabis taxes.'
+      />
       <Layout>
         <HeroOther
           title='blog'
