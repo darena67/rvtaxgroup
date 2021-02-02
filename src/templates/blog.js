@@ -9,6 +9,7 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       frontmatter {
         title
+        description
         date(formatString: "MMMM DD, YYYY")
         thumbnail {
           childImageSharp {
@@ -26,7 +27,8 @@ export const query = graphql`
 const Blog = (props) => {
   return (
     <>
-      <SEO pageTitle={`Blog - ${props?.data.markdownRemark.frontmatter.title}`} />
+      <SEO pageTitle={`Blog - ${props?.data.markdownRemark.frontmatter.title}`}
+        description={props?.data.markdownRemark.frontmatter.description} />
       <Layout>
         <BackgroundImage
           className='blog-header'
