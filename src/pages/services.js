@@ -32,7 +32,7 @@ const ServicePage = () => {
     <div className="service">
       <SEO
         pageTitle="Services"
-        description="Red Eye CPA offers affordable accounting services such as Business and Individual Tax Preparation, Local tax returns, Bookkeeping, Set up of POS tax withholdings, and the IRS, FTB and CDTFA representation. Click here to learn more!"
+        description="Red Eye CPA offers affordable accounting services such as business and individual tax preparation, local tax returns, bookkeeping, set up of POS tax withholdings, and the IRS, FTB and CDTFA representation. Click here to learn more!"
       />
       <Layout>
         <HeroOther

@@ -41,7 +41,7 @@ const PricingPage = () => {
     <div className="pricing">
       <SEO
         pageTitle="Pricing"
-        description="Affordable Cannabis CPA for dispensaries, retailers and growers in the state of California. We offer different pricing packages and we are always at front about our fees.  Check our website for more information."
+        description="Affordable Cannabis CPA for dispensaries, retailers and growers in the state of California. We offer different pricing packages and we are always at front about our fees. Check our website for more information."
       />
       <Layout>
         <HeroOther

@@ -4,7 +4,7 @@ const description = 'Cannabis CPA serving dispensaries, distributors and cultiva
 
 module.exports = {
   siteMetadata: {
-    title: `RedEyeCPA`,
+    title: `Red Eye CPA`,
     description: description,
     author: name,
     siteUrl: siteUrl,
