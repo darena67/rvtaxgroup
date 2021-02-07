@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import Img from "gatsby-image";
 
 import "./hero-others.scss"
 
@@ -14,7 +15,7 @@ const HeroOther = ({ title, image, intro }) => {
             Get Started
           </Link>
         </div>
-        <img src={image} alt="Ilustration" className="heroOther__ilustration" />
+        <Img fluid={image} alt="Ilustration" className="heroOther__ilustration" />
       </div>
     </div>
   )

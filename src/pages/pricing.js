@@ -2,7 +2,6 @@ import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
 import Layout from "../components/layout";
 import HeroOther from "../components/heroOthers";
-import PricingIllustration from "../images/illustration/pricing-illustration.png";
 import PricingCard from "../components/cards/pricing";
 
 import Accordion from "@material-ui/core/Accordion";
@@ -11,9 +10,8 @@ import AccordionDetails from "@material-ui/core/AccordionDetails";
 import Typography from "@material-ui/core/Typography";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
-import Certification1 from "../images/pricing_certification1.png";
-import Certification2 from "../images/pricing_certification2.png";
 import SEO from "../components/seo";
+import Img from "gatsby-image"
 
 const PricingPage = () => {
   let data = useStaticQuery(graphql`
@@ -34,9 +32,38 @@ const PricingPage = () => {
           pricing
         }
       }
+    PricingIllustrationImage: file(relativePath: { eq: "illustration/pricing-illustration.png" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fluid(maxWidth: 1920) {
+          ...GatsbyImageSharpFluid_withWebp
+        }
+      }
     }
+    CertificationIconImage: file(relativePath: { eq: "pricing_certification1.png" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fluid(maxWidth: 250) {
+          ...GatsbyImageSharpFluid_withWebp
+          ...GatsbyImageSharpFluidLimitPresentationSize
+        }
+      }
+		}
+    Certification2IconImage: file(relativePath: { eq: "pricing_certification2.png" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fluid(maxWidth: 300) {
+          ...GatsbyImageSharpFluid_withWebp
+          ...GatsbyImageSharpFluidLimitPresentationSize
+        }
+      }
+		}
+   }
   `);
-  data = data.pagesYaml;
+  const data_yaml = data.pagesYaml;
   return (
     <div className="pricing">
       <SEO
@@ -47,11 +74,11 @@ const PricingPage = () => {
         <HeroOther
           title="pricing"
           subtitle={["Find the plan that’s just right for your business"]}
-          image={PricingIllustration}
-          intro={data.intro}
+          image={data.PricingIllustrationImage.childImageSharp.fluid}
+          intro={data_yaml.intro}
         />
         <div className="pricing__cardContainer section container">
-          {data.packages.map((item, index) => (
+          {data_yaml.packages.map((item, index) => (
             <PricingCard
               key={index}
               title={item.name}
@@ -64,8 +91,8 @@ const PricingPage = () => {
         </div>
         <div className=" cta-section container text-center">
           <h3 className="cta__text ">
-            Is your package missing something ? Please contact for a customized
-            plan
+            Are these plans not your cup of tea? Please contact us for a customized
+            plan.
           </h3>
           <Link to="/contact/" className="btn btn-cta">
             Inquire
@@ -82,7 +109,7 @@ const PricingPage = () => {
               </h6>
             </div>
             <div className="faq__right">
-              {data.faqs.map((item, index) => (
+              {data_yaml.faqs.map((item, index) => (
                 <Accordion key={index}>
                   <AccordionSummary
                     expandIcon={<ExpandMoreIcon style={{ color: "white" }} />}
@@ -106,8 +133,8 @@ const PricingPage = () => {
           <div className="container">
             <h2 className="section-title">Our Certifications</h2>
             <div className="pricing__certification">
-              <img src={Certification1} alt="Certification" />
-              <img src={Certification2} alt="Certification" />
+              <Img fluid={data.CertificationIconImage.childImageSharp.fluid} alt="Certification" />
+              <Img fluid={data.Certification2IconImage.childImageSharp.fluid} alt="Certification" />
             </div>
           </div>
         </div>

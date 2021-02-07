@@ -2,7 +2,6 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import HeroOther from '../components/heroOthers';
 import Layout from '../components/layout';
-import BlogIllustration from '../images/illustration/blog-illustration.svg';
 import BlogCard from '../components/cards/home-blog';
 import SEO from '../components/seo';
 
@@ -16,7 +15,7 @@ const BlogPage = ({ data }) => {
       <Layout>
         <HeroOther
           title='blog'
-          image={BlogIllustration}
+          image={data.BlogIllustrationImage.childImageSharp.fluid}
           intro={data.pagesYaml.intro}
         />
 
@@ -72,6 +71,15 @@ export const pageQuery = graphql`
           }
           excerpt(pruneLength: 60)
           id
+        }
+      }
+    }
+    BlogIllustrationImage: file(relativePath: { eq: "illustration/blog-illustration.png" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fluid(maxWidth: 1920) {
+          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }

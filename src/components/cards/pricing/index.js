@@ -1,8 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
+import CheckIcon from "@material-ui/icons/Check"
 import "./pricing-card.scss"
-
-import CheckIcon from "../../../images/icon_check.png"
 
 const PricingCard = ({ title, subtitle, price, featureTitle, feature }) => {
   return (
@@ -14,8 +13,7 @@ const PricingCard = ({ title, subtitle, price, featureTitle, feature }) => {
       <ul>
         {feature.map((item,index) => (
           <li key={index}>
-            <img src={CheckIcon} alt="checkIcon" />
-            {item.text}
+            <CheckIcon className="icon" /> <div>{item.text}</div>
           </li>
         ))}
       </ul>

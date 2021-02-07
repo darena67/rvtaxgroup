@@ -1,11 +1,12 @@
 import React from "react"
 import CheckCircleIcon from "@material-ui/icons/CheckCircle"
 import "./about-infolist.scss"
+import Img from "gatsby-image"
 
 const AboutInfoList = ({ image }) => {
   return (
     <div className="aboutInfolist container">
-      <img src={image} alt="About Illustration" />
+      <Img fluid={image} className="container" alt="About Illustration" />
       <ul>
         <li>
           <CheckCircleIcon className="icon" />

@@ -42,6 +42,10 @@
     li {
       display: flex;
       padding: 10px 0;
+			.icon{
+					color:$primary-light;
+					margin-right: 10px;
+			}
       img {
         align-self: flex-start;
         height: 1rem;

@@ -2,8 +2,6 @@ import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
 import HeroOther from "../components/heroOthers";
 import Layout from "../components/layout";
-import AboutIllustration from "../images/illustration/about-illustration.png";
-import About2Illustration from "../images/illustration/about-illustration2.png";
 import AboutCard from "../components/aboutCard";
 import AboutInfoList from "../components/aboutInfolist";
 import SEO from "../components/seo";
@@ -27,6 +25,22 @@ const AboutPage = () => {
           }
         }
       }
+      AboutIllustrationImage: file(relativePath: { eq: "illustration/about-illustration.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920) {
+            ...GatsbyImageSharpFluid_withWebp
+            ...GatsbyImageSharpFluidLimitPresentationSize
+          }
+        }
+      }
+      AboutIllustration2Image: file(relativePath: { eq: "illustration/about-illustration2.png" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920) {
+            ...GatsbyImageSharpFluid_withWebp
+            ...GatsbyImageSharpFluidLimitPresentationSize
+          }
+        }
+      }
     }
   `);
   console.log(data);
@@ -45,7 +59,7 @@ const AboutPage = () => {
             "- we are here to help",
           ]}
           intro={data.pagesYaml.intro}
-          image={AboutIllustration}
+          image={data.AboutIllustrationImage.childImageSharp.fluid}
         />
         <div className="about__section section container">
           {data.pagesYaml.team.map((item) => (
@@ -63,7 +77,7 @@ const AboutPage = () => {
         </h3>
 
         <div className="about__infoList section bg-info-blue text-light ">
-          <AboutInfoList image={About2Illustration} />
+          <AboutInfoList image={data.AboutIllustration2Image.childImageSharp.fluid} />
         </div>
         <div className="section  container text-center">
           <h3 className="cta__text ">

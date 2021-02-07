@@ -2,7 +2,6 @@ import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
 import HeroOther from "../components/heroOthers";
 import Layout from "../components/layout";
-import ServicesIllustration from "../images/illustration/service-illustration.png";
 import ServicePageCard from "../components/cards/service-card";
 
 import SEO from "../components/seo";
@@ -25,9 +24,18 @@ const ServicePage = () => {
           }
         }
       }
+    ServiceIllustrationImage: file(relativePath: { eq: "illustration/service-illustration.png" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fluid(maxWidth: 1920) {
+          ...GatsbyImageSharpFluid_withWebp
+        }
+      }
+    }
     }
   `);
-  data = data.pagesYaml;
+  const data_yaml = data.pagesYaml;
   return (
     <div className="service">
       <SEO
@@ -40,11 +48,11 @@ const ServicePage = () => {
           subtitle={[
             "We are a one-stop-shop serving small cannabis businesses in the state of California. We handle all the essential accounting functions required by the IRS and local authorities. Eliminate your worries by outsourcing to us the following  tasks:",
           ]}
-          image={ServicesIllustration}
-          intro={data.intro}
+          image={data.ServiceIllustrationImage.childImageSharp.fluid}
+          intro={data_yaml.intro}
         />
         <div className="container section">
-          {data.services_list.map((item, index) => (
+          {data_yaml.services_list.map((item, index) => (
             <ServicePageCard
               key={index}
               image={item.service_image.childImageSharp.fluid}
