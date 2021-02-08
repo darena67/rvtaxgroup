@@ -2,8 +2,9 @@
 path: cannabis distribution
 date: 2021-02-08T17:57:52.199Z
 title: How does cannabis distribution work?
-description: An informative article on cannabis distribution in California that
-  explains how distributors operate and what taxes they are required to pay.
+description: An article on cannabis distribution in California that explains how
+  distributors operate and what taxes they are required to pay.
+thumbnail: ../assets/cannabis-disitrbutor.jpg
 ---
  In California, dealing with the cannabis distributor is not optional. The law forbids the grower from selling directly to the retailer. There should be a middle man, so-called the distributor, who conducts the sale. The cannabis distributor has three main responsibilities:
 
