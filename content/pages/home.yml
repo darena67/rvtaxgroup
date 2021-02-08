@@ -2,14 +2,14 @@ page: home
 hero_quote: Hi! I am Daria. I am here to take the accounting stress out of your
   Cannabis business.
 home_services:
-  - name: Cannabis and Hemp Accounting
+  - name: Bookkeeping
     service:
       - text: GAAP compliant financial statements
       - text: Full absorption cost accounting
       - text: "Accounting set up & clean up "
       - text: Assistance with Payroll set up
     icon: ../assets/accountant.png
-  - name: Marijuana Tax Consulting
+  - name: "Local Income Tax Compliance "
     service:
       - text: Sales & Use, Excise, Cultivation and City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
