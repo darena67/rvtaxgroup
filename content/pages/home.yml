@@ -11,7 +11,8 @@ home_services:
     icon: ../assets/accountant.png
   - name: "Local Income Tax Compliance "
     service:
-      - text: Sales & Use, Excise, Cultivation and City Cannabis tax returns
+      - text: Sales & Use, Excise, Cultivation, City Cannabis and Business Property tax
+          returns
       - text: Configuration of tax settings in Point of Sale systems
       - text: CDTFA Payment Plans
       - text: Development and review of local tax procedures
