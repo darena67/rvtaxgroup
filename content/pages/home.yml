@@ -9,7 +9,7 @@ home_services:
       - text: "Accounting set up & clean up "
       - text: Assistance with Payroll set up
     icon: ../assets/accountant.png
-  - name: "Local Income Tax Compliance "
+  - name: "Local Tax Compliance "
     service:
       - text: Sales & Use, Excise, Cultivation, City Cannabis and Business Property tax
           returns
