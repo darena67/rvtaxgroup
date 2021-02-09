@@ -1,8 +1,8 @@
 page: about
-intro: |-
-  Cannabis is your passion. Accounting is our specialty
-  Whether it is bookkeeping, tax preparation or audits
-  -we are here to help
+intro: Red Eye CPA is a one-stop-shop serving small businesses in the state of
+  California. We handle all the essential accounting functions required by the
+  IRS and local authorities. Eliminate your worries by outsourcing your
+  accounting needs to us.
 team:
   - name: Daria Nagal
     position: CPA, EA
@@ -13,7 +13,7 @@ team:
       businesses, real estate entities, and high-net-worth individuals. 
 
 
-      Daria learned all ins and outs of the Cannabis Industry at a large dispensary and distributor, where she oversaw local tax compliance. At Red Eye CPA Daria is in charge of section 280 E mitigation and local taxes.
+      Daria learned all ins and outs of the Cannabis Industry at a large dispensary and distributor, where she oversaw local tax compliance. At Red Eye CPA Daria is in charge of income tax preparation, section 280 E mitigation, and local taxes.
   - name: Helena Gregory
     position: Senior Accountant
     photo: ../assets/about_svetlana.jpg
@@ -23,4 +23,4 @@ team:
       accountant positions in the banking and tourism industries.
 
 
-      Helena is a Quickbooks expert and an accounting wizard. At Red Eye CPA, she is in charge of Cannabis bookkeeping and preparation of financial statements.
+      Helena is a Quickbooks expert and an accounting wizard. At Red Eye CPA, she is in charge of bookkeeping and preparation of financial statements.

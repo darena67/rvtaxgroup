@@ -1,15 +1,13 @@
 page: services
-intro: "We are a one-stop-shop serving small cannabis businesses in the state of
-  California. We handle all the essential accounting functions required by the
-  IRS and local authorities. Eliminate your worries by outsourcing to us the
-  following tasks:"
+intro: Business is your passion. Accounting is our specialty. Whether it is
+  bookkeeping, tax preparation, or audits -we are here to help.
 services_list:
   - title: Business and Individual
     subtitle: TAX PREPARATION & PLANNING
-    desc: We provide tax preparation services for cannabis companies and their
+    desc: "We provide tax preparation services for small businesses and their
       owners. We focus on Section 280 E mitigation and make sure that no
       possible deduction is missed. We also provide tax planning and instruct on
-      forms that typically do not need our assistance, such as form 8300
+      forms that typically do not need our assistance, such as form 8300. "
     service_image: ../assets/irs-cannabis-icon.jpg
   - title: Excise, Cultivation, SUT and City tax returns
     subtitle: PREPARATION AND FILING
@@ -20,8 +18,8 @@ services_list:
       yearly business personal property and environmental fee returns. "
     service_image: ../assets/2.jpg
   - title: Bookkeeping
-    subtitle: CANNABIS, HEMP AND ANCILLARY COMPANIES
-    desc: "Cannabis bookkeeping can get quite complicated. If you want those
+    subtitle: SMALL BUSINESSES, CANNABIS, AND HEMP COMPANIES
+    desc: "Sometimes bookkeeping can get quite complicated. If you want those
       deductions on your tax return, you need to make sure that your accounting
       is GAAP compliant. Have you heard of such things as the Absorption method,
       Accrual accounting, and Lower of Cost or Market rule? If not, it's OK
