@@ -1,5 +1,5 @@
 import React from "react"
-import HeroImage from "../../images/hero-headshot.webp"
+import HeroImage from "../../images/hero-headshot.png"
 import HeroQuotes from "../../images/hero-quotes.png"
 
 import { useStaticQuery, graphql, Link } from "gatsby"
