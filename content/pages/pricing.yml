@@ -1,30 +1,33 @@
 page: pricing
 intro: Find the plan that’s right for you
 packages:
-  - name: Individual
+  - name: Individuals
     desc: "1040"
     pricing: Starting $300
     feature-title: "May include:"
     feature:
       - text: W-2s, dependants, childcare expenses
-      - text: Business or Rental Income (Schedule C or E)
+      - text: Business, Rental Income or Investment income (Schedule C, E, B or D)
       - text: Homeowners (Schedule A)
-  - name: Business
+  - name: Businesses
     desc: 1065, 1120 & 1120-S
     pricing: Starting $800
-    feature-title: May include
+    feature-title: "May include:"
     feature:
-      - text: Partnerships, Corporations and S-Corps
-      - text: Year-end Adjusting Entries
-      - text: Bookkeeping
+      - text: Partnerships, Corporations and S-Corps tax returns
+      - text: Business Property Returns
+      - text: Bookkeeping Services
   - name: Cannabis Clients
-    desc: ""
+    desc: Cultivators, Distributors and Dispensaries
     pricing: Starting $1200 a month
     feature-title: "Include:"
     feature:
-      - text: Bookkeeping and Cost Accounting
-      - text: Monthly and quarterly local tax returns
-      - text: Income tax returns
+      - text: GAAP compliant financial statements
+      - text: Full absorption cost accounting
+      - text: Sales & Use, Excise, Cultivation, City Cannabis tax returns
+      - text: Configuration of tax settings in Point of Sale systems
+      - text: Section 280E mitigation & 471 compliance
+      - text: Tax preparation & planning
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
