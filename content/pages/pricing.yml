@@ -1,30 +1,30 @@
 page: pricing
 intro: Find the plan that’s right for your business
 packages:
-  - name: Basic
-    desc: I am a DIY person
-    pricing: Starting $500 a month
-    feature-title: "Basic Features:"
+  - name: Individual
+    desc: "1040"
+    pricing: Starting $300
+    feature-title: "May include:"
     feature:
-      - text: Monthly review of external bookkeeping
-      - text: Monthly cost accounting adjusting entries
-      - text: Monthly and quaterly  local tax returns
-  - name: Standard
-    desc: I keep my own books... you do the rest
-    pricing: Starting $900 a month
-    feature-title: "Everything in Basic, and:"
+      - text: W-2s, dependants, childcare expenses
+      - text: Business or Rental Income (Schedule C or E)
+      - text: Homeowners (Schedule A)
+  - name: Business
+    desc: 1065, 1120 & 1120-S
+    pricing: Starting $800
+    feature-title: May include
     feature:
-      - text: Monthly outflow cash projections
-      - text: Quaterly Estimated Tax Vouchers
-      - text: Business Income Tax Return
-  - name: Advanced
-    desc: '"Please take care of everything" type of plan'
-    pricing: Starting $1200 a month
-    feature-title: "Everything in Standard, and:"
-    feature:
+      - text: Partnerships, Corporations and S-Corps
+      - text: Year-end Adjusting Entries
       - text: Bookkeeping
-      - text: Cloud backup of important business documentation
-      - text: CFO Services
+  - name: Cannabis Clients
+    desc: ""
+    pricing: Starting $1200 a month
+    feature-title: "Include:"
+    feature:
+      - text: Bookkeeping and Cost Accounting
+      - text: Monthly and quarterly local tax returns
+      - text: Income tax returns
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
