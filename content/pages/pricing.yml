@@ -9,6 +9,7 @@ packages:
       - text: W-2s, dependants, childcare expenses
       - text: Business, Rental Income or Investment income (Schedule C, E, B or D)
       - text: Homeowners (Schedule A)
+      - text: Tax Planning
   - name: Businesses
     desc: 1065, 1120 & 1120-S
     pricing: Starting $800
@@ -17,17 +18,16 @@ packages:
       - text: Partnerships, Corporations and S-Corps tax returns
       - text: Business Property Returns
       - text: Bookkeeping Services
+      - text: Estimated Tax Payments
   - name: Cannabis Clients
     desc: Cultivators, Distributors and Dispensaries
     pricing: Starting $1200 a month
     feature-title: "Include:"
     feature:
-      - text: GAAP compliant financial statements
-      - text: Full absorption cost accounting
+      - text: Cannabis Bookkeeping
       - text: Sales & Use, Excise, Cultivation, City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
-      - text: Section 280E mitigation & 471 compliance
-      - text: Tax preparation & planning
+      - text: "Tax Preparation "
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
