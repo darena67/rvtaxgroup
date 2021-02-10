@@ -24,12 +24,10 @@ packages:
     pricing: Starting $1200 a month
     feature-title: "Include:"
     feature:
-      - text: GAAP compliant financial statements
-      - text: Full absorption cost accounting
+      - text: Cannabis Bookkeeping
       - text: Sales & Use, Excise, Cultivation, City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
-      - text: Section 280E mitigation & 471 compliance
-      - text: Tax preparation & planning
+      - text: "Tax Preparation "
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
