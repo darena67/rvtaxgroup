@@ -19,7 +19,7 @@ home_services:
   - name: Income Tax Preparation
     service:
       - text: Section 280E mitigation & 471 compliance
-      - text: Tax preparation & planning
+      - text: Business and individual tax preparation & planning
       - text: Entity selection
       - text: IRS and FTB correspondence and audits
     icon: ../assets/tax.png
