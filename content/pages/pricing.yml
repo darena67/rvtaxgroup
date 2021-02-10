@@ -19,10 +19,10 @@ packages:
       - text: Business Property Returns
       - text: Bookkeeping Services
       - text: Estimated Tax Payments
-  - name: Cannabis Clients
+  - name: "Cannabis "
     desc: Cultivators, Distributors and Dispensaries
     pricing: Starting $1200 a month
-    feature-title: "Include:"
+    feature-title: "May include:"
     feature:
       - text: Cannabis Bookkeeping
       - text: Sales & Use, Excise, Cultivation, City Cannabis tax returns
