@@ -21,7 +21,7 @@ packages:
       - text: Estimated Tax Payments
   - name: "Cannabis "
     desc: Cultivators, Distributors and Dispensaries
-    pricing: Starting $1200 a month
+    pricing: "Starting $1200 "
     feature-title: "May include:"
     feature:
       - text: Cannabis Bookkeeping
