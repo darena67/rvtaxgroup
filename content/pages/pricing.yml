@@ -1,44 +1,51 @@
 page: pricing
-intro: Find the plan that’s right for your business
+intro: Find the plan that’s right for you
 packages:
-  - name: Basic
-    desc: I am a DIY person
-    pricing: Starting $500 a month
-    feature-title: "Basic Features:"
+  - name: Individuals
+    desc: "1040"
+    pricing: Starting $300
+    feature-title: "May include:"
     feature:
-      - text: Monthly review of external bookkeeping
-      - text: Monthly cost accounting adjusting entries
-      - text: Monthly and quaterly  local tax returns
-  - name: Standard
-    desc: I keep my own books... you do the rest
-    pricing: Starting $900 a month
-    feature-title: "Everything in Basic, and:"
+      - text: W-2s, dependants, childcare expenses
+      - text: Business, Rental Income or Investment income (Schedule C, E, B or D)
+      - text: Homeowners (Schedule A)
+      - text: Tax Planning
+  - name: Businesses
+    desc: 1065, 1120 & 1120-S
+    pricing: Starting $800
+    feature-title: "May include:"
     feature:
-      - text: Monthly outflow cash projections
-      - text: Quaterly Estimated Tax Vouchers
-      - text: Business Income Tax Return
-  - name: Advanced
-    desc: '"Please take care of everything" type of plan'
-    pricing: Starting $1200 a month
-    feature-title: "Everything in Standard, and:"
+      - text: Partnerships, Corporations and S-Corps tax returns
+      - text: Business Property Returns
+      - text: Bookkeeping Services
+      - text: Estimated Tax Payments
+  - name: "Cannabis "
+    desc: Cultivators, Distributors and Dispensaries
+    pricing: "Starting $1200 "
+    feature-title: "May include:"
     feature:
-      - text: Bookkeeping
-      - text: Cloud backup of important business documentation
-      - text: CFO Services
+      - text: Cannabis Bookkeeping
+      - text: Sales & Use, Excise, Cultivation, City Cannabis tax returns
+      - text: Configuration of tax settings in Point of Sale systems
+      - text: "Tax Preparation "
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
       makes you worry about your upcoming CPA bill. The only time we are billing
       by the hour is when we cannot reasonably estimate our time spend on a
       specific non-recurring project.
-  - answer: "There are four main parts of Cannabis accounting: Bookkeeping+Cost
-      Accounting+Local Taxes+Income Tax Corporation. With the first plan, you
-      take care of bookkeeping and income tax preparation, and we help you with
-      cost accounting and local taxes.  With the second plan, you use your
-      bookkeeper, and we take care of cost accounting, local, and income taxes.
-      With the third plan, we become your CFO and oversee all of the accounting
-      functions. "
-    question: What is the main difference between the plans?
+  - answer: " We will be more than happy to meet you in person if you are in San
+      Diego area. If not, we try to set up Zoom meetings for all of our new
+      customers. Also, California CPAs can be verified on the CBA website. You
+      are welcome to look us up! We are in compliance. "
+    question: Can I meet you in person? Afterall, you have my personal information!
   - question: How do you deliver sensitive information to clients?
-    answer: "We are a paperless CPA firm that utilizes a secure client portal to
-      exchange and deliver private information. "
+    answer: We are paperless and virtual. We utilize a secure client portal to
+      exchange and deliver private information. Client documents are
+      encrypted  and stored on a secure server with two-factor authentication.
+  - question: What else is included?
+    answer: We value “all included” approach. For individuals, we offer free
+      consultations during the year and tax planning at year end. For business
+      clients we prepare quarterly estimated tax vouchers and look over their
+      financials if requested. For our Cannabis clients, we prepare and file
+      their monthly and quarterly local tax returns.

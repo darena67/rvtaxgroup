@@ -1,5 +1,7 @@
 import React from "react"
 import Img from "gatsby-image"
+import HeroImage from "../../images/hero-headshot2.png"
+import HeroQuotes from "../../images/hero-quotes2.png"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import BackgroundImage from "gatsby-background-image"
 
