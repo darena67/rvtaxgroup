@@ -1,11 +1,10 @@
 import React from "react"
-import HeroImage from "../../images/hero-headshot.png"
-import HeroQuotes from "../../images/hero-quotes.png"
-
+import Img from "gatsby-image"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import BackgroundImage from "gatsby-background-image"
 
 import "./home-hero.scss"
+
 
 const HomeHero = ({heroQuote}) => {
   const data = useStaticQuery(graphql`
@@ -18,6 +17,23 @@ const HomeHero = ({heroQuote}) => {
           }
         }
       }
+
+      HeroHeadshotImage: file(relativePath: { eq: "hero-headshot.png" }) {
+        childImageSharp {
+          fixed(width: 478 height: 571 quality: 90) {
+            ...GatsbyImageSharpFixed_withWebp
+          }
+        }
+      }
+
+      HeroQuoteImage: file(relativePath: { eq: "hero-quotes.png" }) {
+        childImageSharp {
+          fixed(width: 100) {
+            ...GatsbyImageSharpFixed_withWebp
+          }
+        }
+      }
+
     }
   `)
   return (
@@ -27,11 +43,10 @@ const HomeHero = ({heroQuote}) => {
     >
       <div className="container">
         <div className="hero__image">
-          <img src={HeroImage} alt="Hero" />
+          <Img fixed={data.HeroHeadshotImage.childImageSharp.fixed} className="hero__image" alt="Dasha Nagal CPA/EA" />
         </div>
 
-        <div className="hero__blockquote">
-          <img src={HeroQuotes} alt="double quote" className="hero__doublequote" />
+          <div className="hero__blockquote">
           <div
             className='hero__quote'
             dangerouslySetInnerHTML={{ __html: heroQuote }}
