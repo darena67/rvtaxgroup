@@ -1,6 +1,6 @@
 const name = 'Daria Nagal';
 const siteUrl = 'https://redeyecpa.com';
-const description = 'Cannabis CPA serving dispensaries, distributors and cultivators in the state of California.'
+const description = 'Having a problem with the IRS taking too much of your stash? At Red Eye CPA we focus on Individual and Business taxation, as well as the Cannabis industry.';
 
 module.exports = {
   siteMetadata: {
