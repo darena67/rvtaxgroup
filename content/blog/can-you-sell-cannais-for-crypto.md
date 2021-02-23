@@ -36,4 +36,4 @@ As you can see, legal cannabis can be bought and sold with crypto. But if you wa
 
 Please let me know if you would like to discuss any other ideas on crypto cannabis transactions.
 
-Sincerely, Daria Nagal, Cannabis CPA
+Sincerely, Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
