@@ -48,6 +48,6 @@ If you need assistance with using the calculators, please contact me and I will 
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
 
 [](https://1drv.ms/x/s!AselSA_JkDMsjBVAcl3eOyQrQ5T8?e=axqiSZ)
