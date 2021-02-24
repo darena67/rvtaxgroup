@@ -20,4 +20,4 @@ The IRS does not look favorably upon these arrangements. But so far, it can work
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
