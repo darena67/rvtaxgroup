@@ -38,4 +38,4 @@ This was a quick overview of cannabis distribution. To summarize, you will need 
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
