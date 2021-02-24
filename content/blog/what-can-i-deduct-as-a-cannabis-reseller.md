@@ -41,4 +41,4 @@ If all of the above flew over your head, please contact us.
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
