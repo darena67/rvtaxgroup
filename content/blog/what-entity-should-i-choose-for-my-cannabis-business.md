@@ -33,4 +33,4 @@ When you look at the entity planning, the general starting point is to answer th
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
