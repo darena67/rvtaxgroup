@@ -34,4 +34,4 @@ Those are the major points about California Cannabis Excise tax. If you need hel
 
 Sincerely, 
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
