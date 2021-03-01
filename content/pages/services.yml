@@ -1,25 +1,24 @@
 page: services
-intro: Cannabis is your passion. Accounting is our specialty. Whether it is
+intro: Business is your passion. Accounting is our specialty. Whether it is
   bookkeeping, tax preparation, or audits -we are here to help.
 services_list:
   - title: Business and Individual
     subtitle: TAX PREPARATION & PLANNING
-    desc: "We provide tax preparation services for businesses, individuals and
-      cannabis start ups. We focus on Section 280 E mitigation and make sure
-      that no possible deduction is missed. We also provide tax planning and
-      instruct on Cannabis forms that typically do not need our assistance, such
-      as form 8300. "
+    desc: "We provide tax preparation services for businesses and individuals. We
+      focus on Section 280 E mitigation and make sure that no possible deduction
+      is missed. We also provide tax planning and instruct on forms that
+      typically do not need our assistance, such as form 8300. "
     service_image: ../assets/irs-cannabis-icon.jpg
   - title: Excise, Cultivation, SUT and City tax returns
     subtitle: PREPARATION AND FILING
-    desc: "With us, you will not worry about missing a deadline for Cannabis Excise
-      or City tax. We research local guidance, prepare your tax return, and make
-      sure you pay it on time. If needed, we will contact local authorities to
-      sort out a notice in the mail or previous delinquency. We also take care
-      of yearly business personal property and environmental fee returns. "
+    desc: "With us, you will not worry about missing a deadline for Excise or City
+      tax. We research local guidance, prepare your tax return, and make sure
+      you pay it on time. If needed, we will contact local authorities to sort
+      out a notice in the mail or previous delinquency. We also take care of
+      yearly business personal property and environmental fee returns. "
     service_image: ../assets/2.jpg
   - title: Bookkeeping
-    subtitle: SMALL BUSINESSES, CANNABIS, AND HEMP COMPANIES
+    subtitle: SMALL BUSINESSES AND HEMP COMPANIES
     desc: "Sometimes bookkeeping can get quite complicated. If you want those
       deductions on your tax return, you need to make sure that your accounting
       is GAAP compliant. Have you heard of such things as the Absorption method,
@@ -29,12 +28,12 @@ services_list:
     service_image: ../assets/1.jpg
   - title: Point of Sale Software
     subtitle: SET UP AND AUDIT OF TAX SETTINGS
-    desc: "CDTFA wants its share of Cannabis Excise and SUT tax. If you under
-      collected, the agency will ask you to pay the missing tax out of pocket.
-      If you over-collected, the agency will want this money too! As a Cannabis
-      dispensary, you collect those taxes through your Point of Sale System, and
-      very often, its tax settings are incorrect. We help you set up your POS
-      tax withholdings; this way, you do not pay a dime less or more in tax. "
+    desc: "CDTFA wants its share of Excise and SUT tax. If you under collected, the
+      agency will ask you to pay the missing tax out of pocket. If you
+      over-collected, the agency will want this money too! As a green store, you
+      collect those taxes through your Point of Sale System, and very often, its
+      tax settings are incorrect. We help you set up your POS tax withholdings;
+      this way, you do not pay a dime less or more in tax. "
     service_image: ../assets/point-of-sale-software.jpg
   - title: IRS, FTB & CDTFA
     subtitle: REPRESENTATION
