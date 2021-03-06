@@ -1,9 +1,9 @@
 ---
 path: cannabis CPA
 date: 2021-01-28T21:27:17.878Z
-title: how to choose cannabis accountant
+title: Cannabis CPA
 description: How to choose a cannabis accountant? Click here for step by step instructions!
-thumbnail: ../assets/cpa.png
+thumbnail: ../assets/cannabis-accountant.jpg
 ---
 With so many accountants out there, how do you decide which one to choose? By following a couple of tips, you’ll be able to find your perfect fit. 
 
@@ -18,7 +18,7 @@ With so many accountants out there, how do you decide which one to choose? By fo
 
 No matter the accountant you choose, make sure you have done your research and found the best person possible for the job.
 
-![cannabis accountant CPA](../assets/cannabis-accountant.jpg "cannabis accountant")
+![cannabis accountant CPA]( "cannabis accountant")
 
 Sincerely,
 
