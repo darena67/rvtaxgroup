@@ -18,8 +18,8 @@ With so many accountants out there, how do you decide which one to choose? By fo
 
 No matter the accountant you choose, make sure you have done your research and found the best person possible for the job.
 
-![cannabis accountant CPA]( "cannabis accountant")
+![]( "cannabis accountant")
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal**,[ Cannabis CPA](https://redeyecpa.com/)**
