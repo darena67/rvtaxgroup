@@ -1,13 +1,13 @@
 page: services
-intro: Business is your passion. Accounting is our specialty. Whether it is
-  bookkeeping, tax preparation, or audits -we are here to help.
+intro: Cannabis is your passion. Accounting is our specialty. Whether it is
+  bookkeeping, tax preparation, or audits - we are here to help.
 services_list:
   - title: Business and Individual
     subtitle: TAX PREPARATION & PLANNING
-    desc: "We provide tax preparation services for businesses and individuals. We
-      focus on Section 280 E mitigation and make sure that no possible deduction
-      is missed. We also provide tax planning and instruct on forms that
-      typically do not need our assistance, such as form 8300. "
+    desc: "We provide tax preparation services for Cannabis start ups and their
+      owners. We focus on Section 280 E mitigation and make sure that no
+      possible deduction is missed. We also provide tax planning and instruct on
+      forms that typically do not need our assistance, such as form 8300. "
     service_image: ../assets/irs-cannabis-icon.jpg
   - title: Excise, Cultivation, SUT and City tax returns
     subtitle: PREPARATION AND FILING
@@ -18,8 +18,8 @@ services_list:
       yearly business personal property and environmental fee returns. "
     service_image: ../assets/2.jpg
   - title: Bookkeeping
-    subtitle: SMALL BUSINESSES AND HEMP COMPANIES
-    desc: "Sometimes bookkeeping can get quite complicated. If you want those
+    subtitle: CANNABIS AND HEMP START UPS
+    desc: "Cannabis bookkeeping can get quite complicated. If you want those
       deductions on your tax return, you need to make sure that your accounting
       is GAAP compliant. Have you heard of such things as the Absorption method,
       Accrual accounting, and Lower of Cost or Market rule? If not, it's OK
@@ -30,7 +30,7 @@ services_list:
     subtitle: SET UP AND AUDIT OF TAX SETTINGS
     desc: "CDTFA wants its share of Excise and SUT tax. If you under collected, the
       agency will ask you to pay the missing tax out of pocket. If you
-      over-collected, the agency will want this money too! As a green store, you
+      over-collected, the agency will want this money too! As a dispensary you
       collect those taxes through your Point of Sale System, and very often, its
       tax settings are incorrect. We help you set up your POS tax withholdings;
       this way, you do not pay a dime less or more in tax. "
