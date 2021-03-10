@@ -2,7 +2,7 @@ page: services
 intro: Cannabis is your passion. Accounting is our specialty. Whether it is
   bookkeeping, tax preparation, or audits - we are here to help.
 services_list:
-  - title: Income Tax preparation & planning
+  - title: "Income Tax preparation "
     subtitle: CANNABIS, HEMP, SMALL BUSINESSES AND INDIVIDUALS
     desc: "We provide tax preparation services for Cannabis start ups and their
       owners. We focus on Section 280 E mitigation and make sure that no
@@ -18,7 +18,7 @@ services_list:
       yearly business personal property and environmental fee returns. "
     service_image: ../assets/2.jpg
   - title: Bookkeeping
-    subtitle: CANNABIS, HEMP AND SMALL BUSINESSES
+    subtitle: CANNABIS, HEMP,  AND SMALL BUSINESSES
     desc: "Cannabis bookkeeping can get quite complicated. If you want those
       deductions on your tax return, you need to make sure that your accounting
       is GAAP compliant. Have you heard of such things as the Absorption method,
@@ -35,8 +35,8 @@ services_list:
       tax settings are incorrect. We help you set up your POS tax withholdings;
       this way, you do not pay a dime less or more in tax. "
     service_image: ../assets/point-of-sale-software.jpg
-  - title: IRS, FTB & CDTFA REPRESENTATION
-    subtitle: CANNABIS, HEMP AND SMALL BUSINESSES
+  - title: IRS, FTB & CDTFA representation
+    subtitle: CANNABIS, HEMP, AND SMALL BUSINESSES
     desc: No matter how difficult your tax problem is, we have seen it before. Red
       Eye CPA provides a thorough, expert approach to tax notice services and
       will alleviate any anxiety that comes in this type of situation. We will
