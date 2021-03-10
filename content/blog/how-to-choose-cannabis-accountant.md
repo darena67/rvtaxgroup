@@ -2,7 +2,7 @@
 path: cannabis CPA
 date: 2021-01-28T21:27:17.878Z
 title: Cannabis CPA
-description: "Affordable Go-To firm for Cannabis accounting needs. "
+description: "Affordable Go-To firm for Cannabis accounting & tax needs. "
 thumbnail: ../assets/cannabis-accountant.jpg
 ---
 With so many accountants out there, how do you decide which one to choose? By following a couple of tips, you’ll be able to find your perfect fit. 
@@ -18,8 +18,8 @@ With so many accountants out there, how do you decide which one to choose? By fo
 
 No matter the accountant you choose, make sure you have done your research and found the best person possible for the job.
 
-![]( "cannabis accountant")
+![]()
 
 Sincerely,
 
-Daria Nagal**,[ Cannabis CPA](https://redeyecpa.com/)**
+Daria Nagal**,[](https://redeyecpa.com/)** Cannabis CPA
