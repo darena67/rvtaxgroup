@@ -12,19 +12,19 @@ packages:
       - text: Tax Planning
   - name: Businesses
     desc: 1065, 1120 & 1120-S
-    pricing: Starting $800
+    pricing: Starting $600
     feature-title: "May include:"
     feature:
       - text: Partnerships, Corporations and S-Corps tax returns
       - text: Business Property Returns
       - text: Bookkeeping Services
       - text: Estimated Tax Payments
-  - name: "Cannabis "
+  - name: Cannabis & Hemp
     desc: Cultivators, Distributors and Dispensaries
-    pricing: "Starting $1200 "
+    pricing: "Starting $700 "
     feature-title: "May include:"
     feature:
-      - text: Cannabis Bookkeeping
+      - text: Cannabis & Hemp Bookkeeping
       - text: Sales & Use, Excise, Cultivation, City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
       - text: "Tax Preparation "
