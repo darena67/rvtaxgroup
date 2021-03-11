@@ -19,7 +19,7 @@ packages:
       - text: Business Property Returns
       - text: Bookkeeping Services
       - text: Estimated Tax Payments
-  - name: Cannabis & Hemp
+  - name: Cannabis  Hemp
     desc: Cultivators, Distributors and Dispensaries
     pricing: "Starting $700 "
     feature-title: "May include:"
