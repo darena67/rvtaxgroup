@@ -42,4 +42,4 @@ At Red Eye CPA we help small and medium dispensaries with their local tax compli
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**

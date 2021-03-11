@@ -26,4 +26,4 @@ We have hands-on experience with the Cultivation tax. We can sort out your past 
 
 Sincerely,
 
-Daria Nagal, Cannabis CPA
+Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
