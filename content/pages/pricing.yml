@@ -1,7 +1,7 @@
 page: pricing
 intro: Find the plan that’s right for you
 packages:
-  - name: DIY
+  - name: Basic
     desc: You do bookkeeping and we prepare local tax returns
     pricing: Starting $700
     feature-title: "Includes:"
@@ -10,24 +10,26 @@ packages:
       - text: Monthly adjusting entries for Inventory, Prepaids, and Accruals
       - text: GAAP financials and month end reports
       - text: Preparation and filing of local tax returns
+      - text: Cash flow provisions for local taxes
   - name: Standard
-    desc: You do bookkeeping and we do local & income tax returns
-    pricing: Starting $900
-    feature-title: "Includes everything in DIY package plus:"
+    desc: You do bookkeeping and we prepare local & federal tax returns
+    pricing: Starting $1400
+    feature-title: "Everything in Basic package plus:"
     feature:
       - text: Preparation of your Federal and State tax returns
       - text: Year end tax planning
-      - text: Quoterly estimated tax payment vouchers
-  - name: All Inclusive
-    desc: We do bookkeeping and local & income tax returns
+      - text: Quarterly estimated tax payment vouchers
+  - name: Premium
+    desc: We do bookkeeping and prepare local & income tax returns
     pricing: Starting $900
-    feature-title: "Includes everything in Standard package plus:"
+    feature-title: "Everything in Standard package plus:"
     feature:
       - text: Data entry of expenses and deposits
-      - text: Bank reconciliations
-      - text: "Accounting software subscription "
+      - text: Bank and Credit Card reconciliations
+      - text: "Cost of accounting software "
+      - text: Support docs attached to transactions
 faqs:
-  - question: Do you charge by an hour?
+  - question: Do you charge by the hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
       makes you worry about your upcoming CPA bill. The only time we are billing
       by the hour is when we cannot reasonably estimate our time spend on a
@@ -42,8 +44,12 @@ faqs:
       exchange and deliver private information. Client documents are
       encrypted  and stored on a secure server with two-factor authentication.
   - question: What else is included?
-    answer: We value “all included” approach. For individuals, we offer free
-      consultations during the year and tax planning at year end. For business
-      clients we prepare quarterly estimated tax vouchers and look over their
-      financials if requested. For our Cannabis clients, we prepare and file
-      their monthly and quarterly local tax returns.
+    answer: We adopted the “all included” approach. You are welcome to call us out
+      of the blue, and we won’t charge for the conversation.
+  - question: Can you give me a discount? I am broke.
+    answer: "Our accounting fees are already pretty low compared to other cannabis
+      CPA firms. However, we do give some discounts to microbusinesses due to
+      the large amount of accounting work required. "
+  - question: Can you prepare my 1040?
+    answer: "Yes we can! However, please keep in mind that individual tax
+      preparation is not included in our business plans offered above. "
