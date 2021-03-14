@@ -18,7 +18,7 @@ home_services:
   - name: Cannabis Income Tax Preparation
     service:
       - text: Section 280E mitigation & 471 compliance
-      - text: Business and individual tax preparation & planning
+      - text: Tax preparation & planning
       - text: Entity selection
       - text: IRS and FTB correspondence and audits
     icon: ../assets/tax.png
