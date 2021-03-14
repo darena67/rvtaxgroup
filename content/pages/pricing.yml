@@ -7,7 +7,7 @@ packages:
     feature-title: "Includes:"
     feature:
       - text: Monthly CPA review of your financials
-      - text: Monthly adjusting entries for Inventory, Prepaids, and Accruals
+      - text: Monthly adjusting entries for inventory, prepaids, and accruals
       - text: GAAP financials and month end reports
       - text: Preparation and filing of local tax returns
       - text: Cash flow provisions for local taxes
@@ -16,11 +16,11 @@ packages:
     pricing: Starting $900
     feature-title: "Everything in Basic package plus:"
     feature:
-      - text: Preparation of your Federal and State tax returns
+      - text: Preparation of your federal and state tax returns
       - text: Year end tax planning
       - text: Quarterly estimated tax payment vouchers
   - name: Premium
-    desc: We do bookkeeping and prepare local & income tax returns
+    desc: We do bookkeeping and prepare local & federal tax returns
     pricing: Starting $1,400
     feature-title: "Everything in Standard package plus:"
     feature:
@@ -30,10 +30,10 @@ packages:
       - text: Support docs attached to transactions
 faqs:
   - question: Do you charge by the hour?
-    answer: We avoid billing by the hour whenever possible. It creates ambiguity and
-      makes you worry about your upcoming CPA bill. The only time we are billing
-      by the hour is when we cannot reasonably estimate our time spend on a
-      specific non-recurring project.
+    answer: We avoid billing by the hour whenever it’s possible. It creates
+      ambiguity and makes you worry about your upcoming CPA bill. The only time
+      we are billing by the hour is when we cannot reasonably estimate our time
+      spend on a specific non-recurring project.
   - answer: " We will be more than happy to meet you in person if you are in San
       Diego area. If not, we try to set up Zoom meetings for all of our new
       customers. Also, California CPAs can be verified on the CBA website. You
@@ -44,8 +44,8 @@ faqs:
       exchange and deliver private information. Client documents are
       encrypted  and stored on a secure server with two-factor authentication.
   - question: What else is included?
-    answer: We adopted the “all included” approach. You are welcome to call us out
-      of the blue, and we won’t charge for the conversation.
+    answer: We believe in the “all included” approach. You are welcome to call us
+      out of the blue, and we won’t charge for the conversation.
   - question: Can you give me a discount? I am broke.
     answer: "Our accounting fees are already pretty low compared to other cannabis
       CPA firms. However, we do give some discounts to microbusinesses due to
