@@ -13,7 +13,7 @@ packages:
       - text: Cash flow provisions for local taxes
   - name: Standard
     desc: You do bookkeeping and we prepare local & federal tax returns
-    pricing: Starting $1400
+    pricing: Starting $900
     feature-title: "Everything in Basic package plus:"
     feature:
       - text: Preparation of your Federal and State tax returns
@@ -21,7 +21,7 @@ packages:
       - text: Quarterly estimated tax payment vouchers
   - name: Premium
     desc: We do bookkeeping and prepare local & income tax returns
-    pricing: Starting $900
+    pricing: Starting $1,400
     feature-title: "Everything in Standard package plus:"
     feature:
       - text: Data entry of expenses and deposits
