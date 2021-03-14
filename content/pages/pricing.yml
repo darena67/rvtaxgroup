@@ -2,7 +2,7 @@ page: pricing
 intro: Find the plan that’s right for you
 packages:
   - name: Basic
-    desc: You do bookkeeping and we prepare local tax returns
+    desc: We review your bookkeeping and prepare local tax returns
     pricing: Starting $700
     feature-title: "Includes:"
     feature:
@@ -12,7 +12,7 @@ packages:
       - text: Preparation and filing of local tax returns
       - text: Cash flow provisions for local taxes
   - name: Standard
-    desc: You do bookkeeping and we prepare local & federal tax returns
+    desc: We review your bookkeeping and prepare local & federal tax returns
     pricing: Starting $900
     feature-title: "Everything in Basic package plus:"
     feature:
