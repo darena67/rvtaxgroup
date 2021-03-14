@@ -1,33 +1,31 @@
 page: pricing
 intro: Find the plan that’s right for you
 packages:
-  - name: Individuals
-    desc: "1040"
-    pricing: Starting $300
-    feature-title: "May include:"
+  - name: DIY
+    desc: You do bookkeeping and we prepare local tax returns
+    pricing: Starting $700
+    feature-title: "Includes:"
     feature:
-      - text: W-2s, dependants, childcare expenses
-      - text: Business, Rental Income or Investment income (Schedule C, E, B or D)
-      - text: Homeowners (Schedule A)
-      - text: Tax Planning
-  - name: Businesses
-    desc: 1065, 1120 & 1120-S
-    pricing: Starting $600
-    feature-title: "May include:"
+      - text: Monthly CPA review of your financials
+      - text: Monthly adjusting entries for Inventory, Prepaids, and Accruals
+      - text: GAAP financials and month end reports
+      - text: Preparation and filing of local tax returns
+  - name: Standard
+    desc: You do bookkeeping and we do local & income tax returns
+    pricing: Starting $900
+    feature-title: "Includes everything in DIY package plus:"
     feature:
-      - text: Partnerships, Corporations and S-Corps tax returns
-      - text: Business Property Returns
-      - text: Bookkeeping Services
-      - text: Estimated Tax Payments
-  - name: Cannabis  Hemp
-    desc: Cultivators, Distributors and Dispensaries
-    pricing: "Starting $700 "
-    feature-title: "May include:"
+      - text: Preparation of your Federal and State tax returns
+      - text: Year end tax planning
+      - text: Quoterly estimated tax payment vouchers
+  - name: All Inclusive
+    desc: We do bookkeeping and local & income tax returns
+    pricing: Starting $900
+    feature-title: "Includes everything in Standard package plus:"
     feature:
-      - text: Cannabis & Hemp Bookkeeping
-      - text: Sales & Use, Excise, Cultivation, City Cannabis tax returns
-      - text: Configuration of tax settings in Point of Sale systems
-      - text: "Tax Preparation "
+      - text: Data entry of expenses and deposits
+      - text: Bank reconciliations
+      - text: "Accounting software subscription "
 faqs:
   - question: Do you charge by an hour?
     answer: We avoid billing by the hour whenever possible. It creates ambiguity and
