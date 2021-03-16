@@ -1,5 +1,5 @@
 import React from "react"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 import { useStaticQuery, graphql, Link } from "gatsby"
 import BackgroundImage from "gatsby-background-image"
 
@@ -7,46 +7,42 @@ import "./home-hero.scss"
 
 
 const HomeHero = ({heroQuote}) => {
-  const data = useStaticQuery(graphql`
-    query {
-
-      backgroundImage: file(relativePath: { eq: "hero-bg.jpg" }) {
-        childImageSharp {
-          fluid(maxWidth: 1920) {
-            ...GatsbyImageSharpFluid_withWebp
-          }
-        }
-      }
-
-      HeroHeadshotImage: file(relativePath: { eq: "hero-headshot.png" }) {
-        childImageSharp {
-          fixed(width: 478 height: 571 quality: 90) {
-            ...GatsbyImageSharpFixed_withWebp
-          }
-        }
-      }
-
-      HeroQuoteImage: file(relativePath: { eq: "hero-quotes.png" }) {
-        childImageSharp {
-          fixed(width: 100) {
-            ...GatsbyImageSharpFixed_withWebp
-          }
-        }
-      }
-
+  const data = useStaticQuery(graphql`{
+  backgroundImage: file(relativePath: {eq: "hero-bg.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
     }
-  `)
+  }
+  HeroHeadshotImage: file(relativePath: {eq: "hero-headshot.png"}) {
+    childImageSharp {
+      gatsbyImageData(width: 478, height: 571, quality: 90, layout: CONSTRAINED)
+    }
+  }
+  HeroQuoteImage: file(relativePath: {eq: "hero-quotes.png"}) {
+    childImageSharp {
+      gatsbyImageData(width: 100, layout: FIXED)
+    }
+  }
+}
+`)
   return (
     <BackgroundImage
       className="homehero"
-      fluid={data.backgroundImage.childImageSharp.fluid}
+      fluid={data.backgroundImage.childImageSharp.gatsbyImageData}
     >
       <div className="container">
         <div className="hero__image">
-          <Img fixed={data.HeroHeadshotImage.childImageSharp.fixed} className="hero__image" alt="Dasha Nagal CPA/EA" />
+          <GatsbyImage
+            image={data.HeroHeadshotImage.childImageSharp.gatsbyImageData}
+            className="hero__image"
+            alt="Dasha Nagal CPA/EA" />
         </div>
 
           <div className="hero__blockquote">
+            <GatsbyImage
+              image={data.HeroQuoteImage.childImageSharp.gatsbyImageData}
+              alt="double quote"
+              className="hero__doublequote" />
           <div
             className='hero__quote'
             dangerouslySetInnerHTML={{ __html: heroQuote }}
@@ -61,7 +57,7 @@ const HomeHero = ({heroQuote}) => {
         </Link>
       </div>
     </BackgroundImage>
-  )
+  );
 }
 
 export default HomeHero

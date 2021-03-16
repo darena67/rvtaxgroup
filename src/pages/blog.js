@@ -15,7 +15,7 @@ const BlogPage = ({ data }) => {
       <Layout>
         <HeroOther
           title='blog'
-          image={data.BlogIllustrationImage.childImageSharp.fluid}
+          image={data.BlogIllustrationImage.childImageSharp.gatsbyImageData}
           intro={data.pagesYaml.intro}
         />
 
@@ -24,7 +24,7 @@ const BlogPage = ({ data }) => {
             {data.allMarkdownRemark.edges.map((item) => (
               <BlogCard
                 key={item.node.id}
-                image={item.node.frontmatter.thumbnail?.childImageSharp?.fluid}
+                image={item.node.frontmatter.thumbnail?.childImageSharp?.gatsbyImageData}
                 title={item.node.frontmatter.title}
                 date={item.node.frontmatter.date}
                 content={item.node.excerpt}
@@ -46,42 +46,37 @@ const BlogPage = ({ data }) => {
 
 export default BlogPage;
 
-export const pageQuery = graphql`
-  query BlogPage {
-    pagesYaml(page: {eq: "blog"}) {
-      intro
-    }
-    allMarkdownRemark {
-      edges {
-        node {
-          frontmatter {
-            thumbnail {
-              childImageSharp {
-                fluid(maxWidth: 400) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+export const pageQuery = graphql`query BlogPage {
+  pagesYaml(page: {eq: "blog"}) {
+    intro
+  }
+  allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+    edges {
+      node {
+        frontmatter {
+          thumbnail {
+            childImageSharp {
+              gatsbyImageData(width: 400, layout: CONSTRAINED)
             }
-            title
-            description
-            date(formatString: "MMMM DD, YYYY")
           }
-          fields {
-            slug
-          }
-          excerpt(pruneLength: 60)
-          id
+          title
+          description
+          date(formatString: "MMMM DD, YYYY")
         }
-      }
-    }
-    BlogIllustrationImage: file(relativePath: { eq: "illustration/blog-illustration.png" }) {
-      childImageSharp {
-        # Specify the image processing specifications right in the query.
-        # Makes it trivial to update as your page's design changes.
-        fluid(maxWidth: 1920) {
-          ...GatsbyImageSharpFluid_withWebp
+        fields {
+          slug
         }
+        excerpt(pruneLength: 60)
+        id
       }
     }
   }
+  BlogIllustrationImage: file(
+    relativePath: {eq: "illustration/blog-illustration.png"}
+  ) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+}
 `;

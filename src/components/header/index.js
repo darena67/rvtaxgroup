@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import "./header.scss"
 import MenuIcon from "@material-ui/icons/Menu"
 import CloseIcon from "@material-ui/icons/Close"
-import Logo from "../../images/logo.png"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Header = () => {
   const [show, setShow] = useState("")
@@ -12,7 +12,7 @@ const Header = () => {
     <header>
       <div className="navbar container">
         <Link to="/">
-          <img src={Logo} className="navbar__logo" alt="Navigation Logo" />
+          <StaticImage src="../../images/logo.png" className="navbar__logo" alt="Navigation Logo" width="146" />
         </Link>
         <MenuIcon className="nav__icon" onClick={() => setShow("show")} />
 
@@ -20,8 +20,8 @@ const Header = () => {
           <Link to="/" activeClassName="active">
             home
           </Link>
-          <Link to="/about/" activeClassName="active">
-            about us
+          <Link to="/blog/" activeClassName="active">
+            blog
           </Link>
           <Link to="/services/" activeClassName="active">
             services
@@ -29,8 +29,8 @@ const Header = () => {
           <Link to="/pricing/" activeClassName="active">
             pricing
           </Link>
-          <Link to="/blog/" activeClassName="active">
-            blog
+          <Link to="/about/" activeClassName="active">
+            about us
           </Link>
           <Link to="/contact/" activeClassName="active" className="contact-nav">
             contact
