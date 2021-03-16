@@ -1,12 +1,12 @@
 import React from "react"
 import CheckCircleIcon from "@material-ui/icons/CheckCircle"
 import "./about-infolist.scss"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 const AboutInfoList = ({ image }) => {
   return (
     <div className="aboutInfolist container">
-      <Img fluid={image} className="container" alt="About Illustration" />
+      <GatsbyImage image={image} className="container" alt="About Illustration" />
       <ul>
         <li>
           <CheckCircleIcon className="icon" />
@@ -25,7 +25,7 @@ const AboutInfoList = ({ image }) => {
         </li>
       </ul>
     </div>
-  )
+  );
 }
 
 export default AboutInfoList

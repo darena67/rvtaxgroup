@@ -11,58 +11,34 @@ import Typography from "@material-ui/core/Typography";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 
 import SEO from "../components/seo";
-import Img from "gatsby-image"
 
 const PricingPage = () => {
-  let data = useStaticQuery(graphql`
-    query PricingPage {
-      pagesYaml(page: { eq: "pricing" }) {
-        intro
-        faqs {
-          answer
-          question
-        }
-        packages {
-          feature_title
-          feature {
-            text
-          }
-          name
-          desc
-          pricing
-        }
-      }
-    PricingIllustrationImage: file(relativePath: { eq: "illustration/pricing-illustration.png" }) {
-      childImageSharp {
-        # Specify the image processing specifications right in the query.
-        # Makes it trivial to update as your page's design changes.
-        fluid(maxWidth: 1920) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
-      }
+  let data = useStaticQuery(graphql`query PricingPage {
+  pagesYaml(page: {eq: "pricing"}) {
+    intro
+    faqs {
+      answer
+      question
     }
-    CertificationIconImage: file(relativePath: { eq: "pricing_certification1.png" }) {
-      childImageSharp {
-        # Specify the image processing specifications right in the query.
-        # Makes it trivial to update as your page's design changes.
-        fluid(maxWidth: 250) {
-          ...GatsbyImageSharpFluid_withWebp
-          ...GatsbyImageSharpFluidLimitPresentationSize
-        }
+    packages {
+      feature_title
+      feature {
+        text
       }
-		}
-    Certification2IconImage: file(relativePath: { eq: "pricing_certification2.png" }) {
-      childImageSharp {
-        # Specify the image processing specifications right in the query.
-        # Makes it trivial to update as your page's design changes.
-        fluid(maxWidth: 300) {
-          ...GatsbyImageSharpFluid_withWebp
-          ...GatsbyImageSharpFluidLimitPresentationSize
-        }
-      }
-		}
-   }
-  `);
+      name
+      desc
+      pricing
+    }
+  }
+  PricingIllustrationImage: file(
+    relativePath: {eq: "illustration/pricing-illustration.png"}
+  ) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+}
+`);
   const data_yaml = data.pagesYaml;
   return (
     <div className="pricing">
@@ -74,7 +50,7 @@ const PricingPage = () => {
         <HeroOther
           title="pricing"
           subtitle={["Find the plan that’s just right for your business"]}
-          image={data.PricingIllustrationImage.childImageSharp.fluid}
+          image={data.PricingIllustrationImage.childImageSharp.gatsbyImageData}
           intro={data_yaml.intro}
         />
         <div className="pricing__cardContainer section container">
@@ -104,8 +80,7 @@ const PricingPage = () => {
             <div className="faq__left">
               <h3 className="faq__title bold">Frequently Asked Questions</h3>
               <h6 className="faq__subtitle">
-                Have a different question about how we work or the pricing plans
-                available? Get in touch with us.
+                Have a different question? Get in touch with us.
               </h6>
             </div>
             <div className="faq__right">
@@ -126,15 +101,6 @@ const PricingPage = () => {
                   </AccordionDetails>
                 </Accordion>
               ))}
-            </div>
-          </div>
-        </div>
-        <div className="section">
-          <div className="container">
-            <h2 className="section-title">Our Certifications</h2>
-            <div className="pricing__certification">
-              <Img fluid={data.CertificationIconImage.childImageSharp.fluid} alt="Certification" />
-              <Img fluid={data.Certification2IconImage.childImageSharp.fluid} alt="Certification" />
             </div>
           </div>
         </div>

@@ -2,13 +2,13 @@ import React from "react"
 import {Link} from "gatsby"
 import CheckIcon from "@material-ui/icons/Check"
 import "./home-service-card.scss"
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image";
 
 const ServiceCard = ({ icon, title, content }) => {
   return (
     <div className="serviceCard">
       <div className="serviceCard__icon_container">
-        <Img className="serviceCard__icon" fluid={icon} />
+        <GatsbyImage image={icon} className="serviceCard__icon" />
       </div>
       <h3 className="serviceCard__title">{title}</h3>
       <ul className="serviceCard__list">
@@ -22,7 +22,7 @@ const ServiceCard = ({ icon, title, content }) => {
         <Link to="/contact/" className="btn-line">more info</Link>
       </div>
     </div>
-  )
+  );
 }
 
 export default ServiceCard

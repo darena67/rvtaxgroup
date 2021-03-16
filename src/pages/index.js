@@ -9,53 +9,45 @@ import HomeHero from "../components/hero/hero";
 import SEO from "../components/seo";
 
 const IndexPage = () => {
-  const data = useStaticQuery(graphql`
-    query HomePage {
-      pagesYaml(page: { eq: "home" }) {
-        hero_quote
-        home_services {
-          name
-          service {
-            text
-          }
-          icon {
-            childImageSharp {
-              fluid(maxWidth: 100) {
-                ...GatsbyImageSharpFluid_withWebp
-              }
-            }
-          }
-        }
+  const data = useStaticQuery(graphql`query HomePage {
+  pagesYaml(page: {eq: "home"}) {
+    hero_quote
+    home_services {
+      name
+      service {
+        text
       }
-      allMarkdownRemark(
-        sort: { fields: frontmatter___date, order: DESC }
-        limit: 3
-      ) {
-        edges {
-          node {
-            frontmatter {
-              thumbnail {
-                childImageSharp {
-                  fluid(maxWidth: 400) {
-                    ...GatsbyImageSharpFluid_withWebp
-                  }
-                }
-              }
-              title
-              description
-              date(formatString: "MMMM DD, YYYY")
-              path
-            }
-            fields {
-              slug
-            }
-            excerpt(pruneLength: 60)
-            id
-          }
+      icon {
+        childImageSharp {
+          gatsbyImageData(width: 300 layout: CONSTRAINED)
         }
       }
     }
-  `);
+  }
+  allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, limit: 3) {
+    edges {
+      node {
+        frontmatter {
+          thumbnail {
+            childImageSharp {
+              gatsbyImageData(width: 400, layout: CONSTRAINED)
+            }
+          }
+          title
+          description
+          date(formatString: "MMMM DD, YYYY")
+          path
+        }
+        fields {
+          slug
+        }
+        excerpt(pruneLength: 160)
+        id
+      }
+    }
+  }
+}
+`);
 
   return (
     <div className="home">
@@ -75,7 +67,7 @@ const IndexPage = () => {
               {data.pagesYaml.home_services.map((item, index) => (
                 <ServiceCard
                   key={index}
-                  icon={item.icon.childImageSharp.fluid}
+                  icon={item.icon.childImageSharp.gatsbyImageData}
                   title={item.name}
                   content={item.service}
                 />
@@ -92,7 +84,7 @@ const IndexPage = () => {
               {data.allMarkdownRemark.edges.map((item) => (
                 <BlogCard
                   key={item.node.id}
-                  image={item.node.frontmatter.thumbnail.childImageSharp.fluid}
+                  image={item.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData}
                   title={item.node.frontmatter.title}
                   date={item.node.frontmatter.date}
                   content={item.node.excerpt}

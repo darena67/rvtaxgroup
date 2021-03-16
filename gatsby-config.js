@@ -34,7 +34,6 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
 		`gatsby-plugin-sitemap`,
-		`gatsby-plugin-slug`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-transformer-yaml`,
@@ -66,8 +65,9 @@ module.exports = {
         path: `${__dirname}/content/assets`,
       },
     },
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-image`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-remark-images`,
       options: {

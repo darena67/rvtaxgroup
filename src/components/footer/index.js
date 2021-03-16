@@ -2,11 +2,11 @@ import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
 import "./footer.scss";
 
-import Logo from "../../images/logo.png";
-
 import FacebookIcon from "@material-ui/icons/Facebook";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import TwitterIcon from "@material-ui/icons/Twitter";
+
+import { StaticImage } from "gatsby-plugin-image"
 
 const Footer = () => {
   let data = useStaticQuery(graphql`
@@ -27,7 +27,7 @@ const Footer = () => {
   return (
     <footer>
       <div className="container">
-        <img src={Logo} className="footer__logo" alt="logo"></img>
+        <StaticImage src="../../images/logo.png" className="footer__logo" alt="Logo" width="146" />
         <div className="footer__contact">
           <span>Any Question?</span>
           <span className="footer__number">{data.phone}</span>
