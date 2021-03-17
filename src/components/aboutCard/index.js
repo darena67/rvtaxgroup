@@ -1,5 +1,6 @@
 import React from "react"
 import "./about-card.scss"
+
 import { GatsbyImage } from "gatsby-plugin-image";
 
 const AboutCard = ({  name, photo, desc, position }) => {
