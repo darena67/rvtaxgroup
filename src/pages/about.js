@@ -5,6 +5,7 @@ import Layout from "../components/layout";
 import AboutCard from "../components/aboutCard";
 import AboutInfoList from "../components/aboutInfolist";
 import SEO from "../components/seo";
+
 import { GatsbyImage } from "gatsby-plugin-image";
 
 const AboutPage = () => {
@@ -54,14 +55,17 @@ const AboutPage = () => {
   }
 }
 `);
-  console.log(data);
+//  console.log(data);
   return (
     <div className="about">
+
       <SEO
         pageTitle="About us"
         description="Accountants with over 16 years of combined experience serving Cannabis industry in California. Click here to read more."
       />
+
       <Layout>
+
         <HeroOther
           title="about us"
           subtitle={[
@@ -72,6 +76,7 @@ const AboutPage = () => {
           intro={data.pagesYaml.intro}
           image={data.AboutIllustrationImage.childImageSharp.gatsbyImageData}
         />
+
         <div className="about__section section container">
           {data.pagesYaml.team.map((item) => (
             <AboutCard
@@ -82,6 +87,7 @@ const AboutPage = () => {
             />
           ))}
         </div>
+
         <h3 className="about__desc  container text-center">
           We are both excited about the legalization of marijuana and are very
           happy to be part of an industry that helps so many people
@@ -90,16 +96,37 @@ const AboutPage = () => {
         <div className="about__infoList section bg-info-blue text-light ">
           <AboutInfoList image={data.AboutIllustration2Image.childImageSharp.gatsbyImageData} />
         </div>
+
         <div className="section  container text-center">
+
+          <div className="container">
+
+            <h2 className="section-title">Our Certifications</h2>
+
+            <GatsbyImage image={data.CertificationIconImage.childImageSharp.gatsbyImageData} alt="Certified Public Accountant" />
+            <GatsbyImage image={data.Certification3IconImage.childImageSharp.gatsbyImageData} alt="National Cannabis Industry Association Member" />
+
+          </div>
+
+          <div className="container">
+
+            <GatsbyImage image={data.Certification2IconImage.childImageSharp.gatsbyImageData} alt="Enrolled Agent Certification" />
+
+          </div>
+
           <h3 className="cta__text ">
             Are things like taxes & bookkeeping keeping you from running your
             business?
           </h3>
+
           <Link to="/contact/" className="btn btn-cta">
             Lets Talk!
           </Link>
+
         </div>
+
       </Layout>
+
     </div>
   );
 };
