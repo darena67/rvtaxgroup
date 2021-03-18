@@ -5,8 +5,7 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   const blogPost = path.resolve(`./src/templates/blog.js`);
-  return graphql(
-    `
+  return graphql(`
       query blog {
         allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
           edges {
@@ -18,8 +17,7 @@ exports.createPages = ({ graphql, actions }) => {
           }
         }
       }
-    `
-  ).then((result) => {
+    `).then((result) => {
     if (result.errors) {
       throw result.errors;
     }

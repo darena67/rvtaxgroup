@@ -4,7 +4,6 @@ import ContactForm from "../components/contactForm";
 import ContactInfo from "../components/contactInfo";
 import HeroOther from "../components/heroOthers";
 import Layout from "../components/layout";
-import ContactIllustration from "../images/illustration/contact-illustration.png";
 import SEO from "../components/seo";
 
 const ContactPage = () => {
@@ -16,9 +15,14 @@ const ContactPage = () => {
         intro
         address
       }
+			ContactIllustration: file(relativePath: {eq: "illustration/contact-illustration.png"}) {
+				childImageSharp {
+					gatsbyImageData(layout: FULL_WIDTH)
+				}
+			}
     }
   `);
-  data = data.pagesYaml;
+  const data_yaml = data.pagesYaml;
   return (
     <div className="contact">
       <SEO
@@ -28,8 +32,8 @@ const ContactPage = () => {
       <Layout>
         <HeroOther
           title="contact"
-          intro={data.intro}
-          image={ContactIllustration}
+          intro={data_yaml.intro}
+          image={data.ContactIllustration.childImageSharp.gatsbyImageData}
         />
         <section className="section container">
           <div className="contact__formContainer">
@@ -37,9 +41,9 @@ const ContactPage = () => {
             <ContactForm />
           </div>
           <ContactInfo
-            phone={data.phone}
-            address={data.address}
-            email={data.email}
+            phone={data_yaml.phone}
+            address={data_yaml.address}
+            email={data_yaml.email}
           />
         </section>
       </Layout>
