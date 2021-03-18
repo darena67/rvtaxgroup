@@ -1,12 +1,12 @@
 page: home
 hero_quote: Hi! My name is Daria and I will deal with the IRS so you don't have to!
 home_services:
-  - name: Cannabis Bookkeeping
+  - name: Cannabis Accounting
     service:
       - text: GAAP compliant and investor ready financial statements
       - text: Full absorption cost accounting
       - text: "Accounting set up & clean up "
-      - text: Assistance with payroll set up
+      - text: Cash flow forecast
     icon: ../assets/accountant.png
   - name: "Local Tax Compliance "
     service:
