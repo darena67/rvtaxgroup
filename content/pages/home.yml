@@ -6,7 +6,7 @@ home_services:
       - text: GAAP compliant and investor ready financial statements
       - text: Full absorption cost accounting
       - text: "Accounting set up & clean up "
-      - text: Cash flow forecast
+      - text: Cash flow forecasts
     icon: ../assets/accountant.png
   - name: "Local Tax Compliance "
     service:
