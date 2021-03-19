@@ -39,7 +39,3 @@ In case you under collected the tax, the CDTFA will require you to remit the mis
 As you can see, it is very important to calculate your sales tax correctly. The consequences of calculating them wrong are very severe.
 
 At Red Eye CPA we help small and medium dispensaries with their local tax compliance issues. Please let me know if you need a dispensary sales tax excel sheet, and I will e-mail it to you. It was specifically designed as a cannabis sales tax calculator.
-
-Sincerely,
-
-Daria Nagal, Cannabis CPA
