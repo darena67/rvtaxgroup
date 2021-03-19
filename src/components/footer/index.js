@@ -2,11 +2,11 @@ import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
 import "./footer.scss";
 
-import Logo from "../../images/logo.png";
-
 import FacebookIcon from "@material-ui/icons/Facebook";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import TwitterIcon from "@material-ui/icons/Twitter";
+
+import { GatsbyImage } from "gatsby-plugin-image"
 
 const Footer = () => {
   let data = useStaticQuery(graphql`
@@ -20,31 +20,36 @@ const Footer = () => {
         address
         twitter
       }
+			RedEyeLogoImage: file(relativePath: {eq: "logo.png"}) {
+				childImageSharp {
+					gatsbyImageData(height: 60 layout: FIXED)
+				}
+			}
     }
   `);
-  data = data.pagesYaml;
+  const yaml = data.pagesYaml;
 
   return (
     <footer>
       <div className="container">
-        <img src={Logo} className="footer__logo" alt="logo"></img>
+        <GatsbyImage image={data.RedEyeLogoImage.childImageSharp.gatsbyImageData} className="footer__logo" alt="Logo" imgStyle={{ objectFit: "contain" }} />
         <div className="footer__contact">
           <span>Any Question?</span>
-          <span className="footer__number">{data.phone}</span>
+          <span className="footer__number">{yaml.phone}</span>
           <span>
-            <a href={`mailto:${data.email}`}>{data.email}</a>
+            <a href={`mailto:${yaml.email}`}>{yaml.email}</a>
           </span>
         </div>
         <div className="footer__social">
           <div>Connect with us</div>
           <div className="footer__iconContainer">
-            <a href={data.fb} className="footer__socialIcons">
+            <a href={yaml.fb} className="footer__socialIcons">
               <FacebookIcon fontSize="large" />
             </a>
-            <a href={data.linkedin} className="footer__socialIcons">
+            <a href={yaml.linkedin} className="footer__socialIcons">
               <LinkedInIcon fontSize="large" />
             </a>
-            <a href={data.twitter} className="footer__socialIcons">
+            <a href={yaml.twitter} className="footer__socialIcons">
               <TwitterIcon fontSize="large" />
             </a>
           </div>

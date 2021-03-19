@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import Img from "gatsby-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import "./hero-others.scss"
 
@@ -15,10 +15,10 @@ const HeroOther = ({ title, image, intro }) => {
             Get Started
           </Link>
         </div>
-        <Img fluid={image} alt="Ilustration" className="heroOther__ilustration" />
+        <GatsbyImage image={image} alt="Ilustration" className="heroOther__ilustration" />
       </div>
     </div>
-  )
+  );
 }
 
 export default HeroOther

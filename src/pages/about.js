@@ -6,51 +6,66 @@ import AboutCard from "../components/aboutCard";
 import AboutInfoList from "../components/aboutInfolist";
 import SEO from "../components/seo";
 
+import { GatsbyImage } from "gatsby-plugin-image";
+
 const AboutPage = () => {
-  const data = useStaticQuery(graphql`
-    query AboutPage {
-      pagesYaml(page: { eq: "about" }) {
-        intro
-        page
-        team {
-          name
-          position
-          desc
-          photo {
-            childImageSharp {
-              fluid(maxWidth: 400) {
-                ...GatsbyImageSharpFluid_withWebp
-              }
-            }
-          }
-        }
-      }
-      AboutIllustrationImage: file(relativePath: { eq: "illustration/about-illustration.png" }) {
+  const data = useStaticQuery(graphql`query AboutPage {
+  pagesYaml(page: {eq: "about"}) {
+    intro
+    page
+    team {
+      name
+      position
+      desc
+      photo {
         childImageSharp {
-          fluid(maxWidth: 1920) {
-            ...GatsbyImageSharpFluid_withWebp
-            ...GatsbyImageSharpFluidLimitPresentationSize
-          }
-        }
-      }
-      AboutIllustration2Image: file(relativePath: { eq: "illustration/about-illustration2.png" }) {
-        childImageSharp {
-          fluid(maxWidth: 1920) {
-            ...GatsbyImageSharpFluid_withWebp
-            ...GatsbyImageSharpFluidLimitPresentationSize
-          }
+          gatsbyImageData(width: 400, layout: CONSTRAINED)
         }
       }
     }
-  `);
-  console.log(data);
+  }
+  AboutIllustrationImage: file(
+    relativePath: {eq: "illustration/about-illustration.png"}
+  ) {
+    childImageSharp {
+      gatsbyImageData(width: 1920, layout: CONSTRAINED)
+    }
+  }
+  AboutIllustration2Image: file(
+    relativePath: {eq: "illustration/about-illustration2.png"}
+  ) {
+    childImageSharp {
+      gatsbyImageData(width: 1920, layout: CONSTRAINED)
+    }
+  }
+  CertificationIconImage: file(relativePath: {eq: "pricing_certification1.png"}) {
+    childImageSharp {
+      gatsbyImageData(height: 250, layout: CONSTRAINED)
+    }
+  }
+  Certification2IconImage: file(relativePath: {eq: "pricing_certification2.png"}) {
+    childImageSharp {
+      gatsbyImageData(height: 170, layout: CONSTRAINED)
+    }
+  }
+  Certification3IconImage: file(relativePath: {eq: "National-Cannabis-Industry-Association-NCIA-logo.png"}) {
+    childImageSharp {
+      gatsbyImageData(height: 250, layout: CONSTRAINED)
+    }
+  }
+}
+`);
+//  console.log(data);
   return (
     <div className="about">
+
       <SEO
         pageTitle="About us"
         description="Accountants with over 16 years of combined experience serving Cannabis industry in California. Click here to read more."
       />
+
       <Layout>
+
         <HeroOther
           title="about us"
           subtitle={[
@@ -59,36 +74,59 @@ const AboutPage = () => {
             "- we are here to help",
           ]}
           intro={data.pagesYaml.intro}
-          image={data.AboutIllustrationImage.childImageSharp.fluid}
+          image={data.AboutIllustrationImage.childImageSharp.gatsbyImageData}
         />
+
         <div className="about__section section container">
           {data.pagesYaml.team.map((item) => (
             <AboutCard
-              photo={item.photo.childImageSharp.fluid}
+              photo={item.photo.childImageSharp.gatsbyImageData}
               name={item.name}
               position={item.position}
               desc={item.desc}
             />
           ))}
         </div>
+
         <h3 className="about__desc  container text-center">
           We are both excited about the legalization of marijuana and are very
           happy to be part of an industry that helps so many people
         </h3>
 
         <div className="about__infoList section bg-info-blue text-light ">
-          <AboutInfoList image={data.AboutIllustration2Image.childImageSharp.fluid} />
+          <AboutInfoList image={data.AboutIllustration2Image.childImageSharp.gatsbyImageData} />
         </div>
+
         <div className="section  container text-center">
+
+          <div className="container">
+
+            <h2 className="section-title">Our Certifications</h2>
+
+            <GatsbyImage image={data.CertificationIconImage.childImageSharp.gatsbyImageData} alt="Certified Public Accountant" />
+            <GatsbyImage image={data.Certification3IconImage.childImageSharp.gatsbyImageData} alt="National Cannabis Industry Association Member" />
+
+          </div>
+
+          <div className="container">
+
+            <GatsbyImage image={data.Certification2IconImage.childImageSharp.gatsbyImageData} alt="Enrolled Agent Certification" />
+
+          </div>
+
           <h3 className="cta__text ">
             Are things like taxes & bookkeeping keeping you from running your
             business?
           </h3>
+
           <Link to="/contact/" className="btn btn-cta">
             Lets Talk!
           </Link>
+
         </div>
+
       </Layout>
+
     </div>
   );
 };
