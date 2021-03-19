@@ -27,7 +27,7 @@ const ContactForm = () => {
     })
       .then(() => {
         setFormState({ name: "", email: "", phone: "", message: "" });
-        alert("Enquiry send!");
+        alert("Thank you, we will get back to you shortly!");
       })
       .catch((error) => console.log(error));
   };
