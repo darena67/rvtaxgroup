@@ -29,6 +29,4 @@ This was just a brief overview.
 
 Sincerely,
 
-Daria Nagal,** [Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
-
-\[Daria](<<iframe src="https://castbox.fm/app/castbox/player/id3671287/id342094479?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>>)
+Daria Nagal
