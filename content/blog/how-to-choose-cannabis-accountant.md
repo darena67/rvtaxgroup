@@ -23,4 +23,4 @@ At Red Eye CPA we offer competitive accounting fees and personalized service.  S
 
 Sincerely,
 
-Daria Nagal**,**[](https://redeyecpa.com/) Cannabis CPA
+Daria Nagal
