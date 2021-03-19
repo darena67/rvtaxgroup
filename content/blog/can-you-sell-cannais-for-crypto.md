@@ -35,5 +35,3 @@ Cannabis dispensaries could use such processing platforms as BitPay to take cryp
 As you can see, legal cannabis can be bought and sold with crypto. But if you want to do it right and be in compliance with the IRS, you have to incur additional expenses and headaches. Selling cannabis for crypto does not solve your banking problem. 
 
 Please let me know if you would like to discuss any other ideas on crypto cannabis transactions.
-
-Sincerely, Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
