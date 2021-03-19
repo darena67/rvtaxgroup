@@ -19,13 +19,13 @@ One more note on Excise tax. When you calculate gross receipts, do not forget to
 
 **Sales tax.** This is the most difficult Cannabis tax. The tax rate starting 7.5% of your gross sales. I will eventually write a separate blog on just how to calculate SUT. The key problem with this tax is that you would have to back out Medical sales and may (depending on the interpretation of what you read on the CDTFA website) include City tax. Excise tax is also added in the calculation of Sales Tax. So, if you made a mistake in the calculation of the Excise tax, your Sales Tax will be affected as well. 
 
-There are different timelines when this tax should be submitted to the CDTFA. The smaller stores usually file and pay SUT each quarter. The bigger stores, however, have to get on so-called “prepayment plan”. This means they have to pay taxes each month, but file only one tax return at the end of each quarter.
+There are different timelines when this tax should be submitted to the CDTFA. The smaller stores usually file and pay SUT each quarter. The bigger stores, however, have to get on the so-called “prepayment plan”. This means they have to pay taxes each month, but file only one tax return at the end of each quarter.
 
 And finally, **City taxes.**
 
 Each city wants a piece of cannabis money. Usually, the range is from 4% to 6% of your gross sales. And from my experience, cities are pretty demanding and unforgiving when it comes to late payments. The problem with City taxes is that they are all different! Each city (and sometimes each county) has its own tax rules. These rules come in long twenty-page documents and there is no way that POS systems can keep track of all city tax regulations.
 
-This was just a brief overview. 
+This was just a brief overview. I wrote 
 
 Sincerely,
 
