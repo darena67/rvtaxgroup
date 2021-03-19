@@ -33,4 +33,4 @@ Please let me know if you have any questions with Cannabis Payroll and we will b
 
 Sincerely,
 
-Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
+Daria Nagal, Cannabis CPA
