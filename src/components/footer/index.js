@@ -32,7 +32,7 @@ const Footer = () => {
   return (
     <footer>
       <div className="container">
-        <GatsbyImage image={data.RedEyeLogoImage.childImageSharp.gatsbyImageData} className="footer__logo" alt="Logo" />
+        <GatsbyImage image={data.RedEyeLogoImage.childImageSharp.gatsbyImageData} className="footer__logo" alt="Logo" imgStyle={{ objectFit: "contain" }} />
         <div className="footer__contact">
           <span>Any Question?</span>
           <span className="footer__number">{yaml.phone}</span>
