@@ -17,7 +17,7 @@ With so many accountants out there, how do you decide which one to choose? By fo
 7. **Don’t look for a “YES” man.** If your accountant tells you that you cannot deduct marketing expenses due to 280E limitations no matter how you push him, this is a good tax accountant. He stands his ground, knows his stuff, and will make sure that you are in compliance. If your accountant promises you a good tax refund and agrees to all of your requests, this person is here to please you and not to do his job. At the end of the day, you are the one who signs the return, and you will be the one to account to the IRS. You need to find a person who is ready to do their job right, even if it means they can lose you as a client. 
 8. **Shop around**. Ask about rates and pay structure.  Some accountants charge hourly rates. Some CPAs offer flat fees. Generally, bigger companies such as MGO incur higher overhead due to rent, advertising, and employee expenses. Solo CPAs charge less since most of them work remotely and do most of their work by themselves. 
 
-At Red Eye CPA we offer competitive accounting fees and personalized service.  Shoot us an**[ e-mail ](https://redeyecpa.com/contact/)**and we will get back to you within a couple of hours.
+At Red Eye CPA we offer competitive accounting fees and personalized service.  Shoot us ane-mailand we will get back to you within a couple of hours.
 
 ![]()
 
