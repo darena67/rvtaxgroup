@@ -43,4 +43,4 @@ Prior to new regulations** [(See Section 5032)](https://bcc.ca.gov/law_regs/cann
 
 Whether you’re hoping to sell vape pens, edibles, herbal cigarettes, or other cannabis extract products, there’s no doubt about it: getting started can be expensive and timely. That’s why white labeling might just be the way to get your foot into the door of the up-and-coming cannabis industry.
 
-Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
+Daria Nagal
