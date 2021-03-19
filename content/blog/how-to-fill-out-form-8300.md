@@ -46,4 +46,4 @@ It is crucial to collect this information before or during a sale. In my experie
 
    Sincerely,
 
-   Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
+   Daria Nagal
