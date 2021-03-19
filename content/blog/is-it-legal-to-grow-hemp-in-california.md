@@ -27,4 +27,4 @@ To summarize the answer: yes, you are allowed to grow hemp in California for ind
 
 Sincerely,
 
-Daria Nagal, **[Cannabis CPA](https://redeyecpa.com/blog/how-to-choose-cannabis-accountant/)**
+Daria Nagal
