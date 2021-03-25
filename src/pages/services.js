@@ -16,7 +16,7 @@ const ServicePage = () => {
       desc
       service_image {
         childImageSharp {
-          gatsbyImageData(width: 200, layout: CONSTRAINED)
+          gatsbyImageData(width: 200, layout: CONSTRAINED, placeholder: BLURRED)
         }
       }
     }
@@ -25,7 +25,7 @@ const ServicePage = () => {
     relativePath: {eq: "illustration/service-illustration.png"}
   ) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH)
+      gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED)
     }
   }
 }

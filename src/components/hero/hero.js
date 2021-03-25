@@ -15,12 +15,12 @@ const HomeHero = ({heroQuote}) => {
   }
   HeroHeadshotImage: file(relativePath: {eq: "hero-headshot.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 478, height: 571, quality: 90, layout: CONSTRAINED)
+      gatsbyImageData(width: 478, height: 571, quality: 90, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   HeroQuoteImage: file(relativePath: {eq: "hero-quotes.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 100, layout: FIXED)
+      gatsbyImageData(width: 100, layout: FIXED, placeholder: BLURRED)
     }
   }
 }

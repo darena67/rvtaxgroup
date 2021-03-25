@@ -19,7 +19,7 @@ const AboutPage = () => {
       desc
       photo {
         childImageSharp {
-          gatsbyImageData(width: 400, layout: CONSTRAINED)
+          gatsbyImageData(width: 400, layout: CONSTRAINED, placeholder: BLURRED)
         }
       }
     }
@@ -28,29 +28,29 @@ const AboutPage = () => {
     relativePath: {eq: "illustration/about-illustration.png"}
   ) {
     childImageSharp {
-      gatsbyImageData(width: 1920, layout: CONSTRAINED)
+      gatsbyImageData(width: 1920, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   AboutIllustration2Image: file(
     relativePath: {eq: "illustration/about-illustration2.png"}
   ) {
     childImageSharp {
-      gatsbyImageData(width: 1920, layout: CONSTRAINED)
+      gatsbyImageData(width: 1920, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   CertificationIconImage: file(relativePath: {eq: "pricing_certification1.png"}) {
     childImageSharp {
-      gatsbyImageData(height: 250, layout: CONSTRAINED)
+      gatsbyImageData(height: 250, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   Certification2IconImage: file(relativePath: {eq: "pricing_certification2.png"}) {
     childImageSharp {
-      gatsbyImageData(height: 170, layout: CONSTRAINED)
+      gatsbyImageData(height: 170, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
   Certification3IconImage: file(relativePath: {eq: "National-Cannabis-Industry-Association-NCIA-logo.png"}) {
     childImageSharp {
-      gatsbyImageData(height: 250, layout: CONSTRAINED)
+      gatsbyImageData(height: 250, layout: CONSTRAINED, placeholder: BLURRED)
     }
   }
 }
@@ -97,16 +97,12 @@ const AboutPage = () => {
           <AboutInfoList image={data.AboutIllustration2Image.childImageSharp.gatsbyImageData} />
         </div>
 
-        <div className="section  container text-center">
+        <div className="section text-center">
 
-          <div className="container">
-
-            <h2 className="section-title">Our Certifications</h2>
+            <h3 className="cta-section section-title">Our Certifications</h3>
 
             <GatsbyImage image={data.CertificationIconImage.childImageSharp.gatsbyImageData} alt="Certified Public Accountant" />
             <GatsbyImage image={data.Certification3IconImage.childImageSharp.gatsbyImageData} alt="National Cannabis Industry Association Member" />
-
-          </div>
 
           <div className="container">
 
@@ -114,6 +110,8 @@ const AboutPage = () => {
 
           </div>
 
+        </div>
+          <div className="cta-section container text-center">
           <h3 className="cta__text ">
             Are things like taxes & bookkeeping keeping you from running your
             business?
@@ -122,8 +120,7 @@ const AboutPage = () => {
           <Link to="/contact/" className="btn btn-cta">
             Lets Talk!
           </Link>
-
-        </div>
+          </div>
 
       </Layout>
 

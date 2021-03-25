@@ -17,7 +17,7 @@ const ContactPage = () => {
       }
 			ContactIllustration: file(relativePath: {eq: "illustration/contact-illustration.png"}) {
 				childImageSharp {
-					gatsbyImageData(layout: FULL_WIDTH)
+					gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED)
 				}
 			}
     }
