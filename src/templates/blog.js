@@ -12,7 +12,7 @@ export const query = graphql`query ($slug: String!) {
       date(formatString: "MMMM DD, YYYY")
       thumbnail {
         childImageSharp {
-          gatsbyImageData(quality: 80, layout: FULL_WIDTH)
+          gatsbyImageData(quality: 80, layout: FULL_WIDTH, placeholder: BLURRED, backgroundColor: "white")
         }
       }
     }

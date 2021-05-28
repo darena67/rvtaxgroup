@@ -19,7 +19,7 @@ const AboutPage = () => {
       desc
       photo {
         childImageSharp {
-          gatsbyImageData(width: 400, layout: CONSTRAINED, placeholder: BLURRED)
+          gatsbyImageData(width: 400, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
         }
       }
     }
@@ -28,29 +28,29 @@ const AboutPage = () => {
     relativePath: {eq: "illustration/about-illustration.png"}
   ) {
     childImageSharp {
-      gatsbyImageData(width: 1920, layout: CONSTRAINED, placeholder: BLURRED)
+      gatsbyImageData(width: 1920, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
     }
   }
   AboutIllustration2Image: file(
     relativePath: {eq: "illustration/about-illustration2.png"}
   ) {
     childImageSharp {
-      gatsbyImageData(width: 1920, layout: CONSTRAINED, placeholder: BLURRED)
+      gatsbyImageData(width: 1920, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
     }
   }
   CertificationIconImage: file(relativePath: {eq: "pricing_certification1.png"}) {
     childImageSharp {
-      gatsbyImageData(height: 250, layout: CONSTRAINED, placeholder: BLURRED)
+      gatsbyImageData(height: 250, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
     }
   }
   Certification2IconImage: file(relativePath: {eq: "pricing_certification2.png"}) {
     childImageSharp {
-      gatsbyImageData(height: 170, layout: CONSTRAINED, placeholder: BLURRED)
+      gatsbyImageData(height: 170, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
     }
   }
   Certification3IconImage: file(relativePath: {eq: "National-Cannabis-Industry-Association-NCIA-logo.png"}) {
     childImageSharp {
-      gatsbyImageData(height: 250, layout: CONSTRAINED, placeholder: BLURRED)
+      gatsbyImageData(height: 250, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
     }
   }
 }

@@ -19,7 +19,7 @@ const IndexPage = () => {
       }
       icon {
         childImageSharp {
-          gatsbyImageData(width: 300 layout: CONSTRAINED, placeholder: BLURRED)
+          gatsbyImageData(width: 300 layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
         }
       }
     }
@@ -30,7 +30,7 @@ const IndexPage = () => {
         frontmatter {
           thumbnail {
             childImageSharp {
-              gatsbyImageData(width: 400, layout: CONSTRAINED, placeholder: BLURRED)
+              gatsbyImageData(width: 400, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
             }
           }
           title

@@ -22,7 +22,7 @@ const Footer = () => {
       }
 			RedEyeLogoImage: file(relativePath: {eq: "logo.png"}) {
 				childImageSharp {
-					gatsbyImageData(height: 60 layout: FIXED)
+					gatsbyImageData(height: 60 layout: FIXED, placeholder: BLURRED, backgroundColor: "white")
 				}
 			}
     }

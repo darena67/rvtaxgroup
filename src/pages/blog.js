@@ -56,7 +56,7 @@ export const pageQuery = graphql`query BlogPage {
         frontmatter {
           thumbnail {
             childImageSharp {
-              gatsbyImageData(width: 400, layout: CONSTRAINED, placeholder: BLURRED)
+              gatsbyImageData(width: 400, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
             }
           }
           title
@@ -75,7 +75,7 @@ export const pageQuery = graphql`query BlogPage {
     relativePath: {eq: "illustration/blog-illustration.png"}
   ) {
     childImageSharp {
-      gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED)
+      gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, backgroundColor: "white")
     }
   }
 }

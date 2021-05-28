@@ -7,7 +7,7 @@ const NotFoundPage = () => {
   const data = useStaticQuery(graphql`{
   noFoundImage: file(relativePath: {eq: "404-Error.png"}) {
     childImageSharp {
-      gatsbyImageData(width: 700, layout: CONSTRAINED, placeholder: BLURRED)
+      gatsbyImageData(width: 700, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
     }
   }
 }
