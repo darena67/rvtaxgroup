@@ -1,14 +1,14 @@
 page: home
 hero_quote: Hi! My name is Daria and I will deal with the IRS so you don't have to!
 home_services:
-  - name: Cannabis Accounting
+  - name: RV and Campground Bookkeeping
     service:
       - text: GAAP compliant and investor ready financial statements
-      - text: Full absorption cost accounting
-      - text: "Accounting set up & clean up "
+      - text: QuickBooks Set up and Training
+      - text: "Accounting clean up "
       - text: Cash flow forecasts
     icon: ../assets/accountant.png
-  - name: "Local Tax Compliance "
+  - name: Business Tax Returns
     service:
       - text: Sales & Use, Excise, Cultivation, and City Cannabis tax returns
       - text: Configuration of tax settings in Point of Sale systems
