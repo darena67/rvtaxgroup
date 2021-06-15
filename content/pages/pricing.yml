@@ -6,9 +6,10 @@ packages:
     pricing: $40 an hour
     feature-title: charged by hour
     feature:
-      - text: Monthly CPA review of your financials
-      - text: Monthly adjusting entries for inventory, prepaids, and accruals
-      - text: GAAP financials and month end reports
+      - text: Accounts Payable, Receivables & Collections
+      - text: Financial Statement Preparation
+      - text: Accounting Set-Up
+      - text: Year End W2's, 1099's, Sales Tax Filing
   - name: Personal Tax Returns
     desc: Form 1040
     pricing: Minimum $500 per return
@@ -16,6 +17,8 @@ packages:
     feature:
       - text: Preparation of your personal federal and state tax returns
       - text: Quarterly estimated tax payment vouchers
+      - text: Preparation of amended returns
+      - text: Part-year/nonresidents, non-filers, expatriates, and FBAR filers as well.
   - name: Business Tax Returns
     desc: Form 1065 and 1120 S
     pricing: Minimum $700 per return
@@ -23,13 +26,16 @@ packages:
     feature:
       - text: Preparation of your business federal and state tax returns
       - text: Quarterly estimated tax payment vouchers
+      - text: Business deductions
   - name: Projects & Consulting
     pricing: $130 an hour
     feature:
-      - text: Year end tax planning
+      - text: Strategic Tax Planning & Consulting
       - text: QuickBooks Online consulting
       - text: Business CFO services
+      - text: IRS audits and correspondence
     feature-title: charged by hour
+    desc: Zoom meetings
 faqs:
   - question: Do you charge by the hour?
     answer: We avoid billing by the hour whenever it’s possible. It creates
