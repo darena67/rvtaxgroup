@@ -1,34 +1,35 @@
 page: pricing
 intro: Find the plan that’s right for you
 packages:
-  - name: Basic
-    desc: We review your bookkeeping and prepare local tax returns
-    pricing: Starting $700
-    feature-title: "Includes:"
+  - name: Bookkeeping
+    desc: QuickBooks Online
+    pricing: $40 an hour
+    feature-title: charged by hour
     feature:
       - text: Monthly CPA review of your financials
       - text: Monthly adjusting entries for inventory, prepaids, and accruals
       - text: GAAP financials and month end reports
-      - text: Preparation and filing of local tax returns
-      - text: Cash flow provisions for local taxes
-  - name: Standard
-    desc: We review your bookkeeping and prepare local & federal tax returns
-    pricing: Starting $1,000
-    feature-title: "Everything in Basic package plus:"
+  - name: Personal Tax Returns
+    desc: Form 1040
+    pricing: Minimum $500 per return
+    feature-title: "fixed fee "
     feature:
-      - text: Preparation of your federal and state tax returns
-      - text: Year end tax planning
+      - text: Preparation of your personal federal and state tax returns
       - text: Quarterly estimated tax payment vouchers
-      - text: Cash flow provisions for federal taxes
-  - name: Premium
-    desc: We do bookkeeping and prepare local & federal tax returns
-    pricing: Starting $1,500
-    feature-title: "Everything in Standard package plus:"
+  - name: Business Tax Returns
+    desc: Form 1065 and 1120 S
+    pricing: Minimum $700 per return
+    feature-title: Fixed fee
     feature:
-      - text: Data entry of expenses and deposits
-      - text: Bank and Credit Card reconciliations
-      - text: "Cost of accounting software "
-      - text: Support docs attached to transactions
+      - text: Preparation of your business federal and state tax returns
+      - text: Quarterly estimated tax payment vouchers
+  - name: Projects & Consulting
+    pricing: $130 an hour
+    feature:
+      - text: Year end tax planning
+      - text: QuickBooks Online consulting
+      - text: Business CFO services
+    feature-title: charged by hour
 faqs:
   - question: Do you charge by the hour?
     answer: We avoid billing by the hour whenever it’s possible. It creates
@@ -44,25 +45,5 @@ faqs:
     answer: We are paperless and virtual. We utilize a secure client portal to
       exchange and deliver private information. Client documents are
       encrypted  and stored on a secure server with two-factor authentication.
-  - question: Can you prepare my 1040?
-    answer: "Yes we can! However, please keep in mind that individual tax
-      preparation is not included in our business plans offered above. "
   - question: Do you require a retainer?
-    answer: We don’t ask for a retainer as long as you came to us from a different
-      cannabis CPA firm. We trust our colleagues and believe in their accounting
-      expertise. However, if prior to us you were doing your own accounting, or
-      you are just starting out, we will ask for the retainer because of the
-      amount of work that will be required to set up or clean up your
-      accounting.
-  - answer: First, we work from home and keep our expenses lean. Second, cannabis
-      startups pay huge taxes and they need CPAs with expert knowledge of 280E
-      mitigation. Accounting firms are aware of your tax situation and use it to
-      their advantage by artificially inflating their accounting rates. We don’t
-      do that. We base our pricing on the amount of expected work and not your
-      despair. Our rate is $150 an hour, and it is a standard rate for a small
-      CPA firm anywhere in the US. If we think that your business requires 5-6
-      hours of monthly CPA work, we will offer you our Basic Plan. The more
-      hours we plan to spend on your accounting, the higher our monthly fee will
-      be. If we later find out that we grossly under or overestimated required
-      work hours, we will adjust our bill accordingly.
-    question: Why are you so inexpensive?
+    answer: "We ask our new clients to pay upfront. "
