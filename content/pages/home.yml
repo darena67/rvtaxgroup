@@ -7,7 +7,7 @@ home_services:
       - text: Quaterly financial statements
       - text: Accounts Payable, Receivables & Collections
       - text: "Employee expense reports "
-      - text: Fixed asset accounting
+      - text: Year End W2's, 1099's, Sales Tax Filing
     icon: ../assets/accountant.png
   - name: Business Services
     service:
