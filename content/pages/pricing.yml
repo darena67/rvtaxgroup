@@ -20,13 +20,13 @@ packages:
       - text: Preparation of amended returns
       - text: Part-year/nonresidents, non-filers, expatriates, and FBAR filers as well.
   - name: Business Tax Returns
-    desc: Form 1065 and 1120 S
+    desc: Form 1065 and 1120S
     pricing: Minimum $700 per return
     feature-title: Fixed fee
     feature:
       - text: Preparation of your business federal and state tax returns
       - text: Quarterly estimated tax payment vouchers
-      - text: Business deductions
+      - text: Digital business deductions
   - name: Projects & Consulting
     pricing: $130 an hour
     feature:
@@ -35,7 +35,7 @@ packages:
       - text: Business CFO services
       - text: IRS audits and correspondence
     feature-title: charged by hour
-    desc: Zoom meetings
+    desc: Zoom meeting
 faqs:
   - question: Do you charge by the hour?
     answer: We avoid billing by the hour whenever it’s possible. It creates
