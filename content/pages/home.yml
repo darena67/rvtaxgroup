@@ -1,24 +1,24 @@
 page: home
 hero_quote: Test2 Test2 Test2!
 home_services:
-  - name: Cannabis Accounting
+  - name: RV and Campground Bookkeeping
     service:
-      - text: GAAP compliant and investor ready financial statements
-      - text: Full absorption cost accounting
-      - text: "Accounting set up & clean up "
+      - text: GAAP financial statements
+      - text: QuickBooks Set up and Training
+      - text: "Accounting clean up "
       - text: Cash flow forecasts
     icon: ../assets/accountant.png
-  - name: "Local Tax Compliance "
+  - name: Business Services
     service:
-      - text: Sales & Use, Excise, Cultivation, and City Cannabis tax returns
-      - text: Configuration of tax settings in Point of Sale systems
-      - text: CDTFA Payment Plans
-      - text: Development and review of local tax procedures
+      - text: Tax Preparation
+      - text: Virtual CFO Services
+      - text: Business Deductions
+      - text: Monthly and quarterly filings with State
     icon: ../assets/court.png
-  - name: Cannabis Income Tax Preparation
+  - name: Personal Services
     service:
-      - text: Section 280E mitigation & 471 compliance
-      - text: Tax preparation & planning
-      - text: Entity selection
-      - text: IRS and FTB correspondence and audits
+      - text: Tax Preparation & planning
+      - text: Estimated tax payments and withholdings
+      - text: Tax home and transient status
+      - text: IRS correspondence and audits
     icon: ../assets/tax.png
