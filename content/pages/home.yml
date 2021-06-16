@@ -1,24 +1,27 @@
 page: home
-hero_quote: Test2 Test2 Test2!
+hero_quote: What can I say here?
 home_services:
-  - name: RV and Campground Bookkeeping
+  - name: Bookkeeping
     service:
-      - text: GAAP financial statements
-      - text: QuickBooks Set up and Training
-      - text: "Accounting clean up "
-      - text: Cash flow forecasts
+      - text: QuickBooks set up and training
+      - text: Quaterly financial statements
+      - text: Accounts payable and receivable
+      - text: "Employee expense reports "
+      - text: Fixed asset accounting
     icon: ../assets/accountant.png
   - name: Business Services
     service:
-      - text: Tax Preparation
-      - text: Virtual CFO Services
-      - text: Business Deductions
+      - text: Taxes for location independent businesses
+      - text: Business structure, formation, and licensing
       - text: Monthly and quarterly filings with State
+      - text: Accounting tips for RV mobile business
+      - text: RVs and campound fees as business expenses
     icon: ../assets/court.png
   - name: Personal Services
     service:
-      - text: Tax Preparation & planning
+      - text: Taxes for digital nomads and RV owners
       - text: Estimated tax payments and withholdings
-      - text: Tax home and transient status
       - text: IRS correspondence and audits
+      - text: RV tax deductions
+      - text: Tax home and transient status
     icon: ../assets/tax.png
