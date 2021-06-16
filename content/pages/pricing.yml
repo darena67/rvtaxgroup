@@ -16,7 +16,7 @@ packages:
     feature-title: "fixed fee "
     feature:
       - text: Preparation of your personal federal and state tax returns
-      - text: Quarterly estimated tax payment vouchers
+      - text: Foreign earned income
       - text: Preparation of amended returns
       - text: Part-year/nonresidents, non-filers, expatriates, and FBAR filers as well.
   - name: Business Tax Returns
@@ -24,7 +24,7 @@ packages:
     pricing: Minimum $700 per return
     feature-title: Fixed fee
     feature:
-      - text: Preparation of your business federal and state tax returns
+      - text: Preparation of business federal and state tax returns
       - text: Quarterly estimated tax payment vouchers
       - text: Digital business deductions
       - text: Business tax structure, formation, and licensing
@@ -34,7 +34,7 @@ packages:
       - text: Strategic Tax Planning & Consulting
       - text: QuickBooks Online consulting
       - text: Business CFO services
-      - text: Budgeting
+      - text: IRS correspondence and audits
     feature-title: charged by hour
     desc: Zoom meeting
 faqs:
