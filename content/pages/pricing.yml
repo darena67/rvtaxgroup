@@ -27,7 +27,7 @@ packages:
     feature:
       - text: Preparation of business federal and state tax returns
       - text: Quarterly estimated tax payment vouchers
-      - text: Digital business deductions
+      - text: Digital and RV business deductions
       - text: Business tax structure, formation, and licensing
   - name: Projects & Consulting
     pricing: $130 an hour
