@@ -12,8 +12,8 @@ home_services:
   - name: Business Services
     service:
       - text: Taxes for location independent businesses
-      - text: Business structure, formation, and licensing
-      - text: Monthly and quarterly filings with State
+      - text: Interstate commerce
+      - text: Monthly and quarterly filings with States
       - text: Accounting tips for RV mobile business
       - text: RVs and campound fees as business expenses
     icon: ../assets/court.png
