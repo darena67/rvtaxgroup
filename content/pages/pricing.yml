@@ -3,8 +3,8 @@ intro: Find the plan that’s right for you
 packages:
   - name: Bookkeeping
     desc: QuickBooks Online
-    pricing: $40 an hour
-    feature-title: charged by hour
+    pricing: Starting $250 per month
+    feature-title: fixed fee
     feature:
       - text: Accounts Payable, Receivables & Collections
       - text: Financial Statement Preparation
@@ -12,7 +12,7 @@ packages:
       - text: Year End W2's, 1099's, Sales Tax Filing
   - name: Personal Tax Returns
     desc: Form 1040
-    pricing: Minimum $500 per return
+    pricing: Starting $500 per return
     feature-title: "fixed fee "
     feature:
       - text: Preparation of your personal federal and state tax returns
@@ -21,7 +21,7 @@ packages:
       - text: Part-year/nonresidents, non-filers, expatriates, and FBAR filers as well.
   - name: Business Tax Returns
     desc: Form 1065 and 1120S
-    pricing: Minimum $700 per return
+    pricing: Starting $700 per return
     feature-title: Fixed fee
     feature:
       - text: Preparation of business federal and state tax returns
