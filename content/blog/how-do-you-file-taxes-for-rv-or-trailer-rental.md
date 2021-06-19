@@ -10,25 +10,21 @@ How do you file taxes for RV rentals?
 
 So, you bought an RV or a trailer and put it up on Outdoorsy. You made some money, and now it is time to file your tax return. Maybe you are secretly hoping to write off some stuff too. Let’s take a look at how it is done and what can be deducted.
 
-Step one. Read up on leasure vs business and decide if it is worth the risk.
+**Step one**. Read up on leasure vs business **here** and decide for yourself if your RV is actually a business asset.
 
-
-**Step two.** *Figure out what tax schedule you will use to reflect your rental activity.* Generally, trailer or RV rental activity should go on the tax Schedule C. 
+**Step two.** *Figure out what tax schedule you will use to reflect your rental activity.* Trailer or RV rental activity may go on Schedule C or Schedule E. Tax treatments of these schedules are different and you need to make sure you completely understand the difference between these two schedules.
 Schedule C is used to reflect active involvement in your business. You hustle: answer phone calls and messages, clean your RV, advertise it, and deliver it to your customers. All of it constitutes an active business. And losses from an active business directly offset other income reflected on the first page of Form 1040 (read - immediate tax savings). 
 However, you need to be careful. If you purchased an RV that has a restroom, kitchen, and sleeping quarters, the IRS will consider it a residence. And what happens to rental income from a residence? Most of the time it goes on Schedule E. Schedule E reflects passive income. It means that you are passively collecting your income without many hurdles. Schedule E losses are not always immediately deductible. 
 High-income earners have to defer recognition of loss until they sell their property. For regular people, rental losses are tapped at 25k per year. So, if your RV happened to also be a house, you need to analyze your situation and see if you are actively engaged in your business. 
 Also, there is an IRS rule that says that if your average rental period is seven days or less, the activity is deemed to be active. Taxation of rental RVs with living arrangements is a grey area. The IRS regulations are unclear, and you have to make your decision and stick with it. And, most importantly, keep records supporting your position. 
 
-
 **Step three.** *Figure out the tax cost basis of your vehicle.* It is very important to calculate the tax cost basis correctly since the biggest business expense depreciation is based on the cost basis of your vehicle. Not to get into details, but generally, the cost basis of a new rental vehicle is price + sales tax + paperwork fees required to process the sale. 
 But what if you bought an RV and used it personally before renting it out on Outdoorsy? In this case, your tax cost basis is the lower of your purchase cost or Fair Market Value at the moment you started advertising on Outdoorsy. You can figure out the Fair Market Value of your vehicle by browsing the internet and finding a similar vehicle for sale with the same mileage and year made. 
 For example, in 2019 you bought your RV for 130K, but when you started to rent, its Fair Market Value went down to 110k. In this case, your cost basis is 110K. What if you bought a used RV? Well, for you personally, this RV is new and your cost basis will be price + sales tax + paperwork fees.
 
-
 **Step four.** *Figure out your business and personal miles.* Since you may still use your RV or trailer for personal trips, your personal part of expenses should not be deducted on your tax return. 
 For example, if your business usage of the vehicle was 90%, only 90% of all expenses (including depreciation) will be deductible. Your tax software will figure out the business percentage and amount of expenses allowed for deduction. All you have to do is to enter your business and personal miles. 
 But what if you determine that your RV rental activity goes on Schedule E? In this case, business and personal expenses are divided based on the number of days rented. Schedule E has a bunch of other rules, and I won’t be covering them here.
-
 
 **Step five.** *Figure out what benefits you the most: standard mileage or actual cost tax deduction*. Usually, your tax software chooses the most beneficial method, and you don’t think twice about it. However, there are a couple of things that you need to consider. 
 The standard mileage method is an allowance per mile. The IRS gives you 50 something cents per mile, and if you drove 100K of business miles during the year, you get to deduct around 50K on your Schedule C. The standard mileage is beneficial to drivers that drive long distances on cheap cars. 
@@ -37,7 +33,6 @@ However, there is a caveat. If in the first year you pick the actual expenses me
 If in the first year you pick the standard mileage method, in consequent years you will be able to switch between the actual and standard mileage methods. So, if your rental RV stays with you for eight years, on years six, seven, and eight, you will be able to take the standard mileage deduction. But ONLY if you took the standard mileage deduction in the first year.
 Who knows what will happen in years 6, 7, or 8, right? Maybe by that time, you will sell your vehicle. Or your RV will have major repairs, and you will be able to deduct all of them on your tax return.
 The other thing you need to know before choosing between the actual and standard mileage methods is such things as depreciation recapture. It is a difficult concept to explain, and I won’t go into much detail here. Basically, with the actual cost method, you are running a risk of recognizing gain on your tax return due to taking too much depreciation in prior years. This may happen when your current year business use of your rental RV drops below 50% or if you decide to start using your vehicle for personal purposes only. Unfortunately, that won’t happen if you decide to go with standard mileage.
-
 
 **Step six.** *Determine depreciation method* (that is if you decided to go with the actual cost method described in step four). This step is emotionally and mentally heavy even for CPAs. To shortly describe the situation, as of 2021, there are four ways you can depreciate your Rental RV or Trailer. Those ways are Bonus depreciation, Section 179, MACRS, and Straight Line depreciation. 
 With bonus depreciation, you can expense your rental RV in the first year and save big on your taxes that year. The question that you have to ask yourself is: what expenses am I going to have next year to offset my rental income? Depreciation will be gone, and I can’t take standard mileage. 
