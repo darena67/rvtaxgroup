@@ -1,6 +1,5 @@
 page: services
-intro: Cannabis is your passion. Accounting is our specialty. Whether it is
-  bookkeeping, tax preparation, or audits - we are here to help.
+intro: This pay may need to be deleted
 services_list:
   - title: "Income Tax preparation "
     subtitle: CANNABIS, HEMP, AND INDIVIDUALS
@@ -9,14 +8,6 @@ services_list:
       possible deduction is missed. We also provide tax planning and instruct on
       forms that typically do not need our assistance, such as form 8300. "
     service_image: ../assets/irs-cannabis-icon.jpg
-  - title: Local Tax Compliance
-    subtitle: EXCISE, CULTIVATION, SUT AND CANNABIS CITY TAX RETURNS
-    desc: "With us, you will not worry about missing a deadline for Excise or City
-      tax. We research local guidance, prepare your tax return, and make sure
-      you pay it on time. If needed, we will contact local authorities to sort
-      out a notice in the mail or previous delinquency. We also take care of
-      yearly business personal property and environmental fee returns. "
-    service_image: ../assets/2.jpg
   - title: Bookkeeping
     subtitle: CANNABIS AND HEMP
     desc: "Cannabis bookkeeping can get quite complicated. If you want those
@@ -26,15 +17,6 @@ services_list:
       because we know what those mean, and we will make sure you are in
       compliance. "
     service_image: ../assets/1.jpg
-  - title: Point of Sale Software
-    subtitle: CANNABIS DISPENSARIES
-    desc: "CDTFA wants its share of Excise and SUT tax. If you under collected, the
-      agency will ask you to pay the missing tax out of pocket. If you
-      over-collected, the agency will want this money too! As a dispensary you
-      collect those taxes through your Point of Sale System, and very often, its
-      tax settings are incorrect. We help you set up your POS tax withholdings;
-      this way, you do not pay a dime less or more in tax. "
-    service_image: ../assets/point-of-sale-software.jpg
   - title: IRS, FTB & CDTFA representation
     subtitle: CANNABIS AND HEMP
     desc: No matter how difficult your tax problem is, we have seen it before. Red
