@@ -85,20 +85,6 @@ collections:
             fields:
               - {label: Question, name: question, widget: string}
               - {label: Answer, name: answer, widget: string}
-      - label: "Services Page"
-        name: "services"
-        file: "content/pages/services.yml"
-        fields:
-          - {label: "Page Name", name: page, widget: string, required: false}
-          - {label: Intro, name: intro, widget: markdown, required: false}
-          - label: Services
-            name: services_list
-            widget: list
-            fields:
-              - {label: Title, name: title, widget: string}
-              - {label: "Sub Title", name: subtitle, widget: string}
-              - {label: Description, name: desc, widget: string, required: false}
-              - {label: "Service Image", name: service_image, widget: image}            
       - label: "Contact Page"
         name: "contact"
         file: "content/pages/contact.yml"
