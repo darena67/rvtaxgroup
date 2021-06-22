@@ -1,7 +1,7 @@
 ---
 path: RV Rental Tax
 date: 2021-02-15T21:18:53.324Z
-title: How do you file taxes for RV or trailer rental
+title: How to properly depreciate your Rental RV or trailer
 description: Instructions on how to file your taxes when you rented out your RV,
   motorhome or trailer on such sites as Outdoorsy.
 thumbnail: ../assets/rental-rv.jpg
