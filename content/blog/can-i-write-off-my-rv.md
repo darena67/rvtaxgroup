@@ -3,6 +3,7 @@ path: Rv tax
 date: 2021-06-22T06:57:41.467Z
 title: Can I write off my RV?
 description: Learn main rules that govern RV taxation and decide if you qualify
+thumbnail: ../assets/rental-rv.jpg
 ---
 Are you looking for ways to write off your RV as a business expense? Before getting creative, let’s look into the IRS Code and previous courts’ cases. RV taxation is nothing but simple, and before taking that deduction on your return, you need to have an idea of what you are getting into. 
 
