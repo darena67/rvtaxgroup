@@ -1,7 +1,7 @@
 ---
 path: RV Rental Tax
 date: 2021-02-15T21:18:53.324Z
-title: "How to properly depreciate your Rental RV "
+title: "How to properly depreciate Rental RV "
 description: Instructions on how depreciate your RV id you rented it out on such
   sites as Outdoorsy or GoCamp.
 thumbnail: ../assets/rental-rv.jpg
