@@ -1,5 +1,5 @@
 ---
-path: Rv tax
+path: RV tax rules
 date: 2021-06-22T06:57:41.467Z
 title: Can I write off my RV?
 description: Learn main rules that govern RV taxation and decide if you can
