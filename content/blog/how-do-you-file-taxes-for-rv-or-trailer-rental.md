@@ -2,8 +2,8 @@
 path: RV Rental Tax
 date: 2021-02-15T21:18:53.324Z
 title: "How to properly depreciate your Rental RV "
-description: Instructions on how to file your taxes when you rented out your RV
-  on such sites as Outdoorsy or GoCamp.
+description: Instructions on how depreciate your RV id you rented it out on such
+  sites as Outdoorsy or GoCamp.
 thumbnail: ../assets/rental-rv.jpg
 ---
 So, you bought an RV and put it up on Outdoorsy. You made some money, and now it is time to file your tax return. Maybe you are secretly hoping to write off some stuff too. Let’s take a look at how it is done and what can be deducted. Since RV taxation is not simple, we have to go through several steps to determine possible tax deductions.
