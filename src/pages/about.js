@@ -99,8 +99,6 @@ const AboutPage = () => {
             <GatsbyImage image={data.CertificationIconImage.childImageSharp.gatsbyImageData} alt="Certified Public Accountant" />
             <GatsbyImage image={data.Certification2IconImage.childImageSharp.gatsbyImageData} alt="Enrolled Agent Certification" />
 
-          </div>
-
         </div>
           <div className="cta-section container text-center">
           <h3 className="cta__text ">
