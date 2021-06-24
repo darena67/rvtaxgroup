@@ -1,8 +1,16 @@
+@import "./fonts";
+
+$font-bold: "Montserrat-bold", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;
+
+$font-light: "Montserrat-light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;
+
 $font: "Gilroy", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
   Oxygen, Ubuntu, Cantarell, "Open Sans", sans-serif;
 
 $black:#313131;
-$primary-dark:#D2483E;
+$primary-dark:#df3365;
 $primary-light:#FF6E64;
 $secondary-dark:#34515D;
 $secondary-light:#487F96;
