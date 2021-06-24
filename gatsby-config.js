@@ -1,10 +1,10 @@
 const name = 'Daria Nagal';
-const siteUrl = 'https://redeyecpa.com';
-const description = 'Having a problem with the IRS taking too much of your stash? At Red Eye CPA we focus on Individual and Business taxation, as well as the Cannabis industry.';
+const siteUrl = 'https://rvtaxgroup.com';
+const description = 'Accounting firm for digital nomads, RV owners, & remote businesses. Contact us today with your tax questions!';
 
 module.exports = {
   siteMetadata: {
-    title: `Red Eye CPA`,
+    title: `RVTaxGroup`,
     description: description,
     author: name,
     siteUrl: siteUrl,

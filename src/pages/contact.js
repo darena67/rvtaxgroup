@@ -27,7 +27,7 @@ const ContactPage = () => {
     <div className="contact">
       <SEO
         pageTitle="Contact Us"
-        description="We are here to answer your questions. And don’t worry, we won't charge for a simple phone call."
+        description="Contact us today!"
       />
       <Layout>
         <HeroOther

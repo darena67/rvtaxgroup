@@ -10,7 +10,7 @@ const BlogPage = ({ data }) => {
     <div className='blog'>
       <SEO
         pageTitle='Blog'
-        description='Read our blog on Cannabis and Hemp accounting and tax issues. In our blog you will find lots of useful information on how to run your business and save on cannabis taxes.'
+        description='Confused about your taxes? Read our blog about taxation of remote teleworking, RV depreciation, interstate commerce and more!'
       />
       <Layout>
         <HeroOther

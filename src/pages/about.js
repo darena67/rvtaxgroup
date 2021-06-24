@@ -48,11 +48,6 @@ const AboutPage = () => {
       gatsbyImageData(height: 170, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
     }
   }
-  Certification3IconImage: file(relativePath: {eq: "National-Cannabis-Industry-Association-NCIA-logo.png"}) {
-    childImageSharp {
-      gatsbyImageData(height: 250, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
-    }
-  }
 }
 `);
 //  console.log(data);
@@ -61,7 +56,7 @@ const AboutPage = () => {
 
       <SEO
         pageTitle="About us"
-        description="Accountants with over 16 years of combined experience serving Cannabis industry in California. Click here to read more."
+        description="Click here to find out about our tax qualifications and experience!"
       />
 
       <Layout>
@@ -102,10 +97,6 @@ const AboutPage = () => {
             <h3 className="cta-section section-title">Our Certifications</h3>
 
             <GatsbyImage image={data.CertificationIconImage.childImageSharp.gatsbyImageData} alt="Certified Public Accountant" />
-            <GatsbyImage image={data.Certification3IconImage.childImageSharp.gatsbyImageData} alt="National Cannabis Industry Association Member" />
-
-          <div className="container">
-
             <GatsbyImage image={data.Certification2IconImage.childImageSharp.gatsbyImageData} alt="Enrolled Agent Certification" />
 
           </div>

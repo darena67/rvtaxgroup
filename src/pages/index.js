@@ -53,7 +53,7 @@ const IndexPage = () => {
     <div className="home">
       <SEO
         pageTitle="Home"
-        description="Affordable Go-To firm for Cannabis accounting needs. We take care of Bookkeeping, SUT & Excise taxes, and of course 280 mitigation! Call us today!!"
+        description="Accounting firm for digital nomads, RV owners, & remote businesses. Contact us today with your tax questions!"
       />
       <Layout>
         <HomeHero heroQuote={data.pagesYaml.hero_quote} />
