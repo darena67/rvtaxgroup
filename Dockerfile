@@ -2,7 +2,7 @@ FROM node:alpine
 
 MAINTAINER Vladi Gergov <vladi@aresgate.net>
 
-RUN apk add --no-cache git bash openssh libpng-dev autoconf automake build-base libtool nasm python util-linux
+RUN apk add --no-cache git bash openssh libpng-dev autoconf automake build-base libtool nasm python3 util-linux
 
 ## Set web password
 USER node
