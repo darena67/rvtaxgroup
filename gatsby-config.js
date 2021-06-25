@@ -1,5 +1,5 @@
-const name = 'Daria Nagal';
-const siteUrl = 'https://rvtaxgroup.com';
+const name = `Daria Nagal`;
+const siteUrl = `https://rvtaxgroup.com`;
 const description = 'Accounting firm for digital nomads, RV owners, & remote businesses. Contact us today with your tax questions!';
 
 module.exports = {
@@ -116,7 +116,7 @@ module.exports = {
         // Any additional optional fields
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: "redeyecpa.com",
+        cookieDomain: "rvtaxgroup.com",
       },
     },
   ],

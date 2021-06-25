@@ -19,7 +19,7 @@ const AboutInfoList = ({ image }) => {
         <li>
           <CheckCircleIcon className="icon" />
           <div>
-            We make sure that you are 280E compliant and you get as much tax
+            We make sure that you are tax compliant and you get as much tax
             benefit as you legally can.
           </div>
         </li>

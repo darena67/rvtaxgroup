@@ -83,11 +83,6 @@ const AboutPage = () => {
           ))}
         </div>
 
-        <h3 className="about__desc  container text-center">
-          We are both excited about the legalization of marijuana and are very
-          happy to be part of an industry that helps so many people
-        </h3>
-
         <div className="about__infoList section bg-info-blue text-light ">
           <AboutInfoList image={data.AboutIllustration2Image.childImageSharp.gatsbyImageData} />
         </div>
@@ -97,7 +92,9 @@ const AboutPage = () => {
             <h3 className="cta-section section-title">Our Certifications</h3>
 
             <GatsbyImage image={data.CertificationIconImage.childImageSharp.gatsbyImageData} alt="Certified Public Accountant" />
+            <div className="container">
             <GatsbyImage image={data.Certification2IconImage.childImageSharp.gatsbyImageData} alt="Enrolled Agent Certification" />
+            </div>
 
         </div>
           <div className="cta-section container text-center">

@@ -55,7 +55,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer__copyright">
-          © 2021 RedEyeCPA. All rights reserved.
+          © 2021 RVTaxGroup. All rights reserved.
         </div>
       </div>
     </footer>
