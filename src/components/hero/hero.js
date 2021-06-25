@@ -46,6 +46,16 @@ const HomeHero = ({ heroQuote }) => {
 
         </div>
 
+        <div className="hero__headings-mobile">
+          <h1 className="hero__heading-mobile hero__uppercase">
+            Your taxes <span className="heading-bold">Our problem!</span>
+          </h1>
+          <Link to="/contact/" className="btn hero__btn">
+            Get Started
+          </Link>
+
+        </div>
+
         <div className="hero__image">
           <GatsbyImage
             image={data.HeroHeadshotImage.childImageSharp.gatsbyImageData}
