@@ -12,7 +12,7 @@ const Header = () => {
     <header>
       <div className="navbar container">
         <Link to="/">
-          <StaticImage src="../../images/logo.png" className="navbar__logo" alt="Navigation Logo" width="146" />
+          <StaticImage height="60" src="../../images/logo.png" className="navbar__logo" alt="Navigation Logo" />
         </Link>
         <MenuIcon className="nav__icon" onClick={() => setShow("show")} />
 
