@@ -1,57 +1,97 @@
 ---
 path: RV Rental Tax
 date: 2021-02-15T21:18:53.324Z
-title: "How to properly depreciate Rental RV "
-description: Instructions on how depreciate your RV id you rented it out on such
+title: "How to properly write of my Rental RV "
+description: Instructions on how depreciate your RV if you rented it out on such
   sites as Outdoorsy or GoCamp.
 thumbnail: ../assets/rental-rv.jpg
 ---
-So, you bought an RV and put it up on Outdoorsy. You made some money, and now it is time to file your tax return. Maybe you are secretly hoping to write off some stuff too. Let’s take a look at how it is done and what can be deducted. Since RV taxation is not simple, we have to go through several steps to determine possible tax deductions.
-
-**Step one**. Read up on the main principles **[here](https://rvtaxgroup.com/blog/can-i-write-off-my-rv/)** and decide for yourself if your RV is actually a business asset. After that read **[this blog](https://rvtaxgroup.com/blog/is-my-rv-a-dwelling-unit-or-a-listed-property-its-both/)** and make sure you didn't break the 14-day rule.
-
-**Step two.** *Figure out what tax schedule you will use to reflect your rental activity.* RV rental activity may go either on Schedule C or Schedule E depending on your personal involvement. Tax treatments of these schedules are different and you need to make sure you completely understand the difference between these two schedules.
-*Schedule C* is used to reflect active involvement in your rental business. You hustle: answer phone calls and messages, clean your RV, advertise it, and deliver your RV to customers. All of it constitutes material participation. And losses from a business with material participation directly offset other income reflected on the first page of Form 1040 (read - immediate tax savings). 
-Schedule E is used to reflect passive involvement in your rental business. The recreational vehicle by default is considered a dwelling unit and if all you do is passively collect your income, then you will need to use Schedule E. Passive losses are not always immediately deductible. High-income earners have to defer recognition of loss until they sell their property. For regular people, rental losses are tapped at 25k per year. 
 
 
-*There is also one interesting* **[*IRS rule.* ](https://www.law.cornell.edu/cfr/text/26/1.469-1T)**If your average rental period is seven days or less, then your activity is not considered a rental activity. This means your activity is not passive and you can deduct your tax losses in the same year you incurred them without any limitations. ***This is my opinion that most of the rental RV activity should go on Schedule C. An RV on schedule C is depreciated as listed property and not as a dwelling unit. If you determine, that your RV rental activity is passive in nature, it should go on Schedule E, where it will be depreciated as a dwelling unit. The steps below are for Schedule C activity only.*** 
+So, you bought an RV and put it up on Outdoorsy. You made some money, and now it is time to file your tax return. Maybe you are secretly hoping to write off some stuff too. Let’s take a look at how it is done and what can be deducted. Since RV taxation is not simple, we have to look at several tax court cases and IRS rules. This blog is just a short overview and does not cover all scenarios. Therefore, it may not be applicable to your situation and it is only meant to be a starting point of your tax research.
 
-**Step three.** *Figure out the tax cost basis of your vehicle.* It is very important to calculate the tax cost basis correctly since the biggest business expense depreciation is based on the cost basis of your vehicle. Not to get into details, but generally, the cost basis of a new rental vehicle is price + sales tax + paperwork fees required to process the sale. 
-But what if you bought an RV and used it personally before renting it out on Outdoorsy? In this case, your tax cost basis is the lower of your purchase cost or Fair Market Value at the moment you started advertising on Outdoorsy. You can figure out the Fair Market Value of your vehicle by browsing the internet and finding a similar vehicle for sale with the same mileage and year made. 
-For example, in 2019 you bought your RV for 130K, but when you started to rent, its Fair Market Value went down to 110k. In this case, your cost basis is 110K. What if you bought a used RV? Well, for you personally, this RV is new and your cost basis will be price + sales tax + paperwork fees.
+**Step one**. *Figure out how to classify your motorhome* – as a lodging facility or a transportation vehicle. Both the courts and the IRS have had trouble trying to figure out when the motor home is a business vehicle and when it is a business lodging facility. It is our opinion that an RV that was put up on rental websites should be classified as a lodging facility (unless you also use it for business transportation, which overcomplicates things and is a subject of a different blog)
 
-**Step four.** *Figure out your business and personal miles.* Since you may still use your RV or trailer for personal trips, your personal part of expenses should not be deducted on your tax return. 
-For example, if your business usage of the vehicle was 90%, only 90% of all expenses (including depreciation) will be deductible. Your tax software will figure out the business percentage and amount of expenses allowed for deduction. All you have to do is to enter your business and personal miles. 
+**Step two.** *Figure out how you will be measuring the business use of your motorhome**.***Will it be miles or days? In ***[Shirley](https://www.courtlistener.com/opinion/4557820/shirley-v-commr/)*** the court wrestled with this question, trying to decide whether the motor home was primarily for lodging or transportation. *The court noted that deciding primary use requires finding a common denominator and then measuring the result*. For example:
 
+• When you measure the primary use of a vehicle, you track mileage and tally the results. Thus, with 20,000 miles for business and 5,000 personal miles, you have 80 percent business use.
 
-**Step five.** *Figure out what benefits you the most: standard mileage or actual cost tax deduction*. 
+• When you track primary use of a lodging facility, you track number of business nights and personal nights.
 
-Standard mileage already includes depreciation costs, and if you choose standard mileage, you can't take additional depreciation on your tax return. And considering how expensive RVs are, it makes sense to go with an actual cost tax deduction. 
+Our suggestion is to track business miles just in case but use business days for expenses and income allocation.  Figure out business use of motorhome based on days and then depreciate your RV as a rental unit. However, use 5 years depreciation life.
 
-The standard mileage method is an allowance per mile. The IRS gives you 50 something cents per mile, and if you drove 100K of business miles during the year, you get to deduct around 50K on your Schedule C. The standard mileage is beneficial to drivers that drive long distances on cheap cars. 
-The actual expenses method is beneficial to owners of expensive vehicles. An expensive vehicle has a high depreciation expense. Also, expensive vehicles tend to have expensive repairs, insurance, gas, and maintenance. The actual cost method allows the deduction of all of this. 
-However, there is a caveat. If in the first year you pick the actual expenses method, you cannot switch to standard mileage in future years. You are stuck with actual expenses forever. And considering that the tax life of the RV or a Trailer is only five years, after five years, you will be scrambling for tax deductions since your main expense depreciation is gone. 
+After that add additional expenses such as gas, auto insurance, repairs and so on. Again, allocate these additional expenses between personal and business usage whether based on days or mileage.
 
+ 
 
-If in the first year you pick the standard mileage method, in consequent years you will be able to switch between the actual and standard mileage methods. So, if your rental RV stays with you for eight years, on years six, seven, and eight, you will be able to take the standard mileage deduction. But ONLY if you took the standard mileage deduction in the first year.
+**Step three.** *Read up on transient use of home.* When the average annual rental period for your home is less than 30 days, your home is treated as a hotel for tax purposes.
 
-The other thing you need to know before choosing between the actual and standard mileage methods is such things as depreciation recapture. It is a difficult concept to explain, and I won’t go into much detail here. Basically, with the actual cost method, you are running a risk of recognizing gain on your tax return due to taking too much depreciation in prior years. This may happen when your current year business use of your rental RV drops below 50% or if you decide to start using your vehicle for personal purposes only. This happens only when you take actual costs tax deduction and it won’t happen if you decide to go with standard mileage.
+ 
 
-**Step six.** *Determine depreciation method* (that is if you decided to go with the actual cost method described in step four). This step is emotionally and mentally heavy even for CPAs. To shortly describe the situation, as of 2021, there are four ways you can depreciate your rental RV. Those ways are Bonus depreciation, Section 179, MACRS, and Straight Line depreciation. 
-*With bonus depreciation*, you can expense your rental RV in the first year and save big on your taxes that year. The question that you have to ask yourself is: what expenses am I going to have next year to offset my rental income? Depreciation will be gone, and I can’t take standard mileage. 
-With S*ection 179 ,* you can also expense the whole RV in one year, but the depreciation expense will only wipe out your income and won’t generate immediate tax loss on your 1040. Instead, the rest of the depreciation expense will be carried over to the next year and will offset your future income on Schedule C. Although, there is one condition for these two methods. Your rental vehicle should be new to you. You could buy it used, but as long as you started to rent it immediately after the purchase, the vehicle is still eligible for bonus or 179 sec depreciation. However, you won’t qualify if you bought your vehicle new, used it for a year, and then put it up on Outdoorsy. 
-In this case, your only option is MACRS and Straight Line depreciation, which are not that bad after all. *Straight-line depreciation* is self-explanatory. You divide the tax cost basis of your vehicle into five parts and expense each part each year. *The MACRS* method is more complicated. In general, you get big depreciation expenses in the first two years, and after that, your depreciation expense gradually decreases each year. 
+Example. You rent the motor home during the year for 161 days to 15 different renters. Your average rental period for the year is 10.73 days. You are renting to transients. This makes your motor home a hotel for tax purposes.  Personal property in hotels qualifies for Section 179 expensing and the whole business activity is classified as active and goes on schedule C, where you can deduct your losses immediately.  
 
+ 
 
-The other thing that you need to keep in mind is that if after three years, you still don’t produce any income on your Schedule C, the IRS may reclass your activity to a hobby, and hobby losses are not deductible. Schedule C is prone to IRS audits, and it is important that you meticulously document all of your activity and expenses. You also need to remember that you will have to report to the IRS for the sale of your vehicle. Your rental vehicle is now a business asset and income and losses from the sale of a business asset should be reflected on your tax return.
+However, [Section 280A(f)(1)(B)](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=26-USC-551373876-1977192054&term_occur=3&term_src=title:26:subtitle:A:chapter:1:subchapter:B:part:IX:section:280A) states that by using your motor home exclusively as a hotel, you avoid having it deemed a residential rental property under the vacation home rules. One day of personal use can kick you out of the hotel treatment and your motor home will into a residential rental under the vacation home rules.
 
+ 
 
-Can I simply forget schedule C or E and not declare any income? Outdoorsy is very relaxed when it comes to 1099s. You have to have a very high volume before they send a 1099 form to the IRS. But goCamp issues 1099s on any amount. Outdoorsy could later adopt the same strategy and back issue 1099s for previous years. And if this happens, you and the IRS will have a long and unpleasant conversation about your tax evasion strategies.
+**Step four**. Read up on the [vacation home rules](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2921&context=dlj). If the taxpayer uses vehicle for personal needs for the greater of 14 days or 10% of total days rented, the IRS considers the motor home a personal residence. The taxpayer cannot deduct expenses “with respect to the use of a dwelling unit which is used by the taxpayer during the taxable year as a residence”
 
-***Congratulations on finishing this lengthy post!!!*** I hope I didn't bore you. To summarize this lengthy post: Your rental RV is a dwelling unit, which in most cases is depreciated as a vehicle. You can't expense your RV if you used it personally for longer than 14 days. However, if you barely used it for personal purposes and most of the time it was rented out, you can go ahead and write that RV off!
+There was a  very important **[court case,](https://www.taxcontroversy.com/wp-content/uploads/2017/08/Jackson-v.-Commissioner-T.C.-Memo.-2014-160.pdf)** where a couple was disallowed RV tax deductions because of the Section 280A rule. A California couple had an insurance brokerage business, where they were selling recreational vehicle policies. They would drive their RV to various rallies and set up a tent where they advertised their insurance services to potential clients. During their rally years, they generated significant business revenue and felt that they were entitled to write off their RVs as a business expense.
 
- And if you still have questions, please contact us. We are RV Tax accountants that work remotely and prepare tax returns for the entire US. 
+The IRS disallowed tax deductions, and the couple took the case to the Tax Court where they lost again. The Tax Court studied Code Sec. 280A(a), and decided that since the couple used RV for personal purposes for over 14 days during the year, Code Sec. 280A prohibited any tax deductions.
 
-Sincerely,
-Daria
+**Step five. Figure out your depreciation methods.**  Stay away from bonus depreciation and Section 179 expense just in case. You can apply those methods of depreciation when you consider your motor home a business vehicle or a hotel. But if the IRS determines that your RV is a residential property, you will be disallowed this type of depreciation. Think of depreciation as a form of audit insurance compared to the likely hassles you face with Section 179 and bonus depreciation.
+
+ 
+
+**Step six.** *Figure out what tax schedule you will use to reflect your rental activity.* RV rental activity may go either on Schedule C or Schedule E depending on your personal involvement. Tax treatments of these schedules are different, and you need to make sure you completely understand the difference between these two schedules.
+
+ 
+
+*[Schedule](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf) C* is used to reflect [material](https://www.accountingtools.com/articles/material-participation.html) involvement in your rental business. You hustle: answer phone calls and messages, clean your RV, advertise it, and deliver your RV to customers. All of it constitutes material participation. And losses from a business with material participation directly offset other income reflected on the first page of Form 1040 (read - immediate tax savings).
+
+ 
+
+*[Schedule](https://www.irs.gov/pub/irs-pdf/f1040se.pdf) E* is used to reflect passive involvement in your rental business. The recreational vehicle by default is considered a dwelling unit and you need to proof to the IRS your material involvement if you want to reflect your rental activity to Schedule C.  With Schedule E activity all you do is passively collect your rental income. For example, you may have a management company do all the work. Passive losses are not always immediately deductible. High-income earners have to defer recognition of loss until they sell their property. For regular people, rental losses are tapped at 25k per year.
+
+*There is also one interesting* [](https://bradfordtaxinstitute.com/Content/Average-Rental-Seven-Days-or-Less.aspx)* [IRS Rule](https://bradfordtaxinstitute.com/Content/Average-Rental-Seven-Days-or-Less.aspx). I*f your average rental period is seven days or less, then your activity is not considered a rental activity. This means your activity is not passive and you can deduct your tax losses in the same year you incurred them without any limitations. However, you still need to prove that you materially participate in the activity
+
+** *If you can prove that you materially participated in renting your RV,*** ***your RV rental activity that meets 30 days or seven days rule, should go on Schedule C. If you determine, that your RV rental activity is passive in nature, it should go on Schedule E, where it will be depreciated as a dwelling unit. The steps below are for Schedule C activity only.***
+
+**Step seven.** *Figure out the tax cost basis of your vehicle.* It is very important to calculate the tax cost basis correctly since the biggest business expense depreciation is based on the cost basis of your vehicle. Not to get into details, but generally, the cost basis of a new rental vehicle is price + sales tax + paperwork fees required to process the sale. But what if you bought an RV and used it personally before renting it out on Outdoorsy? In this case, your tax cost basis is the lower of your purchase cost or Fair Market Value at the moment you started advertising on Outdoorsy. You can figure out the Fair Market Value of your vehicle by browsing the internet and finding a similar vehicle for sale with the same mileage and year made. For example, in 2019 you bought your motor home for 130K, but when you started to rent, its Fair Market Value went down to 110k. In this case, your cost basis is 110K. What if you bought a used RV? Well, for you personally, this RV is new and your cost basis will be price + sales tax + paperwork fees.
+
+**Note: Never Use the Motor Home as an Entertainment Facility**
+
+ 
+
+If you are looking for a way to complicate your motor home deductions, use the motor home for entertainment, either directly or indirectly. Direct use would involve having people over to the motor home for a party. Indirect use would involve driving the motor home to your hunting area.
+
+Tax law gives no deduction for any facility used in connection with entertainment. The IRS defines "[entertainment facility"](https://www.law.cornell.edu/uscode/text/26/274) as any property you own, rent, or use for entertainment. Examples include a yacht, hunting lodge, fishing camp, swimming pool, tennis court, bowling alley, car, airplane, apartment, hotel suite, or home in a vacation resort. Lawmakers carved a transportation facility exception into this no-deduction rule. If you use your motor home primarily (more than 50 percent) for business transportation, you may
+
+• deduct the business part, and
+
+• treat the entertainment part as [personal.](https://www.law.cornell.edu/cfr/text/26/1.274-7)
+
+ 
+
+If you have deductible business entertainment in a motor home that is classified as a lodging facility, you now face the draconian entertainment facility disallowance rules that could simply do away with your motor home [deductions](https://casetext.com/case/ireland-v-commr-of-internal-revenue-1).
+
+I am sure that by now you are pretty confused and wonder if you want to mess with the whole write off thing. Well, there is an IRS rule just for that too and it is called [Minimal Rental Use](https://www.kiplinger.com/article/taxes/t010-c000-s002-5-irs-rules-for-renting-out-your-vacation-home.html). If you rent out your house for 14 days or fewer during the year, you don't have to report the rental income on your tax return. You can’t deduct expenses either.
+
+But what if your RV was rented out for more than 14 days? Can I simply forget schedule C or E and not declare any income? I am sadden to tell you that you should not do that. Outdoorsy is very relaxed when it comes to 1099s. You have to have a very high volume before they send a 1099 form to the IRS. But goCamp issues 1099s on any amount. Outdoorsy could later adopt the same strategy and back issue 1099s for previous years. And if this happens, you and the IRS will have a long and unpleasant conversation about your tax evasion strategies.
+
+**Congratulations on finishing this lengthy post!!!**
+
+ 
+
+I hope I didn't bore you. To summarize this lengthy post: Your rental RV is a dwelling unit with a useful life of a vehicle. You can't expense your rental RV if you used it personally for longer than 14 days due to vacation home rules. Also, don't claim Section 179 and bonus depreciation on your motor home. Instead, stay with MACRS depreciation to avoid extra IRS audit attention. And finally, avoid using your motor home as an entertainment facility.
+
+If you still have questions, please contact us. We are RV Tax accountants that work remotely and prepare tax returns for the entire US.
+
+ 
+
+ 
+
+<!--EndFragment-->
