@@ -1,7 +1,7 @@
 ---
 path: RV Rental Tax
 date: 2021-02-15T21:18:53.324Z
-title: "How to properly write of my Rental RV "
+title: "How to properly write off my Rental RV "
 description: Instructions on how depreciate your RV if you rented it out on such
   sites as Outdoorsy or GoCamp.
 thumbnail: ../assets/rental-rv.jpg
@@ -10,7 +10,7 @@ So, you bought an RV and put it up on Outdoorsy. You made some money, and now it
 
 **Step one**. *Figure out how to classify your motor home* – as a lodging facility or a transportation vehicle. Both the courts and the IRS have had trouble trying to figure out when the motor home is a business vehicle and when it is a business lodging facility. It is our opinion that an RV that was put up on rental websites should be classified as a lodging facility (unless you also use it for business transportation, which overcomplicates things and is a subject of a different conversation)
 
-**Step two.** *Figure out how you will be measuring the business use of your motorhome**.** Will it be miles or days? In ***[Shirley](https://www.courtlistener.com/opinion/4557820/shirley-v-commr/)*** the court wrestled with this question, trying to decide whether the motor home was primarily for lodging or transportation. *The court noted that deciding primary use requires finding a common denominator and then measuring the result*. For example:
+**Step two.** Figure out how you will be measuring the business use of your motorhome**.** Will it be miles or days? In ***[Shirley](https://www.courtlistener.com/opinion/4557820/shirley-v-commr/)*** the court wrestled with this question, trying to decide whether the motor home was primarily for lodging or transportation. *The court noted that deciding primary use requires finding a common denominator and then measuring the result*. For example:
 
 • When you measure the primary use of a vehicle, you track mileage and tally the results. Thus, with 20,000 miles for business and 5,000 personal miles, you have 80 percent business use.
 
