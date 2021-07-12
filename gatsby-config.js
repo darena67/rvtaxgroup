@@ -17,7 +17,7 @@ module.exports = {
         short_name: 'DN',
         description,
         start_url: '/',
-        icon: 'src/images/redeye_logo.png', // This path is relative to the root of the site.
+        icon: 'src/images/rvtaxgroup_logo.png', // This path is relative to the root of the site.
       },
     },
     {
