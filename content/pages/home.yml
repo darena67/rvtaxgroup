@@ -11,7 +11,7 @@ home_services:
     icon: ../assets/accountant.png
   - name: Business Services
     service:
-      - text: Taxes for location independent businesses
+      - text: Taxes for location independent businesses & RV fleets
       - text: Interstate commerce
       - text: Monthly and quarterly filings with States
       - text: Accounting tips for RV mobile business
