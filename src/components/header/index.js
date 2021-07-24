@@ -1,18 +1,28 @@
 import React, { useState } from "react"
-import { Link } from "gatsby"
+import { graphql, Link, useStaticQuery } from 'gatsby';
 import "./header.scss"
 import MenuIcon from "@material-ui/icons/Menu"
 import CloseIcon from "@material-ui/icons/Close"
-import { StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage, StaticImage } from 'gatsby-plugin-image';
 
 const Header = () => {
+  let data = useStaticQuery(graphql`
+    query headerImage {
+			RedEyeLogoImage: file(relativePath: {eq: "logo.png"}) {
+				childImageSharp {
+					gatsbyImageData(height: 60 layout: FIXED, placeholder: BLURRED, backgroundColor: "white")
+				}
+			}
+    }
+  `);
   const [show, setShow] = useState("")
 
   return (
     <header>
       <div className="navbar container">
         <Link to="/">
-          <StaticImage height="60" src="../../images/logo.png" className="navbar__logo" alt="Navigation Logo" />
+          {/*<StaticImage height="60" src="../../images/logo.png" className="navbar__logo" alt="Navigation Logo" />*/}
+          <GatsbyImage image={data.RedEyeLogoImage.childImageSharp.gatsbyImageData} className="footer__logo" alt="Logo" imgStyle={{ objectFit: "contain" }} />
         </Link>
         <MenuIcon className="nav__icon" onClick={() => setShow("show")} />
 
