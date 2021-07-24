@@ -1,7 +1,7 @@
 ---
 path: business travel deductions
 date: 2021-07-24T04:43:33.328Z
-title: Business Travel Expenses for RV Owners and Digital Nomads
+title: Business Travel Expenses for RVers and Digital Nomads
 description: Find out if you can deduct travel expenses if you live and travel
   in your motor home
 thumbnail: ../assets/digital-nomad.jpeg
