@@ -72,7 +72,7 @@ export const pageQuery = graphql`query BlogPage {
     }
   }
   BlogIllustrationImage: file(
-    relativePath: {eq: "illustration/blog-illustration.png"}
+    relativePath: {eq: "illustration/blog.png"}
   ) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, backgroundColor: "white")

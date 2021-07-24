@@ -25,7 +25,7 @@ const AboutPage = () => {
     }
   }
   AboutIllustrationImage: file(
-    relativePath: {eq: "illustration/about-illustration.png"}
+    relativePath: {eq: "illustration/about-us.png"}
   ) {
     childImageSharp {
       gatsbyImageData(width: 1920, layout: CONSTRAINED, placeholder: BLURRED, backgroundColor: "white")
