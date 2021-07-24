@@ -15,7 +15,7 @@ const ContactPage = () => {
         intro
         address
       }
-			ContactIllustration: file(relativePath: {eq: "illustration/contact-illustration.png"}) {
+			ContactIllustration: file(relativePath: {eq: "illustration/contact-us.png"}) {
 				childImageSharp {
 					gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, backgroundColor: "white")
 				}

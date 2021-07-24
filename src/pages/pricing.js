@@ -31,7 +31,7 @@ const PricingPage = () => {
     }
   }
   PricingIllustrationImage: file(
-    relativePath: {eq: "illustration/pricing-illustration.png"}
+    relativePath: {eq: "illustration/pricing.png"}
   ) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH, placeholder: BLURRED, backgroundColor: "white")
