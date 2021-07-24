@@ -1,12 +1,12 @@
 ---
 path: RV tax rules
 date: 2021-06-22T06:57:41.467Z
-title: Can I write off my RV?
+title: Can I write off my RV as business expense?
 description: Learn main rules that govern RV taxation and decide if you can
   write off your RV
-thumbnail: ../assets/recreation-tax.jpg
+thumbnail: ../assets/tax-deduction-vector-id547049830-1200x564.jpg
 ---
-So, you are looking for ways to write off your RV as a business expense. Before getting creative, let’s look into the IRS Code and previous tax court cases. RV taxation is nothing but simple, and before taking that deduction on your return, you need to get a clear idea of what you are getting into. 
+Thinking to write off your RV as a business expense? Before getting creative, let’s look into the IRS Code and previous tax court cases. RV taxation is nothing but simple, and before taking that deduction on your return, you need to get a clear idea of what you are getting into. 
 
 There are a couple of tax rules that cover RV taxation. Checking your tax situation against each rule will help you determine if your RV tax deductions are legit. 
 
@@ -58,6 +58,6 @@ The for-profit motive of the taxpayer should be the main motive. If the taxpayer
 
 Congratulations on getting through such a difficult and boring reading. You must be very motivated!
 
-If you went through all rules and still think that your RV tax deductions are substantiated, please get ready for the new challenge: [IRC Section 280 A. ](https://www.law.cornell.edu/uscode/text/26/280A)This section prevents most of the RV tax deductions. Even if you met every single criterion in this article, the IRS will still disallow your legit rv business expenses if you don’t meet the requirements of the IRC Section 280A.
+If you went through all rules and still think that your RV tax deductions are substantiated, please get ready for the new challenge: **[IRC Section 280 A. ](https://www.law.cornell.edu/uscode/text/26/280A)**This section applies to RVs that are used as lodging units and it prevents most of the RV tax deductions. Even if you met every single criterion in this article, the IRS will still disallow your legit rv business expenses if you don’t meet the requirements of the IRC Section 280A.
 
-This is a topic for another blog and you can find it here.
+This is a topic for another blog and you can find it **[here.](https://rvtaxgroup.com/blog/how-do-you-file-taxes-for-rv-or-trailer-rental/)**
