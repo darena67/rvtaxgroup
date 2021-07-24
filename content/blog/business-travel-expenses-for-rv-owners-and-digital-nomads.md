@@ -1,7 +1,7 @@
 ---
 path: business travel deductions
 date: 2021-07-24T04:43:33.328Z
-title: Business Travel Expenses for RV Owners and Digital Nomads
+title: Business Travel Expenses for RVers and Digital Nomads
 description: Find out if you can deduct travel expenses if you live and travel
   in your motor home
 thumbnail: ../assets/digital-nomad.jpeg
@@ -26,11 +26,6 @@ When you have both an RV and a regular house, you typically may deduct travel bu
 When all you have is your RV and no bricks and sticks home to return to, you satisfy only the first factor and the IRS considers you a transient. For example, you are a photographer, who lives in her RV and who drives around the country in search of beautiful photoshoots. In this case, your travel business expenses are nondeductible.
 
 If all you have is an RV and no house, you may still deduct your travel expenses. For example, if you park your RV and buy an airplane ticket to go somewhere for business purposes. While on a business trip, you pay for a hotel. Here you satisfy the second factor by incurring duplicate living expenses when paying for the hotel. You are also satisfying factor #3 since you didn’t abandon your main home (RV) and intend to come back to it after traveling.
-
-Here is a couple of examples that will help you understand the IRS three factors:
-
-1. You don’t have a regular place of work. Your RV is your only home and currently you are staying in Florida. You agreed to meet your business client in Montana. You drive your RV from Florida to Montana. In this case, you satisfy only the first factor. The IRS considers you a transient and you are not allowed to deduct your mileage, camping fees, or other travel expenses.
-2. You don’t have a regular place of work. Your RV is your only home and currently you are staying in Florida. You agreed to meet your business client in Montana. You book an airplane ticket and fly to Montana. In Montana you pay for the hotel. This time around, you satisfy the second and the third factors. You are duplicating living expenses (factor 2) and not abandoning your main home (RV), since you will fly back to it once your business trip is over (factor 3). Therefore, your tax home remains in Florida and you can deduct business travel expenses for this trip.
 
 A couple of suggestions:
 
