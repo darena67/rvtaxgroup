@@ -12,14 +12,16 @@ Business travel deductions are allowed ONLY if they are *ordinary and necessary*
 
 And what if you don’t work consistently in the same location? For people like you, the IRS provides directions, which help you determine if you actually have a tax home or not. If you don’t have a tax home, the IRS calls you a transient or an itinerant and denies business travel deductions. If you do have a tax home, your business travel deductions are allowed. Here are the IRS instructions to help you figure out your tax home situation:
 
-1. If you have more than one place from which you consistently work, the office where you spend the most time, do the most important things, and make the most money is your tax home.
-2. If you don’t have a regular workplace, then you need to go through the three factors below. Satisfying all three factors means that your personal residence is your tax home, and you are allowed to deduct travel expenses from your residence to another business location. Satisfying two means may have a tax home depending on facts and circumstances. Satisfying only one means you have no tax home, you are transient and can’t deduct business travel expenses.
+1. If you have more than one place from which you consistently work, you need to pick your main place of business among several ones that you use. The office where you spend the most time, do the most important things, and make the most money is your tax home.
+2. If you don’t have a main place place of business, then you need to go through the three factors below. Satisfying all three factors means that your personal residence is your tax home, and you are allowed to deduct travel expenses from your residence to another business location. Satisfying two means may have a tax home depending on facts and circumstances. Satisfying only one means you have no tax home, you are transient and can’t deduct business travel expenses.
 
 **Here are three factors:**
 
 1. Taxpayer performs some work in the vicinity of their main home and uses that home for lodging.
 2. Taxpayer incurs duplicate living expenses while on business travel.
 3. Taxpayer has not abandoned their historical place of lodging and taxpayer has family members currently residing at this main residence or frequently visiting.
+
+If you satisfy all three factors, then your tax home is where you live and you can deduct travel expenses which originated from your personal residence.
 
 When you have both an RV and a regular house, you typically may deduct travel business expenses for your RV. This is because you meet all three factors. For example, you are a photographer who works from her apartment, who drives her RV to photoshoots and always comes back to her apartment.
 
