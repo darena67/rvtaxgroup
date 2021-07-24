@@ -13,15 +13,12 @@ Business travel deductions are allowed ONLY if they are *ordinary and necessary*
 And what if you don’t work consistently in the same location? For people like you, the IRS provides directions, which help you determine if you actually have a tax home or not. If you don’t have a tax home, the IRS calls you a transient or an itinerant and denies business travel deductions. If you do have a tax home, your business travel deductions are allowed. Here are the IRS instructions to help you figure out your tax home situation:
 
 1. If you have more than one place from which you consistently work, the office where you spend the most time, do the most important things, and make the most money is your tax home.
-
 2. If you don’t have a regular workplace, then you need to go through the three factors below. Satisfying all three factors means that your personal residence is your tax home, and you are allowed to deduct travel expenses from your residence to another business location. Satisfying two means may have a tax home depending on facts and circumstances. Satisfying only one means you have no tax home, you are transient and can’t deduct business travel expenses.
 
-Here are three factors:
+**Here are three factors:**
 
 1. Taxpayer performs some work in the vicinity of their main home and uses that home for lodging.
-
 2. Taxpayer incurs duplicate living expenses while on business travel.
-
 3. Taxpayer has not abandoned their historical place of lodging and taxpayer has family members currently residing at this main residence or frequently visiting.
 
 When you have both an RV and a regular house, you typically may deduct travel business expenses for your RV. This is because you meet all three factors. For example, you are a photographer who works from her apartment, who drives her RV to photoshoots and always comes back to her apartment.
@@ -33,13 +30,11 @@ If all you have is an RV and no house, you may still deduct your travel expenses
 Here is a couple of examples that will help you understand the IRS three factors:
 
 1. You don’t have a regular place of work. Your RV is your only home and currently you are staying in Florida. You agreed to meet your business client in Montana. You drive your RV from Florida to Montana. In this case, you satisfy only the first factor. The IRS considers you a transient and you are not allowed to deduct your mileage, camping fees, or other travel expenses.
-
 2. You don’t have a regular place of work. Your RV is your only home and currently you are staying in Florida. You agreed to meet your business client in Montana. You book an airplane ticket and fly to Montana. In Montana you pay for the hotel. This time around, you satisfy the second and the third factors. You are duplicating living expenses (factor 2) and not abandoning your main home (RV), since you will fly back to it once your business trip is over (factor 3). Therefore, your tax home remains in Florida and you can deduct business travel expenses for this trip.
 
 A couple of suggestions:
 
 1. Your business travel deductions will be disallowed unless you keep good records of your travel expenses. Keep a travel log and track all of your travel expenses. In the case of the IRS audit, you will need to provide detailed records of your duplicated living expenses.
-
 2. Beginning in 2018, employees are no longer eligible to deduct business travel expenses. No need to spend time on tracking expenses if can’t deduct them anyway. However, some states still allow employee travel business deductions on their returns. And you most definitely can deduct travel expenses if you are self-employed.
 
 If you still have questions, please contact us for a free consultation.
