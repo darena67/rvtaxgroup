@@ -3,6 +3,7 @@ path: short summary of RV tax treatment
 date: 2021-07-27T18:41:30.175Z
 title: A couple of tax tips for RV owners
 description: Learn how to properly expense your motorhome
+thumbnail: ../assets/tax-tips.jpg
 ---
 There are several ways you can use your RV in business. 
 
@@ -104,7 +105,7 @@ When you use Section 179 expensing on a motor home classified as a means of tran
 
 You won’t like that! (So keep the business use over 50 percent.)
 
-***Takeaways***
+***Takeaways:***
 
 Keep good records to protect your motor home deductions:
 
@@ -112,10 +113,8 @@ Keep good records to protect your motor home deductions:
 
 • Keep a record of every night you use the motor home for personal or business lodging. Make sure you have more than 50 percent business nights.
 
-Don’t claim Section 179 expensing on the motor home. Instead, stay with depreciation to avoid extra IRS audit attention and the possible loss of the Section 179 deduction under the lodging rules.
+• Don’t claim Section 179 expensing on the motor home. Instead, stay with depreciation to avoid extra IRS audit attention and the possible loss of the Section 179 deduction under the lodging rules.
 
-Keep IRC Section 280(f)(4) top of mind. Why? Because this section says that your use of the motor home for overnight business lodging produces business deductions for business travel and that business travel is not subject to the vacation home rules.
+• Keep IRC Section 280(f)(4) top of mind. Why? Because this section says that your use of the motor home for overnight business lodging produces business deductions for business travel and that business travel is not subject to the vacation home rules.
 
 And finally, avoid using your motor home as an entertainment facility.
-
-<!--EndFragment-->
