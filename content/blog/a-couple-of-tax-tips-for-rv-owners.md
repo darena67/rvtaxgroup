@@ -53,7 +53,7 @@ What this means for you: keep IRC Section 280(f)(4) top of mind. Why? Because th
 
 To make sure he was available when he was needed, Dr. Hoye rented a pad (a place to park the motor home) three blocks from the hospital and had a telephone and other utilities installed.
 
-When it was necessary for Dr. Hoye to be nearby after surgery, he drove the motor home to the hospital. In the first year, Dr. Hoye performed 16 major surgeries, three of which required his postsurgery on-call presence. The next year, he performed nine major surgeries and had to stay near the hospital five times. Dr. Hoye also used the motor home to attend medical meetings and seminars, for investment meetings, and or personal and recreational purposes. In one year, his use of the motor home fell into these categories:
+When it was necessary for Dr. Hoye to be nearby after surgery, he drove the motor home to the hospital. In the first year, Dr. Hoye performed 16 major surgeries, three of which required his postsurgery on-call presence. The next year, he performed nine major surgeries and had to stay near the hospital five times. Dr. Hoye also used the motor home to attend medical meetings and seminars, investment meetings, and or personal and recreational purposes. In one year, his use of the motor home fell into these categories:
 
 • 12,000 miles to medical conventions
 
