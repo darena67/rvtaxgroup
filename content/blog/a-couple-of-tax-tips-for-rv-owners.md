@@ -34,19 +34,17 @@ The Tax Court decided in the favor of the taxpayer and ruled that Shirley’s mo
 
 Since there is a chance the IRS may decide that your RV is a lodging facility not eligible for Section 179 expensing, what should you do? Take the easy road: forget Section 179 and bonus depreciation and go for depreciation only.
 
- 
-
 ***Beat the Assertion***
 
- 
-
-In *Jackson,* the court ruled (incorrectly, as we’ll explain) that the taxpayers’ $248,457 Winnebago motor home was a personal residence under the vacation home rules and thus qualified for zero Section 179 and zero depreciation deductions.
+**[In *Jackson*](https://casetext.com/case/jackson-v-commr-72)*,*** the court ruled (incorrectly, as we’ll explain) that the taxpayers’ $248,457 Winnebago motor home was a personal residence under the vacation home rules and thus qualified for zero Section 179 and zero business deductions.
 
 The Jacksons attended RV rallies to identify prospects and sell RV-specific insurance policies to them. The court ruled that the Jacksons used their motor home 2/3 for business and 1/3 for personal purposes. But then (and this is the part that’s wrong) because the Jacksons had more than 14 days of personal use, the court denied the business use as nondeductible use of a personal residence under the vacation home rules.
 
 That’s wrong. IRC Section 280(f)(4) is the reason the court’s decision is wrong. It reads as follows:
 
-*2BOA(f)(4) Coordination With Section 162(a)(2) Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of* a *trade or business (other than the trade orbusiness of renting dwelling units).* Under this section, the taxpayers’ motor home should have been treated as 2/3 business and 1/3 personal residence. Technically, the 14-day rental expenses disallowance rule does not apply to the motor homebecause there was no rental of the motor home.
+***[2BOA(f)(4) ](https://www.law.cornell.edu/uscode/text/26/280A)**Coordination With Section 162(a)(2). Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of* a *trade or business (other than the trade orbusiness of renting dwelling units).*
+
+Under this section, the taxpayers’ motor home should have been treated as 2/3 business and 1/3 personal residence. Technically, the 14-day rental expenses disallowance rule does not apply to the motor home because there was no rental of the motor home.
 
 What this means for you: keep IRC Section 280(f)(4) top of mind. Why? Because this section says that your use of the motor home for overnight business lodging produces business deductions for business travel and that such travel is not subject to the vacation home rules. I should note that the Jacksons never brought this code section to the court’s attention, so that’s likely why the court did not consider it.
 
@@ -68,8 +66,6 @@ On the basis of this mileage, Dr. Hoye claimed 78% business use. The court disal
 
 Again, keep this top of mind: even if you rent out your RV on RV rental websites, IRC Section 280A(f)(4) gives you the travel deduction and makes business travel exempt from the vacation home personal residence disallowance [rules.8](rules.8)
 
-
-
 ***Build* a *Mileage Log***
 
 Don’t take a chance on how the IRS is going to classify your motor home. Keep a mileage log for each trip. In that log, record your mileage according to the law’s required components:
@@ -82,15 +78,11 @@ Don’t take a chance on how the IRS is going to classify your motor home. Keep 
 
 • commuting use
 
- 
-
 Of these four categories, “business use” is the only desirable one. Make sure to note clearly the business reason of each business day. Also, keep this general rule in mind: no log of business use, no deductions.
 
 ***Build* a *Nights-Sleeping Log***
 
 You should also keep a log that classifies each lodging night as investment, business, or personal use. Again, as you would expect, the desirable night is a business night.
-
-
 
 ***Never Use the Motor Home as an Entertainment Facility***
 
@@ -111,8 +103,6 @@ Lawmakers carved a transportation facility exception into this no-deduction rule
 When you use Section 179 expensing on a motor home classified as a means of transportation, keep your business use for each of the years before year 6 at more than 50 percent. If you fail the “more than 50 percent” test during this period, you have to report and pay taxes at ordinary income rates on the recapture of some of your prior depreciation [deductions.19](deductions.19)
 
 You won’t like that! (So keep the business use over 50 percent.)
-
- 
 
 *Takeaways*
 
