@@ -65,7 +65,7 @@ When it was necessary for Dr. Hoye to be nearby after surgery, he drove the moto
 
 • 4,000 miles for personal pleasure 
 
-On the basis of this mileage, Dr. Hoye claimed 78% business use. The court disallowed the investment seminar {which today would not qualify in any circumstance, as investment seminars are no longer tax-deductible). The court cited *International Artists* and *Schwartz* where the use of an asset for both business and personal use qualified for depreciation deductions to the extent of its business use. And the court granted Dr. Hoye the deductions for the business use of his motor [](home.17)home. Please note, personal use of the RV didn’t disqualify the doctor from all deductions based on vacation rules, such as it did in Jackson.
+On the basis of this mileage, Dr. Hoye claimed 78% business use. The court disallowed the investment seminar {which today would not qualify in any circumstance, as investment seminars are no longer tax-deductible). The court cited *International Artists* and *Schwartz* where the use of an asset for both business and personal use qualified for depreciation deductions to the extent of its business use. And the court granted Dr. Hoye the deductions for the business use of his motor [](home.17)home. Please note, personal use of the RV didn’t disqualify the doctor from all deductions based on vacation home rules, such as it did in Jackson.
 
 Again, keep this top of mind: even if you rent out your RV on RV rental websites, IRC Section 280A(f)(4) gives you the travel deduction and makes business travel exempt from the vacation home personal residence disallowance [](rules.8)rules.
 
@@ -91,7 +91,7 @@ You should also keep a log that classifies each lodging night as investment, bus
 
 If you are looking for a way to complicate your motor home deductions, use the motor home for entertainment, either directly or indirectly. Direct use would involve having people over to the motor home for a party. Indirect use would involve driving the motor home to your hunting area.
 
-Tax law gives no **deduction** for any facility used in connection with entertainment.10
+Tax law gives **no** **deduction** for any facility used in connection with entertainment.10
 
 Lawmakers carved a transportation facility exception into this no-deduction rule. If you use your motor home primarily (more than 50 percent) for business transportation, you may
 
