@@ -42,15 +42,15 @@ The Jacksons attended RV rallies to identify prospects and sell RV-specific insu
 
 That’s wrong. IRC Section 280(f)(4) is the reason the court’s decision is wrong. It reads as follows:
 
-***[2BOA(f)(4) ](https://www.law.cornell.edu/uscode/text/26/280A)**Coordination With Section 162(a)(2). Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of* a *trade or business (other than the trade orbusiness of renting dwelling units).*
+***[2BOA(f)(4) ](https://www.law.cornell.edu/uscode/text/26/280A)**Coordination With Section 162(a)(2). Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of* a *trade or business (other than the trade or business of renting dwelling units).*
 
 Under this section, the taxpayers’ motor home should have been treated as 2/3 business and 1/3 personal residence. Technically, the 14-day rental expenses disallowance rule does not apply to the motor home because there was no rental of the motor home.
 
 What this means for you: keep IRC Section 280(f)(4) top of mind. Why? Because this section says that your use of the motor home for overnight business lodging produces business deductions for business travel and that such travel is not subject to the vacation home rules. I should note that the Jacksons never brought this code section to the court’s attention, so that’s likely why the court did not consider it.
 
-In Hoye’s, the court allowed business deductions, even though there was some personal use involved. Dr. Hoye’s medical practice required his postsurgical availability at the hospital for some of his cases. He was the expert. Other physicians, respiratory staff, and nurses were not familiar with or trained in a certain thoracic and ontological surgery. Thus, in these cases, Dr. Hoye had to be immediately available 24 hours a day for up to five days after the surgery. Where was Dr. Hoye going to stay for these five days? He considered renting an apartment in a nearby town, but the town was too far away. He considered the local motel, but sometimes it had no vacancy. His solution: a $192,215 motor home.
+**[In Hoye’s,](https://www.leagle.com/decision/1990139658jetcm133811132)** the court allowed business deductions, even though there was some personal use involved. Dr. Hoye’s medical practice required his postsurgical availability at the hospital for some of his cases. He was the expert. Other physicians, respiratory staff, and nurses were not familiar with or trained in a certain thoracic and oncological surgery. Thus, in these cases, Dr. Hoye had to be immediately available 24 hours a day for up to five days after the surgery. Where was Dr. Hoye going to stay for these five days? He considered renting an apartment in a nearby town, but the town was too far away. He considered the local motel, but sometimes it had no vacancy. His solution: a $192,215 motor home.
 
-To make sure he was available when he was needed, Dr. Hoye rented a pad {a place to park the motor home) three blocks from the hospital and had a telephone and other utilities installed.
+To make sure he was available when he was needed, Dr. Hoye rented a pad (a place to park the motor home) three blocks from the hospital and had a telephone and other utilities installed.
 
 When it was necessary for Dr. Hoye to be nearby after surgery, he drove the motor home to the hospital. In the first year, Dr. Hoye performed 16 major surgeries, three of which required his postsurgery on-call presence. The next year, he performed nine major surgeries and had to stay near the hospital five times. Dr. Hoye also used the motor home to attend medical meetings and seminars, for investment meetings, and or personal and recreational purposes. In one year, his use of the motor home fell into these categories:
 
@@ -62,9 +62,9 @@ When it was necessary for Dr. Hoye to be nearby after surgery, he drove the moto
 
 • 4,000 miles for personal pleasure 
 
-On the basis of this mileage, Dr. Hoye claimed 78% business use. The court disallowed the investment seminar {which today would not qualify in any circumstance, as investment seminars are no longer tax deductible). The court cited *lntemational Artists* and *Schwartz* where the use of an asset for both business and personal use qualified for depreciation deductions to the extent of its business use.16 And the court granted Dr. Hoye the deductions for the business use of his motor [home.17](home.17) Please note, personal use of the RV didn’t disqualify the doctor from all deductions based on vacation rules, such as it did in Jackson.
+On the basis of this mileage, Dr. Hoye claimed 78% business use. The court disallowed the investment seminar {which today would not qualify in any circumstance, as investment seminars are no longer tax-deductible). The court cited *International Artists* and *Schwartz* where the use of an asset for both business and personal use qualified for depreciation deductions to the extent of its business use. And the court granted Dr. Hoye the deductions for the business use of his motor [](home.17)home. Please note, personal use of the RV didn’t disqualify the doctor from all deductions based on vacation rules, such as it did in Jackson.
 
-Again, keep this top of mind: even if you rent out your RV on RV rental websites, IRC Section 280A(f)(4) gives you the travel deduction and makes business travel exempt from the vacation home personal residence disallowance [rules.8](rules.8)
+Again, keep this top of mind: even if you rent out your RV on RV rental websites, IRC Section 280A(f)(4) gives you the travel deduction and makes business travel exempt from the vacation home personal residence disallowance [](rules.8)rules.
 
 ***Build* a *Mileage Log***
 
@@ -92,19 +92,19 @@ Tax law gives no **deduction** for any facility used in connection with entertai
 
 Lawmakers carved a transportation facility exception into this no-deduction rule. If you use your motor home primarily (more than 50 percent) for business transportation, you may
 
-• deduct the business part, 13 and
+• deduct the business part and
 
-• treat the entertainment part as [personal.14](personal.14)
+• treat the entertainment part as [](personal.14)personal.
 
  But if you use your motor home for entertainment, you are treading on shaky ground.
 
-*Keep Business Use over 50 Percent*
+***Keep Business Use over 50 Percent***
 
-When you use Section 179 expensing on a motor home classified as a means of transportation, keep your business use for each of the years before year 6 at more than 50 percent. If you fail the “more than 50 percent” test during this period, you have to report and pay taxes at ordinary income rates on the recapture of some of your prior depreciation [deductions.19](deductions.19)
+When you use Section 179 expensing on a motor home classified as a means of transportation, keep your business use for each of the years before year 6 at more than 50 percent. If you fail the “more than 50 percent” test during this period, you have to report and pay taxes at ordinary income rates on the recapture of some of your prior depreciation [](deductions.19)deductions.
 
 You won’t like that! (So keep the business use over 50 percent.)
 
-*Takeaways*
+***Takeaways***
 
 Keep good records to protect your motor home deductions:
 
