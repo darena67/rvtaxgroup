@@ -31,19 +31,19 @@ However, the IRS disallowed the deduction. Their argument was that there was no 
 
 The Tax Court decided in the favor of the taxpayer and ruled that Shirley’s motor homes are section 179 property and allowed the deduction. However, we can see the logic of the IRS. According to some recent court cases, even one day of personal use can kick you out of transient basis exclusion.
 
-**[In *Evans*](https://casetext.com/case/evans-v-commr-26)***,* the court granted the Section 179 deduction for a motor home the taxpayers used to transport the taxpayers’ motorcycles to motocross competitions where the taxpayers advertised their residential home and commercial construction business. In this case, the court ruled that the motor home was “primarily’’ a transportation vehicle and not a lodging facility. Thus, it was eligible for the Section 179 deduction.
+***[In Evans](https://casetext.com/case/evans-v-commr-26)***, the court granted the Section 179 deduction for a motor home the taxpayers used to transport the taxpayers’ motorcycles to motocross competitions where the taxpayers advertised their residential home and commercial construction business. In this case, the court ruled that the motor home was “primarily’’ a transportation vehicle and not a lodging facility. Thus, it was eligible for the Section 179 deduction.
 
 Since there is a chance the IRS may decide that your RV is a lodging facility not eligible for Section 179 expensing, what should you do? Take the easy road: forget Section 179 and bonus depreciation and go for depreciation only.
 
 ***Beat the Assertion***
 
-**[In *Jackson*](https://casetext.com/case/jackson-v-commr-72)*,*** the court ruled (incorrectly, as we’ll explain) that the taxpayers’ $248,457 Winnebago motor home was a personal residence under the vacation home rules and thus qualified for zero Section 179 and zero business deductions.
+**[In Jackson](https://casetext.com/case/jackson-v-commr-72)*,*** the court ruled (incorrectly, as we’ll explain) that the taxpayers’ $248,457 Winnebago motor home was a personal residence under the vacation home rules and thus qualified for zero Section 179 and zero business deductions.
 
 The Jacksons attended RV rallies to identify prospects and sell RV-specific insurance policies to them. The court ruled that the Jacksons used their motor home 2/3 for business and 1/3 for personal purposes. But then (and this is the part that’s wrong) because the Jacksons had more than 14 days of personal use, the court denied the business use as nondeductible use of a personal residence under the vacation home rules.
 
 That’s wrong. IRC Section 280(f)(4) is the reason the court’s decision is wrong. It reads as follows:
 
-***[2BOA(f)(4) ](https://www.law.cornell.edu/uscode/text/26/280A)**Coordination With Section 162(a)(2). Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of* a *trade or business (other than the trade or business of renting dwelling units).*
+**\*[2BOA(f)(4) ](https://www.law.cornell.edu/uscode/text/26/280A)**Coordination With Section 162(a)(2). Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of *a* trade or business (other than the trade or business of renting dwelling units).*
 
 Under this section, the taxpayers’ motor home should have been treated as 2/3 business and 1/3 personal residence. Technically, the 14-day rental expenses disallowance rule does not apply to the motor home because there was no rental of the motor home.
 
