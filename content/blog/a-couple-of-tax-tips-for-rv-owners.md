@@ -23,11 +23,11 @@ However, there are always exceptions. You can prove them otherwise as long as yo
 
  *Here are my two cents on the tax treatment of your RV:*
 
- ***No Section 179 and no Bonus Depreciation***
+***No Section 179 and no Bonus Depreciation***
 
 Section 179 and Bonus Depreciation of a motor home can put you in the crosshairs of the IRS, and that’s not where you want to be. As mentioned above, the IRS tends to consider RV a lodging facility and according to the tax law, lodging facilities cannot take the 179 deduction or bonus depreciation unless they meet a transient basis exclusion. Transient basis means that most of your RV rentals are less than 30 days. The classic example of a transient lodging facility is a hotel.
 
-**[In Shirley,](https://scholar.google.com/scholar_case?case=2648147509062590340&q=Shirley+v.+Comm%27r,+2004+T.C.+Memo.+188&hl=en&as_sdt=2006&as_vis=1)** taxpayers had to fight to get their 179 deduction. The taxpayers owned a fleet of rental RVs, which they sold or rented to the public on a transient basis. Knowing about the transient basis rules, Shirley took the 179 deduction.
+**[In Shirley,](https://scholar.google.com/scholar_case?case=2648147509062590340&q=Shirley+v.+Comm%27r,+2004+T.C.+Memo.+188&hl=en&as_sdt=2006&as_vis=1)** taxpayers had to fight to get their 179 deduction. The taxpayers owned a fleet of rental RVs, which they sold or rented to the public on a transient basis. Aware of the transient basis rules, Shirley took the 179 deduction.
 
 However, the IRS disallowed the deduction. Their argument was that there was no “transient basis” and RVs were used solely for lodging.The IRS argued that taxpayers’ customers could have gotten themselves a standard hotel room while on business trips. But instead, they opted out for comfortable lodgings in the form of a recreational vehicle. 
 
