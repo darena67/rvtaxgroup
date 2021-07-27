@@ -17,7 +17,9 @@ In each of these situations, the tax treatment of your RV will be different. 
 
 When the IRS looks at your tax return, their first step will be to determine if your motorhome qualifies as primarily for lodging or transportation.
 
-Most of the time, the IRS considers RV [a lodging facility.](https://www.bradfordtaxinstitute.com/Endnotes/GCM_39443.pdf)  Here is their reasoning: “As a general rule, if for business purposes, the motorhome is used for lodging at least as many days as it is used for transportation, we believe that the predominant use is for lodging.  This is particularly true ..when the taxpayer spends an extended time away from home at a temporary worksite and the transportation mileage is very low”. However, there are always exceptions. It's not always the case, it's more of a default position. You can prove them otherwise as long as you know what you are doing and can provide solid tax records.
+Most of the time, the IRS considers RV [a lodging facility.](https://www.bradfordtaxinstitute.com/Endnotes/GCM_39443.pdf)  Here is their reasoning: “As a general rule, if for business purposes, the motorhome is used for lodging at least as many days as it is used for transportation, we believe that the predominant use is for lodging.  This is particularly true ..when the taxpayer spends an extended time away from home at a temporary worksite and the transportation mileage is very low”.
+
+However, there are always exceptions. You can prove them otherwise as long as you know what you are doing and can provide solid tax records.
 
  *Here are my two cents on the tax treatment of your RV:*
 
