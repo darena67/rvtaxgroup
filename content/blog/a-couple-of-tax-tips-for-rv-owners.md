@@ -31,7 +31,7 @@ Section 179 and Bonus Depreciation of a motor home can put you in the crosshairs
 
 However, the IRS disallowed the deduction. Their argument was that there was no “transient basis” and RVs were used solely for lodging.The IRS argued that taxpayers’ customers could have gotten themselves a standard hotel room while on business trips. But instead, they opted out for comfortable lodgings in the form of a recreational vehicle. 
 
-The Tax Court decided in the favor of the taxpayer and ruled that Shirley’s motor homes are section 179 property and allowed the deduction. However, we can see the logic of the IRS. According to some recent court cases, even one day of personal use can kick you out of transient basis exclusion.
+The Tax Court decided in the favor of the taxpayer and ruled that Shirley’s motor homes are section 179 property and allowed the deduction. However, we can see the logic of the IRS. In addition, according to some recent court cases, even one day of personal use can kick you out of transient basis exclusion.
 
 ***[In Evans](https://casetext.com/case/evans-v-commr-26)***, the court granted the Section 179 deduction for a motor home the taxpayers used to transport the taxpayers’ motorcycles to motocross competitions where the taxpayers advertised their residential home and commercial construction business. In this case, the court ruled that the motor home was “primarily’’ a transportation vehicle and not a lodging facility. Thus, it was eligible for the Section 179 deduction.
 
