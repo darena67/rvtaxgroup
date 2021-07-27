@@ -6,7 +6,7 @@ description: Find out if you can deduct travel expenses if you live and travel
   in your motor home
 thumbnail: ../assets/digital-nomad.jpeg
 ---
-You don’t live in a sticks and bricks home with a typical 9-5 lifestyle like many of us. You identify yourself as a digital nomad, wonderer, or an RV owner. You have the freedom to roam and be in any state you want at any time. What does this mean for your business travel deductions? The answer is: it’s complicated.
+You don’t live in a sticks and bricks home with a typical 9-5 lifestyle like many of us. You identify yourself as a digital nomad, wanderer, or an RVer. You have the freedom to roam and be in any state you want at any time. What does this mean for your business travel deductions? The answer is: it’s complicated.
 
 Business travel deductions are allowed ONLY if they are *ordinary and necessary* and ONLY *if you travel away from your tax home in connection with an existing business*. And surprise, surprise! Your tax home is not always your personal residence. Tax home is a place where you maintain your place of work. According to **[the IRS](https://www.irs.gov/taxtopics/tc511):** “*Generally, your tax home is your regular place of business or post of duty, regardless of where you maintain your family home. It includes the entire city or general area in which your business or work is located.”*
 
@@ -21,13 +21,17 @@ And what if you don’t work consistently in the same location? For people like 
 2. Taxpayer incurs duplicate living expenses while on business travel.
 3. Taxpayer has not abandoned their historical place of lodging and taxpayer has family members currently residing at this main residence or frequently visiting.
 
-If you satisfy all three factors, then your tax home is where you live and you can deduct travel expenses which originated from your personal residence.
+If you satisfy all three factors, then your tax home is where you live and you can deduct travel expenses that originated from your personal residence.
 
-When you have both an RV and a regular house, you typically may deduct travel business expenses for your RV. This is because you meet all three factors. For example, you are a photographer who works from her apartment, who drives her RV to photoshoots and always comes back to her apartment.
+When you have both an RV and a regular house, you typically may deduct travel business expenses for your RV. This is because you meet all three factors. For example, you are a photographer who works from her apartment, who drives her RV to photoshoots, and always comes back to her apartment.
 
 When all you have is your RV and no bricks and sticks home to return to, you satisfy only the first factor and the IRS considers you a transient. For example, you are a photographer, who lives in her RV and who drives around the country in search of beautiful photoshoots. In this case, your travel business expenses are nondeductible.
 
 If all you have is an RV and no house, you may still deduct your travel expenses. For example, if you park your RV and buy an airplane ticket to go somewhere for business purposes. While on a business trip, you pay for a hotel. Here you satisfy the second factor by incurring duplicate living expenses when paying for the hotel. You are also satisfying factor #3 since you didn’t abandon your main home (RV) and intend to come back to it after traveling.
+
+So, what exactly can you deduct under travel expenses?
+
+You can deduct gas, repairs, campground fees, tolls. You could also take depreciation on your RV. But here you have to be careful. And it is better to go with regular MACRs and not to take 179 Section or Bonus depreciation? Why? You can read up on it **[here.](https://rvtaxgroup.com/blog/a-couple-of-tax-tips-for-rv-owners/)**
 
 A couple of suggestions:
 
