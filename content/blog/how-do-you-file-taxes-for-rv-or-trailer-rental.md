@@ -8,9 +8,9 @@ thumbnail: ../assets/rental-rv.jpg
 ---
 So, you bought an RV and put it up on Outdoorsy. You made some money, and now it is time to file your tax return. Maybe you are secretly hoping to write off some stuff too. Let’s take a look at how it is done and what can be deducted. Since RV taxation is not simple, we have to look at several tax court cases and IRS rules. This blog is just a short overview and does not cover all scenarios. Therefore, it may not be applicable to your situation and it is only meant to be a starting point of your tax research.
 
-**Step one**. *Figure out how to classify your motor home* – as a lodging facility or a transportation vehicle. Both the courts and the IRS have had trouble trying to figure out when the motor home is a business vehicle and when it is a business lodging facility. It is our opinion that an RV that was put up on rental websites should be classified as a lodging facility (unless you also use it for business transportation, which overcomplicates things and is a subject of a different conversation)
+**Step one**. *Figure out how to classify your motor home* – as a lodging facility or a transportation vehicle. Both the courts and the IRS have had trouble trying to figure out when the motor home is a business vehicle and when it is a business lodging facility. An RV that was put up on rental websites should be classified as a lodging facility (unless you also use it for business transportation, which overcomplicates things and is a subject of a different conversation)
 
-**Step two.** Figure out how you will be measuring the business use of your motorhome. Will it be miles or days? In ***[Shirley](https://www.courtlistener.com/opinion/4557820/shirley-v-commr/)*** the court wrestled with this question, trying to decide whether the motor home was primarily for lodging or transportation. *The court noted that deciding primary use requires finding a common denominator and then measuring the result*. For example:
+**Step two.** Figure out how you will be measuring the business use of your motorhome. Since your RV's is a rental residence, the business use should be measured in days. In ***[Shirley](https://www.courtlistener.com/opinion/4557820/shirley-v-commr/)*** the court wrestled with this question, trying to decide whether the motor home was primarily for lodging or transportation. *The court noted that deciding primary use requires finding a common denominator and then measuring the result*. For example:
 
 • When you measure the primary use of a vehicle, you track mileage and tally the results. Thus, with 20,000 miles for business and 5,000 personal miles, you have 80 percent business use.
 
@@ -20,7 +20,7 @@ Our suggestion is to track business miles just in case but use business days for
 
 After that add additional expenses such as gas, auto insurance, repairs, and so on. Again, allocate these additional expenses between personal and business usage whether based on days or mileage.
 
-**Step three.** *Read up on transient use of home.* When the average annual rental period for your home is less than 30 days, your home is treated as a hotel for tax purposes.
+**Step three.** *Read up on transient use of home.* When the average annual rental period for your home is less than 30 days, your home is treated as a hotel for tax purposes. 
 
 Example. You rent the motor home during the year for 161 days to 15 different renters. Your average rental period for the year is 10.73 days. You are renting to transients. This makes your motor home a hotel for tax purposes. Personal property in hotels qualifies for Section 179 expensing and the whole business activity is classified as active and goes on Schedule C, where you can deduct your losses immediately.  
 
