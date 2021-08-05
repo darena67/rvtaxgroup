@@ -16,9 +16,9 @@ So, you bought an RV and put it up on Outdoorsy. You made some money, and now it
 
 • When you track the primary use of a lodging facility, you track the number of business nights and personal nights.
 
-Our suggestion is to track business miles just in case but use business days for expenses and income allocation.  Figure out business use of motorhome based on days and then depreciate your RV as a rental unit. However, use 5 years depreciation life.
+You should track business and personal days for expenses and income allocation.  Figure out business use of motorhome based on days and then depreciate your RV as a rental unit. However, use 5 years depreciation life.
 
-After that add additional expenses such as gas, auto insurance, repairs, and so on. Again, allocate these additional expenses between personal and business usage whether based on days or mileage.
+After that add additional expenses such as gas, auto insurance, repairs, and so on. Allocate these additional expenses between personal and business usage based on mileage.
 
 **Step three.** *Read up on transient use of home.* When the average annual rental period for your home is less than 30 days, your home is treated as a hotel for tax purposes. 
 
@@ -26,20 +26,20 @@ Example. You rent the motor home during the year for 161 days to 15 different re
 
 However, **[Section 280A(f)(1)(B)](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=26-USC-551373876-1977192054&term_occur=3&term_src=title:26:subtitle:A:chapter:1:subchapter:B:part:IX:section:280A)** states that by using your motor home exclusively as a hotel, you avoid having it deemed a residential rental property under the vacation home rules. One day of personal use can kick you out of the hotel treatment and your motor home will turn into a residential rental under the vacation home rules. Section 179 is not allowed for residential rental property.
 
-**Step four**. Read up on the **[vacation home rules](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2921&context=dlj)**. If the taxpayer uses a vehicle for personal needs for the greater of 14 days or 10% of total days rented, the IRS considers the motor home a personal residence and this is where vacation home rules kick in. 
+**Step four**. Read up on the **[vacation home rules](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2921&context=dlj)**. If the taxpayer uses a vehicle for personal needs for the greater of 14 days or 10% of total days rented, the IRS considers the motor home a personal residence, and vacation home rules kick in:
 
 * If you rent your RV for more than 15 days, and your RV qualifies as a residence, your deductions will be limited to the rental income ( read: no immediate tax deduction on your 1040).
-* If your RV does not qualify as a residence, then you can prorate the RV expenses based on a ratio. The ratio that you will use is number of rental days/total days used for business and personal purposes. In this situation, deductions for expenses aren’t limited by your rental income.
+* If your RV does not qualify as a residence, then you can prorate the RV expenses based on a business/personal days ratio mentioned above. In this situation, deductions for expenses aren’t limited by your rental income. But they may be limited due to material participation rules (read below).
 
 There was a  very important **[court case,](https://www.taxcontroversy.com/wp-content/uploads/2017/08/Jackson-v.-Commissioner-T.C.-Memo.-2014-160.pdf)** where a couple was disallowed RV tax deductions because of the Section 280A rule. A California couple had an insurance brokerage business, where they were selling recreational vehicle policies. They would drive their RV to various rallies and set up a tent where they advertised their insurance services to potential clients. During their rally years, they generated significant business revenue and felt that they were entitled to write off their RVs as a business expense.
 
-The IRS disallowed tax deductions, and the couple took the case to the Tax Court where they lost again. The Tax Court studied Code Sec. 280A(a) and ruled with the IRS. The tax payers could possibly allocate their expenses based on business/personal days, but the problem was that they could not give a definite number for business days. In the eyes of the law, even such an innocent activity as watching a TV in RV while being on business, will make the whole day personal.
+The IRS disallowed their tax deductions, and the couple took the case to the Tax Court where they lost again. The Tax Court studied Code Sec. 280A(a) and ruled that the taxpayers could possibly allocate their expenses based on business/personal days, but the problem was that they could not provide a definite number of business days. In the eyes of the law, even such an innocent activity as watching a TV in RV while being on business will make the whole day personal. No business days means no business deductions. 
 
-The court noted: "The question is then whether petitioners used the RV for personal purposes for more than 14 days. A taxpayer shall be deemed to have used a dwelling unit for personal purposes for a day if, for any part of such day, the unit is used \*\** for personal purposes by the taxpayer. Our finding above that petitioners had some personal use of the RV is fatal to their position. Any personal use, including watching TV in the RV, makes the entire day a personal day. Petitioners therefore used the RV as a dwelling unit for personal purposes for more than 14 days, and section 280A prohibits them from taking any deductions with respect to the RV"
+The court noted: "The question is then whether petitioners used the RV for personal purposes for more than 14 days. A taxpayer shall be deemed to have used a dwelling unit for personal purposes for a day if, for any part of such day, the unit is used \*\** for personal purposes by the taxpayer. Our finding above that petitioners had some personal use of the RV is fatal to their position. Any personal use, including watching TV in the RV, makes the entire day a personal day. Petitioners therefore used the RV as a dwelling unit for personal purposes for more than 14 days, and section 280A prohibits them from taking any deductions with respect to the RV".
 
-This is a very important court case. And the lesson learned here is this: make sure your business and personal days are devided and properly recorded. 
+This is a very important court case. And the lesson learned here is this: make sure your business and personal days are divided. Read up on personal use of the residential property and do not approach your RV when it is being rented. 
 
-**Step five.** *Figure out your depreciation methods.*  Stay away from bonus depreciation and Section 179 expense just in case. You can apply those methods of depreciation when you consider your motor home a business vehicle or a hotel. But if the IRS determines that your RV is a residential property just like in step 4,  you will be disallowed this type of depreciation. Think of depreciation as a form of audit insurance compared to the likely hassles you face with Section 179 and bonus depreciation.
+**Step five.** *Figure out your depreciation methods.*  Stay away from bonus depreciation and Section 179 expense just in case. You can apply those methods of depreciation when you consider your motor home a business vehicle or a hotel. But if the IRS determines that your RV is a residential property,  you will be disallowed this type of depreciation. Think of depreciation as a form of audit insurance compared to the likely hassles you face with Section 179 and bonus depreciation.
 
 **Step six.** *Figure out what tax schedule you will use to reflect your rental activity.* RV rental activity may go either on Schedule C or Schedule E depending on your personal involvement. Tax treatments of these schedules are different, and you need to make sure you completely understand the difference between these two schedules.
 
@@ -63,6 +63,6 @@ But what if your RV was rented out for more than 14 days? Can I simply forget sc
 
 **Congratulations on finishing this lengthy post!!!**
 
-I hope I didn't bore you. To summarize this lengthy post: Your rental RV is a dwelling unit with a useful life of a vehicle. You can't expense your rental RV if you used it personally for longer than 14 days due to vacation home rules. Also, don't claim Section 179 and bonus depreciation on your motor home. Instead, stay with MACRS depreciation to avoid extra IRS audit attention. 
+I hope I didn't bore you. To summarize this lengthy post: Your rental RV is a dwelling unit with a useful life of a vehicle. You will have a hard time deducting expenses if you can't prove a record of business days. Also, don't claim Section 179 and bonus depreciation on your motor home. Instead, stay with MACRS depreciation to avoid extra IRS audit attention. 
 
 If you still have questions, please contact us. We are RV Tax accountants that work remotely and prepare tax returns for the entire US.
