@@ -1,7 +1,7 @@
 ---
 path: Section 179 for business RV
 date: 2020-03-12T05:02:52.651Z
-title: Transient rules, Business mileage and Section 179 deduction
+title: Transient rules, business mileage and Section 179 deduction
 description: Find out if you can take Section 179 deduction on your business motor home
 thumbnail: ../assets/transinient.jpg
 ---
