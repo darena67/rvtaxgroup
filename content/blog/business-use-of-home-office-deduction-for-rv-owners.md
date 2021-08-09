@@ -1,7 +1,7 @@
 ---
 path: Business Use of Home for RVers
 date: 2021-08-09T22:32:34.440Z
-title: Business use of home office deduction for RV owners
+title: Home office deduction for RV owners
 description: Learn about main rules of home office deduction and decide if it is
   worth taking it on your tax return
 thumbnail: ../assets/home-office-tax-deduction.png
