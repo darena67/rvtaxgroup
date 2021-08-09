@@ -18,7 +18,7 @@ How can you apply the Mills case to your RV situation?
 
 The IRS recognized that the exclusive use rule can be difficult for owners of small homes and they came up with what we call the "de minimis” personal use. This means that you can set up your office in an area that you must walkthrough for personal reasons. For example, you can deduct the home office even though you have to pass through it to get to the bathroom. Think of the de-minimus rule as a walk-through rule. If you simply pass through the area, you can use it for the office space. If you use this area to eat or watch TV, then you cannot deduct it.
 
-Most likely, the Dundorfs also used the countertop personal activities such as eating and socializing. But what if you have a storage cabinet where you store all of your business files and supplies. You cannot use it for any other purposes. You cannot eat on it. You can not sit on it. It just stands there.
+The tax court denied the Dundorfs's deduction because it was obvious that the countertop could be used for other personal activities. For example, the taxpayers could easily use the countertop for eating or socializing. But what if you have a business storage cabinet, which you cannot use for anything besides business. You cannot eat on it. You can not sit on it. You use it only to store your business files and tools.
 
 If you pull a table to it and do your work there, then hypothetically you can deduct the business use of space taken by the cabinet. The cabinet is exclusively used for your business. And you are allowed to pass through the area due because of the “de-minimus” rules.
 
