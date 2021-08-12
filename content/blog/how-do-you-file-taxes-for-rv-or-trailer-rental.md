@@ -44,7 +44,7 @@ The IRS disallowed their tax deductions, and the couple took the case to the Tax
 
 The court noted: "The question is then whether petitioners used the RV for personal purposes for more than 14 days. A taxpayer shall be deemed to have used a dwelling unit for personal purposes for a day if, for any part of such day, the unit is used \*\** for personal purposes by the taxpayer. Our finding above that petitioners had some personal use of the RV is fatal to their position. Any personal use, including watching TV in the RV, makes the entire day a personal day. Petitioners therefore used the RV as a dwelling unit for personal purposes for more than 14 days, and section 280A prohibits them from taking any deductions with respect to the RV".
 
-This is a very important court case. And the lesson learned here is this: make sure your business and personal days are divided. Read up on personal use of the residential property and do not approach your RV when it is being rented. 
+This is a very important court case. And the lesson learned here is this: make sure your business and personal days are divided. Read up on what constitutes personal use of the residential property and act accordinngly. 
 
 **Step five.** *Figure out your depreciation methods.*  Stay away from bonus depreciation and Section 179 expense just in case. You can apply those methods of depreciation when you consider your motor home a business vehicle or a hotel. But if the IRS determines that your RV is a residential property,  you will be disallowed this type of depreciation. Think of depreciation as a form of audit insurance compared to the likely hassles you face with Section 179 and bonus depreciation.
 
