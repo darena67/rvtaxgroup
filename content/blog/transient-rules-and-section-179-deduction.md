@@ -39,6 +39,5 @@ Follow these steps to avoid **[personal use:](https://www.bradfordtaxinstitute.c
 2. Do not let your relatives use it.
 3. Do not allow any person to rent it for less than a fair rental rate.
 4. Do not swap your RV for other arrangements.
-5. Just don't approach it
 
 Transient rules and business mileage may allow you to benefit from the Section 179 deduction. However, Section 179 has many issues: You may face a recapture and pay taxes in the next year. Or the IRS may get nitpicky and disallow the section 179 deduction because they feel that you didn't comply with the transient rules and your RV is mere a lodging unit. It is our opinion that if you want to be IRS audit safe, you should avoid taking the Section 179 deduction at all and stick with traditional MACRs.
