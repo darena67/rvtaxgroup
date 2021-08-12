@@ -54,7 +54,7 @@ This is a very important court case. And the lesson learned here is this: make s
 
 *[Schedule](https://www.irs.gov/pub/irs-pdf/f1040se.pdf) E* is used to reflect passive involvement in your rental business. The recreational vehicle by default is considered a dwelling unit and you need to prove to the IRS your material involvement if you want to reflect your rental activity to Schedule C.  With Schedule E activity all you do is passively collect your rental income. For example, you may have a management company do all the work. Passive losses are not always immediately deductible. High-income earners have to defer recognition of loss until they sell their property. For regular people, rental losses are tapped at 25k per year.
 
-*There is also one interesting* [](https://bradfordtaxinstitute.com/Content/Average-Rental-Seven-Days-or-Less.aspx)* [IRS Rule](https://bradfordtaxinstitute.com/Content/Average-Rental-Seven-Days-or-Less.aspx).** If your average rental period is seven days or less, then your activity is not considered a rental activity. This means your activity is not passive and you can deduct your tax losses in the same year you incurred them without any limitations. However, you still need to prove that you materially participate in the activity. There are no immediate tax deductions without material participation. 
+*There is also one interesting* [](https://bradfordtaxinstitute.com/Content/Average-Rental-Seven-Days-or-Less.aspx)* [IRS Rule](https://bradfordtaxinstitute.com/Content/Average-Rental-Seven-Days-or-Less.aspx).\*\* If your average rental period is seven days or less, then your activity is not considered a rental activity. This means your activity is not passive and you can deduct your tax losses in the same year you incurred them without any limitations. However, you still need to prove that you materially participate in the activity. There are no immediate tax deductions without material participation. 
 
 If you can prove that you materially participated in renting your RV and your rental activity meets the seven days rule, you should put your activity on Schedule C. If you determine, that your RV rental activity is passive in nature, it should go on Schedule E.
 
@@ -66,6 +66,6 @@ I am sure that by now you are pretty confused and wonder if you want to mess wit
 
 **Congratulations on finishing this lengthy post!!!**
 
-I hope I didn't bore you. To summarize this lengthy post: Your rental RV is a dwelling unit with a useful life of a vehicle. You will have a hard time deducting expenses if you can't prove a record of business days. Also, don't claim Section 179 and bonus depreciation on your motor home. Instead, stay with MACRS depreciation to avoid extra IRS audit attention. 
+I hope I didn't bore you. To summarize this lengthy post: Your rental RV is a dwelling unit with a useful life of a vehicle. You will have a hard time deducting expenses if you can't prove a solid record of rental days. Also, don't claim Section 179 and bonus depreciation on your motor home. Instead, stay with MACRS depreciation to avoid extra IRS audit attention. 
 
 If you still have questions, please contact us. We are RV Tax accountants that work remotely and prepare tax returns for the entire US.
