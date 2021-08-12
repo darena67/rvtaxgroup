@@ -10,15 +10,13 @@ So, you bought an RV and put it up on Outdoorsy. You made some money, and now it
 
 **Step one**. *Figure out how to classify your motor home* – as a lodging facility or a transportation vehicle. Both the courts and the IRS have had trouble trying to figure out when the motor home is a business vehicle and when it is a business lodging facility. An RV that was put up on rental websites should be classified as a lodging facility (unless you also use it for business transportation, which overcomplicates things and is a subject of a different conversation)
 
-**Step two.** *Figure out how you will be measuring the business use of your motorhome.* Since your RV's is a rental residence, the business use should be measured in days. In ***[Shirley](https://www.courtlistener.com/opinion/4557820/shirley-v-commr/)*** the court wrestled with this question, trying to decide whether the motor home was primarily for lodging or transportation. *The court noted that deciding primary use requires finding a common denominator and then measuring the result*. For example:
+**Step two.** *Figure out how you will be measuring the business use of your motor home.* Since your RV's is a rental residence, the business use should be measured in days. In ***[Shirley](https://www.courtlistener.com/opinion/4557820/shirley-v-commr/)*** the court wrestled with this question, trying to decide whether the motor home was primarily for lodging or transportation. *The court noted that deciding primary use requires finding a common denominator and then measuring the result*. For example:
 
 • When you measure the primary use of a vehicle, you track mileage and tally the results. Thus, with 20,000 miles for business and 5,000 personal miles, you have 80 percent business use.
 
 • When you track the primary use of a lodging facility, you track the number of business nights and personal nights.
 
-You should track business and personal days for expenses and income allocation.  Figure out business use of motorhome based on days and then depreciate your RV as a rental unit. However, use 5 years depreciation life.
-
-After that add additional expenses such as gas, auto insurance, repairs, and so on. Allocate these additional expenses between personal and business usage based on mileage.
+When dealing with a rental RV, you should track business and personal days for expenses and income allocation.  We will talk about this later in step four. 
 
 **Step three.** *Read up on transient use of home.* When the average annual rental period for your home is less than 30 days, your home is treated as a hotel for tax purposes. 
 
@@ -26,10 +24,13 @@ Example. You rent the motor home during the year for 161 days to 15 different re
 
 However, **[Section 280A(f)(1)(B)](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=26-USC-551373876-1977192054&term_occur=3&term_src=title:26:subtitle:A:chapter:1:subchapter:B:part:IX:section:280A)** states that by using your motor home exclusively as a hotel, you avoid having it deemed a residential rental property under the vacation home rules. One day of personal use can kick you out of the hotel treatment and your motor home will turn into a residential rental under the vacation home rules. Section 179 is not allowed for residential rental property.
 
-**Step four**. Read up on the **[vacation home rules](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2921&context=dlj)**. If the taxpayer uses a vehicle for personal needs for the greater of 14 days or 10% of total days rented, the IRS considers the motor home a personal residence, and vacation home rules kick in:
+**Step four**. Read up on the **[vacation home rules](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2921&context=dlj)**. These are important! 
 
-* If you rent your RV for more than 15 days, and your RV qualifies as a residence, your deductions will be limited to the rental income ( read: no immediate tax deduction on your 1040).
-* If your RV does not qualify as a residence, then you can prorate the RV expenses based on a business/personal days ratio mentioned above. In this situation, deductions for expenses aren’t limited by your rental income. But they may be limited due to material participation rules (read below).
+* You rent your RV for more than 14 days **AND** you also use your RV personally for greater than 14 days or 10% of days the property was rented to other parties. Your RV is now considered a 280A vacation home and your deductions will be limited to your rental income. Unused deductions can be carried over to future years. 
+
+  In this case, you will need to learn about the proper order of deducting rental expenses. First, you deduct direct rental expenses (booking fees, gas, advertising, cleaning fees between renters). These expenses are 100% deductible. Then you deduct expenses for operating the RV (for example, RV insurance). You have to prorate these expenses and days that the RV was held out for rent, but was not actually rented, are not factored into the calculation. And lastly, repairs and maintenance. You allocate general repairs and maintenance similar to the above items. However, if a repair is needed due to the actions of a specific tenant then those expenses can be 100% deductible.
+* You rent your RV for more than 14 days **BUT** you dont use your RV personally for greater than 14 days or 10% of days the property was rented to other parties. Your RV is considered a rental property. In this situation, deductions for expenses aren’t limited by your rental income. But they may be limited due to material participation rules (read below).
+* You rent your RV for less than 14 days, then your expenses are non-deductible and your rental income should not be reported on your 1040. Your RV is considered a personal use residence.
 
 There was a  very important **[court case,](https://www.taxcontroversy.com/wp-content/uploads/2017/08/Jackson-v.-Commissioner-T.C.-Memo.-2014-160.pdf)** where a couple was disallowed RV tax deductions because of the Section 280A rule. A California couple had an insurance brokerage business, where they were selling recreational vehicle policies. They would drive their RV to various rallies and set up a tent where they advertised their insurance services to potential clients. During their rally years, they generated significant business revenue and felt that they were entitled to write off their RVs as a business expense.
 
