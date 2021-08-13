@@ -17,6 +17,6 @@ The IRS disallowed tax deductions, and the couple took the case to the Tax Court
 
 My theory is that the couple could have avoided such a harsh outcome if they were able to prove that they used the RV personally than 14 days. Or, if they pointed the Tax Court to 280A(f)(4), which states that "Nothing in this section shall be construed to disallow any deduction allowable under section **[162(a)(2)](https://www.law.cornell.edu/uscode/text/26/162)**. Section 162(a)2 allows deduction of traveling expenses while away from home on business.
 
-**Wait, Section 280A(f)(4) allows travel expenses?**
+**Wait, what! Section 280A(f)(4) allows travel expenses?**
 
 You are correct. When you are in travel status,  you can deduct 100 percent of the costs of getting to and from your business destination when the primary purpose of your trip is business.  This means that you should be able to deduct gas, and take depreciation on your RV as a hotel.
