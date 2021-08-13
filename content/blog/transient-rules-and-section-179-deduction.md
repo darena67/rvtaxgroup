@@ -42,7 +42,7 @@ Follow these steps to avoid **[personal use:](https://www.bradfordtaxinstitute.c
 
 **2. Try to use limit personal use of your RV to 14 days or less when using it as a vehicle.**
 
-Unless you prove to the IRS that the main purpose of your RV is transportation, they will treat it as a dwelling unit. All they have to do is to apply the personal use test from Section 280A to label your RV as a residence. And according to Section 280A(a), you are not allowed to take tax deductions on a personal residence. 
+Unless you prove to the IRS that the main purpose of your RV is transportation, they will treat it as a dwelling unit. All they have to do is to apply the personal use test from Section 280A to label your RV as a residence. And according to Section 280A(a), you are not allowed to take tax business deductions on a personal residence ( with a  couple of exceptions that are not applicable to RVs anyway).
 
 Here is the personal use test: Your RV becomes a personal residence when you use it personally for 14 days or more than 10% of all rental days, whatever is greater. This means that if you used your RV personally for more than 15 days, not only the IRS will disallow Section 179 deduction, but they can disallow other valid deductions. 
 
