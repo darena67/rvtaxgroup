@@ -31,7 +31,7 @@ Section 179 expense is available for any new used or new property that you purch
 
 **Important Rules:** 
 
-**Avoid ANY personal use when renting to transients**.                                                                                                 The court has held that one day of personal use will turn your RV rental activity into a residential rental activity under vacation home rules. Residential rental triggers the recapture of your **[Section 179 deduction](https://www.bradfordtaxinstitute.com/Endnotes/TC_Memo_2006-33.pdf).** 
+**1. Avoid ANY personal use when renting to transients**.                                                                                                 The court has held that one day of personal use will turn your RV rental activity into a residential rental activity under vacation home rules. Residential rental triggers the recapture of your **[Section 179 deduction](https://www.bradfordtaxinstitute.com/Endnotes/TC_Memo_2006-33.pdf).** 
 
 Follow these steps to avoid **[personal use:](https://www.bradfordtaxinstitute.com/Endnotes/Prop_Reg_1_280A-1e.pdf)**
 
@@ -40,13 +40,13 @@ Follow these steps to avoid **[personal use:](https://www.bradfordtaxinstitute.c
 3. Do not allow any person to rent it for less than a fair rental rate.
 4. Do not swap your RV for other arrangements.
 
-**Try to use limit personal use of your RV to 14 days or less when using it as a vehicle.**
+**2. Try to use limit personal use of your RV to 14 days or less when using it as a vehicle.**
 
-Unless you prove to the IRS that the main purpose of your RV is transportation, they will treat it as a dwelling unit. All they have to do is to apply the personal use test from Section 280A to label your RV as a residence. And according to Section 280A(a), you are not allowed to take tax deductions for a residence. 
+Unless you prove to the IRS that the main purpose of your RV is transportation, they will treat it as a dwelling unit. All they have to do is to apply the personal use test from Section 280A to label your RV as a residence. And according to Section 280A(a), you are not allowed to take tax deductions on a personal residence. 
 
-An RV becomes a personal residence when the tax-payer uses it personally for longer than 14 days or more than 10% of all rental days. This means that if you used your RV personally for more than 15 days, not only the IRS will disallow Section 179 deduction, but they can disallow other valid deductions. 
+Here is the personal use test: Your RV becomes a personal residence when you use it personally for 14 days or more than 10% of all rental days, whatever is greater. This means that if you used your RV personally for more than 15 days, not only the IRS will disallow Section 179 deduction, but they can disallow other valid deductions. 
 
-There was a **[court case,](https://www.taxcontroversy.com/wp-content/uploads/2017/08/Jackson-v.-Commissioner-T.C.-Memo.-2014-160.pdf)** where taxpayers' business deductions were disallowed because they did not separate between business and personal days. It was obvious that they used their RV for business, but they also used RV personally and there was no division between personal and business usage. In the eyes of the IRS, even such an innocent activity as watching a TV in RV while being on business will make the whole day personal. And if each day is a personal day, business tax deductions are not allowed.   
+There was a **[court case,](https://www.taxcontroversy.com/wp-content/uploads/2017/08/Jackson-v.-Commissioner-T.C.-Memo.-2014-160.pdf)** where taxpayers' business deductions were disallowed because they did not separate between business and personal days. They obviously used their RV for business, but they also used RV personally and there was no division between personal and business usage. In the eyes of the IRS, even such an innocent activity as watching TV in an RV while being on business will make the whole day personal. And if you used your RV for personal reasons for more than 14 days, your RV is a personal residence and all of your business tax deductions are disallowed.
 
 The moral of the story: properly document your business usage. Do not use your RV personally while doing business. Use your RV for personal reasons for less than 15 days just in case.
 
