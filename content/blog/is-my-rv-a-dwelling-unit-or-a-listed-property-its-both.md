@@ -1,7 +1,7 @@
 ---
 path: 280A RV rule
 date: 2020-02-05T21:30:27.175Z
-title: 280A and RVs
+title: Section 280A and RVs
 description: Learn main topics about RV taxation here.
 thumbnail: ../assets/280a-rv-tax.jpg
 ---
