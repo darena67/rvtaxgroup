@@ -9,17 +9,13 @@ When you were buying your RV, your dealer told you it was a dwelling unit and yo
 
 In **[Shirley](https://www.leagle.com/decision/200422888aftcm1401197),** the Tax Court came up with a "primary function test." If a taxpayer has to get a hotel in the absence of an RV, then his/her RV qualifies as a lodging unit. If she/he has to get a car in the absence of an RV, then the RV should be classified as a vehicle. From the IRS standpoint, if the taxpayer spends more time lodging in the RV rather than driving, then the RV should be classified as a lodging facility. 
 
-Inherently, the IRS tends to classify RVs as dwelling units. It's not good news for people who legitimately use their RVs for business purposes. This is because of Section 280A(a). In plain terms, that Section states that there should be no business deduction for a dwelling unit used as a residence. Your RV becomes a residence if you use it for personal needs for the greater of 14 days or 10% of the total days rented. 
+Inherently, the IRS tends to classify RVs as dwelling units. It's not good news for people who legitimately use their RVs for business purposes. This is because of Section 280A. In plain terms, that Section states that there should be no business deduction for a dwelling unit used as a personal residence. The only time when you can get some write-off is when you use a part of the residency **exclusively** for businesses. Your RV becomes a residence if you use it for personal needs for the greater of 14 days or 10% of the total days rented. 
 
 There was a **[court case,](https://caselaw.findlaw.com/us-9th-circuit/1764989.html)** where a couple was disallowed RV tax deductions because of the Section 280A rule. A California couple had an insurance brokerage business, where they were selling recreational vehicle policies. They would drive their RV to various rallies and set up a tent where they advertised their insurance services to potential clients. During their rally years, they generated significant business revenue and felt that they were entitled to write off their RVs as a business expense.
 
-The IRS disallowed tax deductions, and the couple took the case to the Tax Court where they lost again. The Tax Court studied Code Sec. 280A(a), and claimed that even such innocent activity as watching TV constitutes personal use. The couple didn't provide 
+The IRS disallowed tax deductions, and the couple took the case to the Tax Court where they lost again. The Tax Court studied Code Sec. 280A, and claimed that even such an innocent activity as watching TV constitutes personal use. The couple used the RV personally for more than 14 days and that made their RV a personal residence.  The court stated that the couple did not use any portion of their RV exclusively for business as it is required in Section 280A(c). Therefore, no deduction for the expenses allocated to its business use was allowed.
 
- since the couple used RV for personal purposes for over 14 days during the year, Code Sec. 280A prohibited any tax deductions.
-
-Code Sec. 280A(c) does contain several exceptions to the general disallowance rule. One of them is an exception where the taxpayer is allowed to allocate costs to a certain portion of the dwelling unit. But for the exception to apply, a portion of the RV must be exclusively used on a regular basis as the principal place of business or as a place to meet or deal with clients. Since the couple did not use any portion of their RV exclusively for business, the court disallowed all their deductions.
-
-The moral of the story: no matter how much you drive your RV, it is still considered a dwelling unit. And if you want the IRS to allow your tax deductions, you need to remember the 14-day rule.
+My assumption is that the couple could have avoided such a hard outcome if they were able to prove that they used the RV personally than 14 days. 
 
 **There are a couple of other tax rules to consider.**
 
