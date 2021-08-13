@@ -32,7 +32,7 @@ However, **[Section 280A(f)(1)(B)](https://www.law.cornell.edu/definitions/uscod
 
    The next step is to deduct expenses for operating the RV (for example, RV insurance). You have to prorate these expenses the IRS way (see above).  Days that the RV was held out for rent, but was not actually rented, are not factored into the calculation. 
 
-   After that, repairs and maintenance. You allocate general repairs and maintenance similar to the above items. However, if a repair is needed due to the actions of a specific tenant then those expenses can be 100% deductible.
+   After that, repairs and maintenance. You allocate general repairs and maintenance similar to the RV insurance. However, if a repair is needed due to the actions of a specific renter then those expenses can be 100% deductible.
 
    And finally, depreciation - the biggest expense! In the case of the vacation home property, you are allowed to deduct depreciation to the amount of rental income minus the deductions for items above.
 2. *You rent your RV for more than 15 days **BUT** you don't use your RV personally for greater than 14 days or 10% of days the property was rented to other parties*. Your RV is considered a regular rental property. In this situation, deductions for expenses aren’t limited by your rental income. But they may be limited due to material participation rules (read below).
