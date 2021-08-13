@@ -1,7 +1,7 @@
 ---
 path: 280A RV rule
 date: 2020-02-05T21:30:27.175Z
-title: Is my RV a dwelling unit or a listed property? It's both!
+title: 280A and RVs
 description: Learn main topics about RV taxation here.
 thumbnail: ../assets/280a-rv-tax.jpg
 ---
@@ -17,18 +17,6 @@ The IRS disallowed tax deductions, and the couple took the case to the Tax Court
 
 My theory is that the couple could have avoided such a harsh outcome if they were able to prove that they used the RV personally than 14 days. Or, if they pointed the Tax Court to 280A(f)(4), which states that "Nothing in this section shall be construed to disallow any deduction allowable under section **[162(a)(2)](https://www.law.cornell.edu/uscode/text/26/162)**. Section 162(a)2 allows deduction of traveling expenses while away from home on business.
 
-**But wait, if Section 280A allows travelling expenses, then may be some of the RV** 
+**Wait, Section 280A(f)(4) allows travel expenses?**
 
-**And the last tax rule that you may need to consider**. Surprise, Surprise! Apart from being a dwelling unit, your RV is also considered a** [listed property](https://corporatefinanceinstitute.com/resources/knowledge/accounting/listed-property/)**. This means that you need to know basic depreciation rules.
-
-There are three categories of listed property:
-
-(1)   passenger automobiles;
-
-(2)   any other property used as a means of transportation; and
-
-(3)    property of a type that (a) is generally used for purposes of entertainment, recreation, or amusement, and (b) is not used exclusively at the taxpayer’s regular business establishment or in connection with the taxpayer’s principal trade or business
-
-RVs are listed property that fall within category two above. However, many RVs also fall within the third category. If the RV is considered a business asset, the RV owner is afforded the ability to depreciate the asset over its useful life. Additionally, the taxpayer would be permitted to deduct expenses associated with operating the RV for its business purpose. Under the listed property provisions, the asset must be used more than 50% for its business purpose, otherwise, the listed property limitations apply.
-
-To summarize this article, before deciding to write off your RV, you need to make sure you didn’t break the 14- day rule. If everything looks good, you need to decide whether your involvement in the RV business is material or passive in nature. And after you decide on this, you can start reading up on depreciation rules for listed property. I have a blog just on this topic and you can read it **[here.](https://rvtaxgroup.com/blog/can-i-write-off-my-rv/)**
+You are correct. When you are in travel status,  you can deduct 100 percent of the costs of getting to and from your business destination when the primary purpose of your trip is business.  This means that you should be able to deduct gas, and take depreciation on your RV as a hotel.
