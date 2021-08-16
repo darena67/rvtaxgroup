@@ -21,14 +21,6 @@ This exception is called the transient rule. A lodging unit is used on a transie
 
 Hypothetically, you can also use your RV as a "take it with you business lodging facility". As long as you don't stay at the same location for 30 days, you may claim that you used your RV as a hotel. For example, you use your RV for business lodging in Florida for twenty days and then you move to Colorado and stay in the RV while on business for another 15 days. However, this strategy only works if a) your RV is not your tax home (you may need to read up on home rules **[here](https://rvtaxgroup.com/blog/business-travel-expenses-for-rv-owners-and-digital-nomads/) )** b) you don't use your RV for personal purposes at all. And this approach is risky.  Previously, the IRS claimed that "a taxpayer, who uses a motor home as lodging while away from home retains the ownership of motor home and is in no way a transient to respect with that motor home". 
 
-**Suggestions:**
-
-If you treat your RV as a vehicle, your mileage log substantiates your business use. Make sure to document your business and personal miles since the business / personal mileage ratio is how you will allocate your expenses. No mileage records mean no business deductions. 
-
-If you treat your RV as a hotel, you should track business and personal days. Days of non use do not count. For example, the motor home sits in your driveway unused for 75 days in a row. You do not consider the 75 days of nonuse in your tax calculations.
-
-IF you treat your RV as "a take it with me business lodging", make sure to establish that the motor home is used on a transient basis for the year. Your most audit-proof assertion of transient use is on the basis of days of use. This means that you need a record of each night's stay that shows where you were and why you were there. To make sure you have your motor home business use wired for deductions, make this one additional note not required by the travel rules: For each night of business use, make a note about whether it is a transient or a non-transient night. 
-
 **Important Rules:** 
 
 **1. Avoid ANY personal use when renting to transients**.                                                                                                 The court has held that one day of personal use will turn your RV rental activity into a residential rental activity under vacation home rules. Residential rental triggers the recapture of your **[Section 179 deduction](https://www.bradfordtaxinstitute.com/Endnotes/TC_Memo_2006-33.pdf).** 
@@ -40,15 +32,21 @@ Follow these steps to avoid **[personal use:](https://www.bradfordtaxinstitute.c
 3. Do not allow any person to rent it for less than a fair rental rate.
 4. Do not swap your RV for other arrangements.
 
-**2. Limit personal use of your RV to 14 days or less when using it as a vehicle (just in case).**
+**2. Remember about the previous court cases.**
 
-Unless you prove to the IRS that the main purpose of your RV is transportation, they will treat it as a dwelling unit. All they have to do is to apply the personal use test from Section 280A to label your RV as a residence. And according to Section 280A(a), you are not allowed to take tax business deductions on personal residence ( with a  couple of exceptions that are not applicable to RVs anyway).
+Unless you prove to the IRS that the main purpose of your RV is transportation, they will treat it as a dwelling unit. All they have to do is to apply the personal use test from Section 280A to label your RV as a residence. And according to Section 280A(a), you are not allowed to take tax business deductions on personal residence (unless you prove that you used a part of your RV exclusively for business).
 
 Here is the personal use test: Your RV becomes a personal residence when you use it personally the greater of 14 days or 10% of days rented. This means that if you used your RV personally for more than 15 days, not only the IRS will disallow Section 179 deduction, but they can take away other valid business tax deductions. 
 
-There was a **[court case,](https://www.taxcontroversy.com/wp-content/uploads/2017/08/Jackson-v.-Commissioner-T.C.-Memo.-2014-160.pdf)** where taxpayers' business deductions were disallowed because they did not separate between business and personal days. They obviously used their RV for general income, but they also used it personally and there was no division between personal and business usage. In the eyes of the IRS, even such an innocent activity as watching TV in an RV while being on business will make the whole day personal. And if you use your RV personally for more than 14 days, your RV becomes a personal residence, and all of your business tax deductions get disallowed.
+There was a **[court case,](https://www.taxcontroversy.com/wp-content/uploads/2017/08/Jackson-v.-Commissioner-T.C.-Memo.-2014-160.pdf)** where taxpayers' business deductions were disallowed because they did not separate between business and personal days. They obviously used their RV for generating income, but they also used it personally and there was no division between personal and business usage. In the eyes of the Tax Court, even such an innocent activity as watching TV in an RV while being on business makes the whole day personal. In the absence of records, the Court decided that the couple used their RV personally for more than 14 days. This made their RV a personal residence. And a personal residence is not allowed any business tax deductions unless the taxpayer can prove that a part of the residence was EXCLUSIVELY used for business. The couple could not prove that either and all business deductions were disallowed. 
 
-The moral of the story:  If you are eager to take the Section 179 deduction, properly document your business and personal usage. If you use your RV in the hotel capacity, do not use your RV personally at all. If you use your RV as transportation, do not use your RV for personal reasons for more than 14 days.
+**Suggestions:**
+
+If you treat your RV as a vehicle, your mileage log substantiates your business use. Make sure to document your business and personal miles since the business / personal mileage ratio is how you will allocate your expenses. No mileage records mean no business deductions. 
+
+If you treat your RV as a hotel, you should track business and personal days. Days of non use do not count. For example, the motor home sits in your driveway unused for 75 days in a row. You do not consider the 75 days of nonuse in your tax calculations.
+
+IF you treat your RV as "a take it with me business lodging", make sure to establish that the motor home is used on a transient basis for the year. Your most audit-proof assertion of transient use is on the basis of days of use. This means that you need a record of each night's stay that shows where you were and why you were there. To make sure you have your motor home business use wired for deductions, make this one additional note not required by the travel rules: For each night of business use, make a note about whether it is a transient or a non-transient night. 
 
 Already tired of all tax rules? Here is a simple (but radical) solution for you. Get rid of the bathroom in your RV! Who needs it anyway in the age of remote work and Zoom meetings? The IRS defines a dwelling unit as a property that "contains basic living accommodations including sleeping space, toilet, and cooking facilities." Without a toilet, your RV becomes a transportation vehicle.  And as I mentioned before, you are allowed to take the Section 179 deduction on vehicles. 
 
