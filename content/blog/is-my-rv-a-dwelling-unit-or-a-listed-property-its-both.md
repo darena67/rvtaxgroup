@@ -21,14 +21,14 @@ I believe that the couple could have avoided such a harsh outcome if they proved
 
 You are correct. Even if the IRS deems your RV as a residence, you can still deduct 100 percent of the costs of getting to and from your business destination when the primary purpose of your trip is business.  This means that you should be able to deduct gas, take the depreciation, and expense some repairs and maintenance. There are two ways to take travel deductions on your RV. The first way is a standard deduction and the second one is the actual deduction. There is a lot of information on standard and actual deductions on the internet and we won't go in-depth about this topic here. The only thing which is worth mentioning is that you can't switch to the actual deduction if in the first year of use you took the standard deduction. This prevents you from taking a huge depreciation expense in the first year and after that switching to the standard deduction. No double-dipping is allowed.
 
+
+
 **Ather famous RV case: Dr. Hoye vs Commissioner.**
 
 In this [court case](https://www.courtlistener.com/opinion/4816747/hoye-v-commissioner/) the IRS allowed almost all RV tax deductions. Dr. Hoye's medical practice required his availability at the hospital for some of his cases. Instead of renting an apartment, he bought a motorhome. When it was necessary, the doctor drove his RV to the hospital and stayed in it after a performed surgery. He also used his RV to attend medical conferences, investment meetings, and personal purposes. He tracked his usage by miles. On the basis of the mileage, Dr. Hoye claimed 78 percent business use. The Tax Court granted the doctor all of his deductions besides the investor meetings use. 
 
 **Suggestions**
 
-*Build a Mileage Log.* Don't take a chance on how the IRS is going to classify your motor home. Keep a mileage log for each trip. In that log, record your mileage according to: 1. Investment use. 2. Business use. 3. Personal use. 4. Commuting use.
+*Keep a Mileage Log.* Don't risk how the IRS will classify your motor home. Take matters into your own hands and have a mileage log for each trip. Record your mileage in regards to: 1. Investment use. 2. Business use. 3. Personal use. 4. Commuting use. Of course, out of these categories, the business use is what you want to have the most
 
-Of these four categories, "business use" is the only desirable one. 
-
-*Build a Nights Sleeping Log.* You should also keep a log that classifies each lodging night as investment, business, or personal use. Again, as you should expect, the desirable night is a business night. It is also important that you read up on tax home and transient status. You can read about it **[here](https://rvtaxgroup.com/blog/business-travel-expenses-for-rv-owners-and-digital-nomads/)**. If your RV is your only place of residence, then most likely your travel deductions will be disallowed.
+*Keep a Nights Sleeping Log.* You should also keep a log that classifies each lodging night as investment, business, or personal use. Again, as you should expect, the desirable night is a business night. It is also important that you read up on tax home and transient status. You can read about it **[here](https://rvtaxgroup.com/blog/business-travel-expenses-for-rv-owners-and-digital-nomads/)**. If your RV is your only place of residence, then most likely your travel deductions will be disallowed.
