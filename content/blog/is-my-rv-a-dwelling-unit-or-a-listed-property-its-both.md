@@ -29,6 +29,6 @@ In this [court case](https://www.courtlistener.com/opinion/4816747/hoye-v-commis
 
 **Suggestions**
 
-*Keep a Mileage Log.* Don't risk how the IRS will classify your motor home. Take matters into your own hands and have a mileage log for each trip. Record your mileage in regards to: 1. Investment use. 2. Business use. 3. Personal use. 4. Commuting use. Of course, out of these categories, the business use is what you want to have the most
+*Keep a Mileage Log.* Don't risk how the IRS may classify your motor home. Take matters into your own hands and have a mileage log for each of your trips. Record your mileage in regards to: 1. Investment use. 2. Business use. 3. Personal use. 4. Commuting use. Of course, out of these categories, the business use is what you want to have the most.
 
 *Keep a Nights Sleeping Log.* In addition, you should keep records that classify each night in your RV as investment, business, or personal use. Again, as you should expect, the desirable night is a business night. It is also important that you read up on tax home and transient status. You can read about it **[here](https://rvtaxgroup.com/blog/business-travel-expenses-for-rv-owners-and-digital-nomads/)**. If your RV is your only place of residence, then most likely your travel deductions will be disallowed.
