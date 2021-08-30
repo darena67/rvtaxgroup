@@ -7,7 +7,7 @@ thumbnail: ../assets/280a-rv-tax.jpg
 ---
 When you were buying your RV, your dealer told you it was a home, and you could write off your taxes and interest. But what if you primarily use it in business? Can you write it off? And if yes, in what capacity? A house or a vehicle?
 
-In** [Shirley](https://www.leagle.com/decision/200422888aftcm1401197),** the Tax Court came up with a "primary function test." If a taxpayer has to get a hotel in the absence of an RV, then their RV qualifies as a lodging unit. If they have to get a car in the absence of an RV, then the RV should be classified as a vehicle. From the IRS standpoint, if the taxpayer spends more time lodging in the RV than driving, then the RV should be classified as a lodging facility.
+In **[Shirley](https://www.leagle.com/decision/200422888aftcm1401197)**, the Tax Court came up with a "primary function test." If a taxpayer has to get a hotel in the absence of an RV, then their RV qualifies as a lodging unit. If they have to get a car in the absence of an RV, then the RV should be classified as a vehicle. From the IRS standpoint, if the taxpayer spends more time lodging in the RV than driving, then the RV should be classified as a lodging facility.
 
 Inherently, the IRS tends to classify RVs as dwelling units. This is not good news for people who legitimately use their RVs for business purposes due to Section 280A. In plain terms, that section states that there should be no business deduction for a dwelling unit used as a personal residence. You can only get some write-off when you use a part of your residency exclusively for businesses. Your RV becomes a personal residence when during the year you use it for personal needs for the greater of 14 days or 10% of the total days rented.
 
@@ -29,9 +29,9 @@ In this **[court case](https://www.courtlistener.com/opinion/4816747/hoye-v-comm
 
 Keep a Mileage Log. Don't risk how the IRS may classify your motor home. Take matters into your own hands and have a mileage log for each of your trips. Record your mileage in regards to: 
 
-1. Investment use.\
-2. Business use.\
-3. Personal use.\
+1. Investment use.
+2. Business use.
+3. Personal use.
 4. Commuting use. 
 
 Of course, the business use is what you want to have the most out of these categories.
