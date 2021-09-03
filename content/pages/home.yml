@@ -9,7 +9,7 @@ home_services:
       - text: "Employee expense reports "
       - text: Year End W2's, 1099's, Sales Tax Filing
     icon: ../assets/accountant.png
-  - name: Business Services
+  - name: Business Tax
     service:
       - text: Taxes for location-independent businesses and RV campgrounds
       - text: Interstate commerce
@@ -17,7 +17,7 @@ home_services:
       - text: Accounting tips for RV mobile business
       - text: RVs and campound fees as business expenses
     icon: ../assets/court.png
-  - name: Personal Services
+  - name: Individual Tax
     service:
       - text: Taxes for digital nomads and RV owners
       - text: Estimated tax payments and withholdings
