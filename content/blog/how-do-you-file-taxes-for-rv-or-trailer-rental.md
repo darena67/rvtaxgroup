@@ -22,7 +22,7 @@ When dealing with a rental RV, you should track business and personal days for e
 
 However, **[Section 280A(f)(1)(B)](https://www.law.cornell.edu/definitions/uscode.php?width=840&height=800&iframe=true&def_id=26-USC-551373876-1977192054&term_occur=3&term_src=title:26:subtitle:A:chapter:1:subchapter:B:part:IX:section:280A)** states that by using your motor home exclusively as a hotel, you avoid having it deemed a residential rental property under the vacation home rules. One day of personal use can kick you out of the hotel treatment and your motor home will turn into a residential rental under the vacation home rules. Section 179 is not allowed for residential rental property.
 
-**Step four**. Read up on the **[vacation home rules](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2921&context=dlj)**. These are important! 
+**Step four**. Read up on the **[vacation home rules](https://www.kiplinger.com/article/taxes/t010-c000-s002-5-irs-rules-for-renting-out-your-vacation-home.html)**. These are important! 
 
 1. *You rent your RV for more than 15 days **AND** you also use your RV personally for greater than 14 days or 10% of days the property was rented to other parties*. Your RV is considered a 280A vacation home and your deductions are limited to your rental income. Unused deductions can be carried over to offset future rental income.
 
